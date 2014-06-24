@@ -1,21 +1,22 @@
 'use strict';
 
-var sugar = require('object-sugar');
+var mongoose = require('mongoose');
+var sugar = require('mongoose-sugar');
 
-var schema = sugar.schema();
+var schema = sugar.schema(mongoose);
 
 var datasets = require('./config').datasets;
 
 
 datasets.forEach(function(name) {
     schema(exports, name).fields({
-        gid: String,
+        gid: {type: String, required: true},
         languages: Object // {language: {name: ..., description: ...}}
     });
 });
 
 schema(exports, 'registrations').fields({
-    gid: String,
+    gid: {type: String, required: true},
     'class': String,
     registrationDate: Date,
     group: String,

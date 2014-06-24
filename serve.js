@@ -3,16 +3,13 @@
 
 require('log-timestamp');
 
-var path = require('path');
-
 var async = require('async');
 var errorHandler = require('errorhandler');
 var express = require('express');
-var sugar = require('object-sugar');
+var sugar = require('mongoose-sugar');
 
 var config = require('./config');
 var api = require('./api');
-var loadData = require('./load_data');
 
 
 if(require.main === module) {
@@ -23,21 +20,13 @@ module.exports = main;
 function main() {
     handleExit();
 
-    // start server before sync
-    serve(config);
-
-    console.log('Loading data');
-
     async.series([
-        sugar.connect.bind(null, 'db'),
-        loadData.registrations.bind(null, config.registrationPath),
-        loadData.csvs.bind(null, path.join(__dirname, 'csv'))
+        sugar.connect.bind(null, sugar.parseAddress(config.mongo)),
+        serve.bind(null, config)
     ], function(err) {
         if(err) {
             return console.error(err);
         }
-
-        console.log('Data loaded');
     });
 }
 

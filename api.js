@@ -2,7 +2,7 @@
 
 var is = require('annois');
 var rest = require('rest-sugar');
-var sugar = require('object-sugar');
+var sugar = require('mongoose-sugar');
 
 var config = require('./config');
 var schemas = require('./schemas');
