@@ -1,0 +1,11 @@
+GID,NAME,LANGUAGE
+01,Yksityinen,fi
+01,Privat,sv
+02,Luvanvarainen,fi
+02,Tillståndspliktig,sv
+03,Kouluajoneuvo,fi
+03,Skolfordon,sv
+04,Vuokraus ilman kuljettajaa,fi
+04,Uthyrning utan förare,sv
+05,Myyntivarasto,fi
+05,Försäljningslager (lagerförsäkring),sv

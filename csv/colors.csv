@@ -1,0 +1,40 @@
+GID,NAME,LANGUAGE
+0,Black,en
+0,Musta,fi
+0,Svart,sv
+1,Brown (beige),en
+1,Ruskea (beige),fi
+1,Brun (beige),sv
+2,Red,en
+2,Punainen,fi
+2,Röd,sv
+3,Orange,en
+3,Oranssi,fi
+3,Orange,sv
+4,Yellow,en
+4,Keltainen,fi
+4,Gul,sv
+5,Green,en
+5,Vihreä,fi
+5,Grön,sv
+6,Blue,en
+6,Sininen,fi
+6,Blå,sv
+7,Violet,en
+7,Violetti,fi
+7,Violett,sv
+8,Grey,en
+8,Harmaa,fi
+8,Grå,sv
+9,White,en
+9,Valkoinen,fi
+9,Vit,sv
+X,Multi-coloured,en
+X,Monivär.,fi
+X,Flerfärg,sv
+Y,Silver,en
+Y,Hopea,fi
+Y,Silver,sv
+Z,Turquoise,en
+Z,Turkoosi,fi
+Z,Turkos,sv

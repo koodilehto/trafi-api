@@ -1,0 +1,166 @@
+GID,NAME,DESCRIPTION,LANGUAGE
+C1,Tractor,Tractor,en
+C1,Traktor,"Bandtraktor, v <= 40 km/h, m > 600 kg, markfria gång <= 1000 mm",sv
+C1,Traktori,"Telaketjutraktori, v <= 40 km/h, m > 600 kg, maavara <= 1000 mm",fi
+C2,Tractor,Tractor,en
+C2,Traktori,"Telaketjutraktori, v <= 40 km/h, m > 600 kg, maavara <= 600 mm",fi
+C2,Traktor,"Bandtraktor, v <= 40 km/h, m > 600 kg, markfria gång <= 600 mm",sv
+C3,Tractor,Tractor,en
+C3,Traktori,"Telaketjutraktori, v <= 40 km/h, m <= 600 kg",fi
+C3,Traktor,"Bandtraktor, v <= 40 km/h, m <= 600 kg",sv
+C4,Tractor,Tractor,en
+C4,Traktori,"Erityiskäyttöön tarkoitettu telaketjutraktori, v <= 40 km/h",fi
+C4,Traktor,"Bandtraktor konstruerad för ett särskilt ändamål, v <= 40 km/h",sv
+C5,Tractor,Tractor,en
+C5,Traktori,"Telaketjutraktori, v > 40 km/h",fi
+C5,Traktor,"Bandtraktor, v > 40 km/h",sv
+KNP,Light quadricycle,Light quadricycle,en
+KNP,Kevyt nelipyörä,"Nelipyöräinen ajoneuvo, m (kuormittamaton) <= 350 kg, v <= 45 km/h, Vi <= 50 cm3",fi
+KNP,Lätt fyrhjuling,"Fyrhjuligt fordon, m (olastad) <= 350 kg, v <= 45 km/h, Vi <= 50 cm3",sv
+L1,Moped,Moped,en
+L1,Mopo,"Kaksipyöräinen ajoneuvo, Vi <= 50 cm3, v <= 45 km/h",fi
+L1,Moped,"Tvåhjuligt fordon, Vi <= 50 cm3, v <= 45 km/h",sv
+L1e,Moped,Moped,en
+L1e,Mopo,"Kaksipyöräinen ajoneuvo, v <= 45 km/h, Vi <= 50 cm3",fi
+L1e,Moped,"Tvåhjuligt fordon, v <= 45 km/h, Vi <= 50 cm3",sv
+L2,Moped,Moped,en
+L2,Mopo,"Kolmipyöräinen ajoneuvo, Vi <= 50 cm3, v <= 45 km/h",fi
+L2,Moped,"Trehjuligt fordon, Vi <= 50 cm3, v <= 45 km/h",sv
+L2e,Moped,Moped,en
+L2e,Mopo,"Kolmipyöräinen ajoneuvo, v <= 45 km/h, Vi <= 50 cm3",fi
+L2e,Moped,"Trehjuligt fordon, v <= 45 km/h, Vi <= 50 cm3",sv
+L3,Motorcycle,Motorcycle,en
+L3,Moottoripyörä,"Kaksipyöräinen moottoripyörä, Vi > 50 cm3 ja/tai v > 45 km/h,",fi
+L3,Motorcykel,"Tvåhjuligt fordon, Vi > 50 cm3 och/eller v > 45 km/h,",sv
+L3e,Motorcycle,Motorcycle,en
+L3e,Moottoripyörä,"Kaksipyöräinen ajoneuvo, Vi > 50 cm3 ja/tai v > 45 km/h,",fi
+L3e,Motorcykel,"Tvåhjuligt fordon, Vi > 50 cm3 och/eller v > 45 km/h",sv
+L4,Motorcycle,Motorcycle,en
+L4,Moottoripyörä,"Kaksipyöräinen, sivuvaunullinen moottoripyörä, Vi > 50 cm3 ja/tai v > 45 km/h",fi
+L4,Motorcykel,"Tvåhjuligt fordon med sidvagn, Vi > 50 cm3 ja/tai v > 45 km/h",sv
+L4e,Motorcycle,Motorcycle,en
+L4e,Moottoripyörä,"Kaksipyöräinen, sivuvaunullinen moottoripyörä, Vi > 50 cm3 ja/tai v > 45 km/h",fi
+L4e,Motorcykel,"Tvåhjuligt fordon med sidvagn, Vi > 50 cm3 och/eller v > 45 km/h",sv
+L5,Motor tricycle or quadricycle,Motor tricycle or quadricycle,en
+L5,Kolmi- tai nelipyörä,"Kolmipyöräinen ajoneuvo, Vi > 50 cm3, v > 45 km/h, pyörät symmetrisesti keskiakselin suhteen, m <= 1000 kg TAI nelipyöräinen ajoneuvo, Vi > 50 cm3, v > 45 km/h, m (kuormittamaton) < 400 kg tai m (kuormittamaton) < 550 kg tavarankuljetuskäytössä, P <= 15 kW",fi
+L5,Tre- eller fyrhjuling,"Trehjuligt fordon, Vi > 50 cm3, v > 45 km/h, hjul är symmetriskt placerade i förhållande till fordonets mittaxel, m <= 1000 kg ELLER ett fyrhjuligt fordon, Vi > 50 cm3, v > 45 km/h, m (olastad) < 400 kg tai m (olastad) < 550 kg, när avsett för godstranspor P <= 15 kW",sv
+L5e,Motor tricycle,Motor tricycle,en
+L5e,Kolmipyörä,"Kolmipyörä, Vi > 50 cm3, v > 45 km/h",fi
+L5e,Trehjuling,"Trehjuligt fordon, Vi > 50 cm3, v > 45 km/h",sv
+L6e,Light quadricycle,Light quadricycle,en
+L6e,Kevyt nelipyörä,"Kevyt nelipyörä, m <= 350 kg (kuormittamaton), v <= 45 km/h",fi
+L6e,Lätt fyrhjuling,"Fyrhjuligt fordon, m <= 350 kg (olastad), v <= 45 km/h",sv
+L7e,Quadricycle,Quadricycle,en
+L7e,Nelipyörä,"Nelipyörä, m <= 400 kg (kuormittamaton), P <= 15 kW",fi
+L7e,Fyrhjuling,"Fyrhjuligt fordon, m <= 400 kg (olastad), P <= 15 kW",sv
+LTR,Tractor registered for road use,Tractor registered for road use,en
+LTR,Liikennetraktori,"Tavarankuljetukseen tarkoitettu kuormaa kantava nestepainetoimisella runko-ohjauksella varustettu traktori, v <= 50 km/h.",fi
+LTR,Trafiktraktor,"En lastbärande traktor med hydraulisk ledramstyrning som är avsedd för godstransport, v <= 50 km/h.",sv
+M1,Car,Car,en
+M1,Henkilöauto,"Matkustajien kuljettamiseen valmistettu ajoneuvo, tilaa kuljettajan lisäksi enintään kahdeksalle matkustajalle",fi
+M1,Personbil,Ett för persontransport tillverkat fordon med plats för högst åtta personer utöver föraren,sv
+M1G,Car,Car,en
+M1G,Henkilöauto,"Matkustajien kuljettamiseen valmistettu maastoauto, tilaa kuljettajan lisäksi enintään kahdeksalle matkustajalle",fi
+M1G,Personbil,En för persontransport tillverkad terrängbil med plats för högst åtta personer utöver föraren,sv
+M2,Bus/coach,Bus/coach,en
+M2,Linja-auto,"Matkustajien kuljettamiseen valmistettu ajoneuvo, tilaa kuljettajan lisäksi yli kahdeksalle matkustajalle, m <= 5000 kg",fi
+M2,Buss,"Ett för persontransport tillverkat fordon med plats för fler än åtta personer utöver föraren, m <= 5000 kg",sv
+M2G,Bus/coach,Bus/coach,en
+M2G,Linja-auto,"Matkustajien kuljettamiseen valmistettu maastoauto, tilaa kuljettajan lisäksi yli kahdeksalle matkustajalle, m <= 5000 kg",fi
+M2G,Buss,"En för persontransport tillverkad terrängbil med plats för fler än åtta personer utöver föraren, m <= 5000 kg",sv
+M3,Bus/coach,Bus/coach,en
+M3,Linja-auto,"Matkustajien kuljettamiseen tarkoitettu ajoneuvo, tilaa kuljettajan lisäksi yli kahdeksalle matkustajalle, m > 5000 kg",fi
+M3,Buss,"Ett för persontransport tillverkat fordon med plats för fler än åtta personer utöver föraren, m > 5000 kg",sv
+M3G,Bus/coach,Bus/coach,en
+M3G,Linja-auto,"Matkustajien kuljettamiseen valmistettu maastoauto, tilaa kuljettajan lisäksi yli kahdeksalle matkustajalle, m > 5000 kg",fi
+M3G,Buss,"En för persontransport tillverkad terrängbil med plats för fler än åtta personer utöver föraren, m > 5000 kg",sv
+MA,All-terrain vehicle,All-terrain vehicle,en
+MA,Maastoajoneuvo,"Henkilöiden tai tavaran kuljetukseen tarkoitettu jäällä, lumessa tai vajottavassa maastossa tai maahan tukeutuen kulkemaan valmistettu moottorikäyttöinen ajoneuvo",fi
+MA,Terrängfordon,"Fordon tillverkat för person- eller godstransport eller för dragning av andra fordon på is, i snö eller på sank mark eller för färd med marken som stöd",sv
+MTK,Public works vehicle,Public works vehicle,en
+MTK,Moottorityökone,"Työkoneeksi valmistettu tai varustettava ajoneuvo, v <= 40 km/h; tienpitoon tarkoitettu muu moottorikäyttöinen ajoneuvo kuin auto; vetotrukki, v <= 50 km/h",fi
+MTK,Motorredskap,"Fordon som tillverkats eller är avsett att utrustas som arbetsmaskin, v <= 40 km/h; ett för väghållningsarbete tillverkat annat motordrivet fordon än en bil; en dragtruck, v <= 50 km/h",sv
+N1,Van,Van,en
+N1,Pakettiauto,"Tavaroiden kuljettamiseen valmistettu ajoneuvo, m <= 3500 kg",fi
+N1,Paketbil,"Ett för godstransport tillverkat fordon, m <= 3500 kg",sv
+N1G,Van,Van,en
+N1G,Pakettiauto,"Tavaroiden kuljettamiseen valmistettu maastoauto, m <= 3500 kg",fi
+N1G,Paketbil,"En för godstransport tillverkad terrängbil, m <= 3500 kg",sv
+N2,Lorry,Lorry,en
+N2,Kuorma-auto,"Tavaroiden kuljettamiseen valmistettu ajoneuvo, 3500 < m <= 12000 kg",fi
+N2,Lastbil,"Ett för godstransport tillverkat fordon, 3500 < m <= 12000 kg",sv
+N2G,Lorry,Lorry,en
+N2G,Kuorma-auto,"Tavaroiden kuljettamiseen valmistettu maastoauto, 3500 < m <= 12000 kg",fi
+N2G,Lastbil,"En för godstransport tillverkad terrängbil, 3500 < m <= 12000 kg",sv
+N3,Lorry,Lorry,en
+N3,Kuorma-auto,"Tavaroiden kuljettamiseen valmistettu ajoneuvo, m > 12000 kg",fi
+N3,Lastbil,"Ett för godstransport tillverkat fordon, m > 12000 kg",sv
+N3G,Lorry,Lorry,en
+N3G,Kuorma-auto,"Tavaroiden kuljettamiseen valmistettu maastoauto, m > 12000 kg",fi
+N3G,Lastbil,"En för godstransport tillverkad terrängbil, m > 12000 kg",sv
+O1,Light trailer,Light trailer,en
+O1,Kevyt perävaunu,"Perävaunu, m <= 750 kg",fi
+O1,Lätt släpvagn,"Släpvagn, m <= 750 kg",sv
+O2,Trailer,Trailer,en
+O2,Perävaunu,"Perävaunu, 750 < m <= 3500 kg",fi
+O2,Släpvagn,"Släpvagn, 750 < m <= 3500 kg",sv
+O3,Trailer,Trailer,en
+O3,Perävaunu,"Perävaunu, 3500 < m <= 10000 kg",fi
+O3,Släpvagn,"Släpvagn, 3500 < m <= 10000 kg",sv
+O4,Trailer,Trailer,en
+O4,Perävaunu,"Perävaunu, m > 10000 kg",fi
+O4,Släpvagn,"Släpvagn, m > 10000 kg",sv
+Ra1,Tractor trailer,Tractor trailer,en
+Ra1,Traktorin perävaunu,"Traktorin perävaunu, m <= 1500 kg, v <= 40 km/h",fi
+Ra1,Traktorsläpvagn,"Traktorsläpvagn, m <= 1500 kg, v <= 40 km/h",sv
+Ra2,Tractor trailer,Tractor trailer,en
+Ra2,Traktorin perävaunu,"Traktorin perävaunu, 1500 < m <= 3500 kg, v <= 40 km/h",fi
+Ra2,Traktorsläpvagn,"Traktorsläpvagn, 1500 < m <= 3500 kg, v <= 40 km/h",sv
+Ra3,Tractor trailer,Tractor trailer,en
+Ra3,Traktorin perävaunu,"Traktorin perävaunu, 3500 < m <= 21000 kg, v <= 40 km/h",fi
+Ra3,Traktorsläpvagn,"Traktorsläpvagn, 3500 < m <= 21000 kg, v <= 40 km/h",sv
+Ra4,Tractor trailer,Tractor trailer,en
+Ra4,Traktorin perävaunu,"Traktorin perävaunu, m > 21000 kg, v <= 40 km/h",fi
+Ra4,Traktorsläpvagn,"Traktorsläpvagn, m > 21000 kg, v <= 40 km/h",sv
+Rb1,Tractor trailer,Tractor trailer,en
+Rb1,Traktorin perävaunu,"Traktorin perävaunu, m <= 1500 kg, v > 40 km/h",fi
+Rb1,Traktorsläpvagn,"Traktorsläpvagn, m <= 1500 kg, v > 40 km/h",sv
+Rb2,Tractor trailer,Tractor trailer,en
+Rb2,Traktorin perävaunu,"Traktorin perävaunu, 1500 < m <= 3500 kg, v > 40 km/h",fi
+Rb2,Traktorsläpvagn,"Traktorsläpvagn, 1500 < m <= 3500 kg, v > 40 km/h",sv
+Rb3,Tractor trailer,Tractor trailer,en
+Rb3,Traktorin perävaunu,"Traktorin perävaunu, 3500 < m <= 21000 kg, v > 40 km/h",fi
+Rb3,Traktorsläpvagn,"Traktorsläpvagn, 3500 < m <= 21000 kg, v > 40 km/h",sv
+Rb4,Tractor trailer,Tractor trailer,en
+Rb4,Traktorin perävaunu,"Traktorin perävaunu, m > 21000 kg, v > 40 km/h",fi
+Rb4,Traktorsläpvagn,"Traktorsläpvagn, m > 21000 kg, v > 40 km/h",sv
+Sa1,Towed machinery,Towed machinery,en
+Sa1,Vedettävä kone,"Vedettävä vaihdettavissa oleva kone, m <= 3500 kg, v <= 40 km/h",fi
+Sa1,Dragen maskin,"Utbytbar dragen maskin, m <= 3500 kg, v <= 40 km/h",sv
+Sa2,Towed machinery,Towed machinery,en
+Sa2,Vedettävä kone,"Vedettävä vaihdettavissa oleva kone, m > 3500 kg, v <= 40 km/h",fi
+Sa2,Dragen maskin,"Utbytbar dragen maskin, m > 3500 kg, v <= 40 km/h",sv
+Sb1,Towed machinery,Towed machinery,en
+Sb1,Vedettävä kone,"Vedettävä vaihdettavissa oleva kone, m <= 3500 kg, v > 40 km/h",fi
+Sb1,Dragen maskin,"Utbytbar dragen maskin, m <= 3500 kg, v > 40 km/h",sv
+Sb2,Towed machinery,Towed machinery,en
+Sb2,Vedettävä kone,"Vedettävä vaihdettavissa oleva kone, m > 3500 kg, v > 40 km/h",fi
+Sb2,Dragen maskin,"Utbytbar dragen maskin, m > 3500 kg, v > 40 km/h",sv
+T,Tractor,Tractor,en
+T,Traktori,"Pyörin tai teloin varustettu ajoneuvo; valmistettu vetämään, työntämään, käyttämään tai kuljettamaan maa- ja metsätalouden työvälineitä tai työntämään maa- ja metsätalouden ajoneuvoja, v <= 40 km/h",fi
+T,Traktor,"Ett fordon med hjul eller band; tillverkats för att dra, skjuta, använda eller transportera för jord- och skogsbruk avsedda arbetsredskap eller för att dra eller skjuta fordon som används för jord- och skogsbruk, v <= 40 km/h.",sv
+T1,Tractor,Tractor,en
+T1,Traktori,"Pyörillä varustettu traktori, v <= 40 km/h, m > 600 kg, maavara <= 1000 mm",fi
+T1,Traktor,"Hjultraktor, v <= 40 km/h, m > 600 kg, markfria gång <= 1000 mm",sv
+T2,Tractor,Tractor,en
+T2,Traktori,"Pyörillä varustettu traktori, v < 40 km/h, m > 600 kg, maavara < 600 mm",fi
+T2,Traktor,"Hjultraktor, v <= 40 km/h, m > 600 kg, markfria gång <= 600 mm",sv
+T3,Tractor,Tractor,en
+T3,Traktori,"Pyörillä varustettu traktori, v <= 40 km/h, m <= 600 kg",fi
+T3,Traktor,"Hjultraktor, v <= 40 km/h, m <= 600 kg",sv
+T4,Tractor,Tractor,en
+T4,Traktori,"Erityiskäyttöön tarkoitettu pyörillä varustettu traktori, v <= 40 km/h",fi
+T4,Traktor,"Hjultraktor konstruerad för ett särskilt ändamål, v <= 40 km/h",sv
+T5,Tractor,Tractor,en
+T5,Traktori,"Pyörillä varustettu traktori, v > 40 km/h",fi
+T5,Traktori,"Hjultraktor, v > 40 km/h",sv

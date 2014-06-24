@@ -1,0 +1,52 @@
+GID,NAME,LANGUAGE
+01,Mechanically actuated brakes,en
+01,Mekaanisesti käytett.jarrut,fi
+01,Mekanisk driven broms,sv
+02,Hydraulic brakes,en
+02,Nestetoimiset jarrut,fi
+02,Hydraulisk broms,sv
+03,Mechanical/hydraulic brakes,en
+03,Mekaan./neste jarrut,fi
+03,Mekanisk/hydraulisk broms,sv
+04,Hydraulic/mechanical brakes,en
+04,Neste/mekaan. jarrut,fi
+04,Hydraulisk/Mekanisk broms,sv
+05,Hydraulic vacuum servo brakes,en
+05,Nestetoim. alipaineteh.j,fi
+05,Hydraulisk vakuumservobroms,sv
+06,Hydraulic overpressure servo brakes,en
+06,Nestetoim. ylipaineteh.j,fi
+06,Hydraulisk övertryckservobroms,sv
+07,Compressed-air brakes,en
+07,Paineilmajarrut,fi
+07,Tryckluftbroms,sv
+08,Inertia brakes,en
+08,Työntöjarrut,fi
+08,Skjutbroms,sv
+09,Hydraulic pressure brakes,en
+09,Painenestejarrut,fi
+09,Tryckhydraulisk broms,sv
+10,Hydraulic + hydraulic pressure brakes,en
+10,Neste+painenestejarrut,fi
+10,Hydraulisk+tryckhydraulisk broms,sv
+11,Electrically actuated compressed-air brakes,en
+11,Sähköohjatut paineilmajarrut,fi
+11,Elstyrd tryckluftbroms,sv
+12,Electrically actuated hydraulic vacuum servo brakes,en
+12,Sähköohjatut nestetoimiset alipainetehostetut jarrut,fi
+12,Elstyrd hydraulisk vakuumservobroms,sv
+13,Compressed-air actuated hydraulic brakes,en
+13,Paineilmakäytt.nestejarru,fi
+13,Tryckluftdriven hydraulisk broms,sv
+14,Hydraulic inertia brakes,en
+14,Nestetoiminen työntöjarru,fi
+14,Hydraulisk skjutbroms,sv
+15,Electrical inertia brakes,en
+15,Sähkötoiminen työntöjarru,fi
+15,Eldriven skjutbroms,sv
+16,Electric brake,en
+16,Sähköjarrut,fi
+16,Elbroms,sv
+17,Electronically actuated hydraulic brakes,en
+17,Elektronisesti ohjattu nestejarru,fi
+17,Elektroniskt styrt hydrauliskbroms,sv

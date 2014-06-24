@@ -1,0 +1,155 @@
+GID,NAME,LANGUAGE
+AA,Sedan (AA),sv
+AA,Saloon (AA),en
+AA,Sedan (AA),fi
+AB,Kombisedan (AB),sv
+AB,Hatchback (AB),en
+AB,Viistoperä (AB),fi
+AC,Stationsvagn (AC),sv
+AC,Station wagon (AC),en
+AC,Farmari (AC),fi
+AD,Kupé (AD),sv
+AD,Coupé (AD),en
+AD,Coupé (AD),fi
+AE,Cabriolet (AE),sv
+AE,Convertible (AE),en
+AE,Avoauto (AE),fi
+AF,Fordon avsett för flera ändamål (AF),sv
+AF,Multi-purpose vehicle (AF),en
+AF,Monikäyttöajoneuvo (AF),fi
+BA,Lastbil (BA),sv
+BA,Lorry (BA),en
+BA,Avolavakuorma-auto (BA),fi
+BB,Skåpbil (BB),sv
+BB,Van (BB),en
+BB,Umpikorinen (BB),fi
+BC,Dragfordon för påhängsvagn (BC),sv
+BC,Semi-trailer tractor (BC),en
+BC,Puoliperävaunun vetoauto (BC),fi
+BD,Dragfordon för släpvagn (BD),sv
+BD,Towing vehicle for a trailer (BD),en
+BD,Perävaunun vetoajoneuvo (BD),fi
+CA,Envåningsbuss (CA),sv
+CA,Single-deck (CA),en
+CA,Yksikerroksinen (CA),fi
+CB,Tvåvåningsbuss (CB),sv
+CB,Double-deck (CB),en
+CB,Kaksikerroksinen (CB),fi
+CC,Ledad envåningsbuss (CC),sv
+CC,Articulated single-deck (CC),en
+CC,Nivelöity yksikerroksinen (CC),fi
+CD,Ledad tvåvåningsbuss (CD),sv
+CD,Articulated double-deck (CD),en
+CD,Nivelöity kaksikerroksinen (CD),fi
+CE,Envånings låggolvsbuss (CE),sv
+CE,Low-floor single-deck (CE),en
+CE,Matalalattiainen yksikerroksinen (CE),fi
+CF,Tvåvånings låggolvsbuss (CF),sv
+CF,Low-floor double-deck (CF),en
+CF,Matalalattiainen kaksikerroksinen (CF),fi
+CG,Ledad envånings låggolvsbuss (CG),sv
+CG,Articulated low-floor single-deck (CG),en
+CG,Nivelöity matalalattiainen yksikerroksinen (CG),fi
+CH,Ledad envånings låggolvsbuss (CG),sv
+CH,Articulated low-floor double-deck (CH),en
+CH,Nivelöity matalalattiainen kaksikerroksinen (CH),fi
+CI,Envåningsbuss (CI),sv
+CI,Single-deck (CI),en
+CI,Yksikerroksinen (CI),fi
+CJ,Tvåvåningsbuss (CJ),sv
+CJ,Double-deck (CJ),en
+CJ,Kaksikerroksinen (CJ),fi
+CK,Ledad envåningsbuss (CK),sv
+CK,Articulated single-deck (CK),en
+CK,Nivelöity yksikerroksinen (CK),fi
+CL,Ledad tvåvåningsbuss (CL),sv
+CL,Articulated double-deck (CL),en
+CL,Nivelöity kaksikerroksinen (CL),fi
+CM,Envånings låggolvsbuss (CM),sv
+CM,Low-floor single-deck (CM),en
+CM,Matalalattiainen yksikerroksinen (CM),fi
+CN,Tvåvånings låggolvsbuss (CN),sv
+CN,Low-floor double-deck (CN),en
+CN,Matalalattiainen kaksikerroksinen (CN),fi
+CO,Ledad envånings låggolvsbuss (CO),sv
+CO,Articulated low-floor single-deck (CO),en
+CO,Nivelöity matalalattiainen yksikerroksinen (CO),fi
+CP,Ledad tvåvånings låggolvsbuss (CP),sv
+CP,Articulated low-floor double-deck (CP),en
+CP,Nivelöity matalalattiainen kaksikerroksinen (CP),fi
+CQ,Envåningsbuss (CQ),sv
+CQ,Single-deck (CQ),en
+CQ,Yksikerroksinen (CQ),fi
+CR,Tvåvåningsbuss (CR),sv
+CR,Double-deck (CR),en
+CR,Kaksikerroksinen (CR),fi
+CS,Ledad envåningsbuss (CS),sv
+CS,Articulated single-deck (CS),en
+CS,Nivelöity yksikerroksinen (CS),fi
+CT,Ledad tvåvåningsbuss (CT),sv
+CT,Articulated double-deck (CT),en
+CT,Nivelöity kaksikerroksinen (CT),fi
+CU,Envåningsbuss (CU),sv
+CU,Single-deck (CU),en
+CU,Yksikerroksinen (CU),fi
+CV,Envånings låggolvsbuss (CV),sv
+CV,Low-floor single-deck (CV),en
+CV,Matalalattiainen yksikerroksinen (CV),fi
+CW,Envåningsbuss (CW),sv
+CW,Single-deck (CW),en
+CW,Yksikerroksinen (CW),fi
+DA,Påhängsvagn (DA),sv
+DA,Semi-trailer (DA),en
+DA,Puoliperävaunu (DA),fi
+DB,Släpvagn med dragstång (DB),sv
+DB,Trailer (DB),en
+DB,Varsinainen perävaunu (DB),fi
+DC,Släpkärra (DC),sv
+DC,Centre-axle trailer (DC),en
+DC,Keskiakseliperävaunu (DC),fi
+SA,Campingbil (SA),sv
+SA,Motor caravan (SA),en
+SA,Matkailuauto (SA),fi
+SB,Bepansrat fordon (SB),sv
+SB,Armoured vehicle (SB),en
+SB,Panssariajoneuvo (SB),fi
+SC,Ambulans (SC),sv
+SC,Ambulance (SC),en
+SC,Ambulanssi (SC),fi
+SD,Likbil (SD),sv
+SD,Hearse (SD),en
+SD,Ruumisauto (SD),fi
+SE,Husvagn (SE),sv
+SE,Caravan (SE),en
+SE,Matkailuperävaunu (SE),fi
+SF,Mobilkran (SF),sv
+SF,Mobile crane (SF),en
+SF,Ajoneuvonosturi (SF),fi
+SG,Andra fordon avsedda för särskilda ändamål (SG),sv
+SG,Other special purpose vehicles (SG),en
+SG,Muut erikoiskäyttöön tarkoitetut ajoneuvot (SG),fi
+SH,Rullstolsanpassade fordon (SH),sv
+SH,Wheelchair accessible vehicle (SH),en
+SH,Pyörätuolin käyttäjälle tarkoitettu ajoneuvo (SH),fi
+U/A,Sluten/öppen,sv
+U/A,Sedan/convertible,en
+U/A,Umpi/avo,fi
+1.7,AG Tavarafarmari,fi
+2.11,CX Linja-auton alusta,fi
+3.5,BE Avopakettiauto,fi
+3.6,BX Alusta-ohjaamo,fi
+4.4,DE Nivelöimättömällä vetoaisalla varustettu perävaunu,fi
+5.9,SJ Apuvaunu,fi
+5.10,SK Erikoiskuljetusperävaunu,fi
+2.9,CI Avokattoinen yksikerroksinen ajoneuvo,fi
+3.1,BA Tavara-auto,fi
+2.10,CJ Avokattoinen kaksikerroksinen ajoneuvo,fi
+SK,Erikoiskuljetusperävaunu,fi
+SK,Släpvagn för transport av exceptionell last,sv
+SK,Exceptional load transport trailer,en
+SL,Erikoiskuljetusauto,fi
+SL,Motorfordon för transport av exceptionell last,sv
+SL,Exceptional load transport motor vehicle,en
+SM,Monilaiteajoneuvo,fi
+SM,Redskapsbärare,sv
+SM,Multi-equipment carrier,en

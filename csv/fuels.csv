@@ -1,0 +1,162 @@
+GID,NAME,LANGUAGE
+0,Maakaasu,fi
+0,Naturgas,sv
+01,Petrol,en
+01,Bensiini,fi
+01,Bensin,sv
+02,Diesel fuel,en
+02,Dieselöljy,fi
+02,Dieselolja,sv
+03,Fuel oil,en
+03,Polttoöljy,fi
+03,Brännolja,sv
+04,Electricity,en
+04,Sähkö,fi
+04,Elektricitet,sv
+05,Hydrogen,en
+05,Vety,fi
+05,Hydrogen,sv
+06,Gas,en
+06,Kaasu,fi
+06,Gas,sv
+07,Methanol,en
+07,Metanol,sv
+07,Metanoli,fi
+1,Bensiini,fi
+1,Bensin,sv
+10,Biodiesel fuel,en
+10,Biodiesel,fi
+10,Biodiesel,sv
+11,LPG,en
+11,LPG,fi
+11,LPG,sv
+13,CNG,en
+13,CNG,fi
+13,CNG,sv
+2,Moottoripetroli,fi
+2,Motorpetrol,sv
+3,Dieselöljy,fi
+3,Dieselölja,sv
+31,Light fuel oil (kerosene),en
+31,Moottoripetroli,fi
+31,Motorfotogen,sv
+32,Diesel/wood,en
+32,Diesel/Trä,sv
+32,Diesel/Puu,fi
+33,Petrol/wood,en
+33,Bensiini/Puu,fi
+33,Bensin/Trä,sv
+34,Petrol + light fuel oil (kerosene),en
+34,Bensiini + moottoripetroli,fi
+34,Bensin + motorfotogen,sv
+37,Ethanol,en
+37,Etanoli,fi
+37,Etanol,sv
+38,Petrol/CNG,en
+38,Bensiini/CNG,fi
+38,Bensin/CNG,sv
+39,Petrol/Electricity,en
+39,Bensiini/Sähkö,fi
+39,Bensin/Elektricitet,sv
+4,Nestekaasu,fi
+4,Flytgas,sv
+40,Petrol/Ethanol,en
+40,Bensiini/Etanoli,fi
+40,Bensin/Etanol,sv
+41,Petrol/Methanol,en
+41,Bensiini/Metanoli,fi
+41,Bensin/Metanol,sv
+42,Petrol/LPG,en
+42,Bensiini/LPG,fi
+42,Bensin/LPG,sv
+43,Diesel fuel / CNG,en
+43,Diesel/CNG,fi
+43,Diesel/CNG,sv
+44,Diesel fuel / Electricity,en
+44,Diesel/Sähkö,fi
+44,Diesel/Elektricitet,sv
+45,Diesel fuel / Ethanol,en
+45,Diesel/Etanoli,fi
+45,Diesel/Etanol,sv
+46,Diesel fuel / Methanol,en
+46,Diesel/Metanoli,fi
+46,Diesel/Metanol,sv
+47,Diesel fuel / LPG,en
+47,Diesel/LPG,fi
+47,Diesel/LPG,sv
+48,Diesel fuel / Biodiesel fuel,en
+48,Diesel/Biodiesel,fi
+48,Diesel/Biodiesel,sv
+49,Diesel fuel / Biodiesel fuel / Electricity,en
+49,Diesel/Biodiesel/Sähkö,fi
+49,Diesel/Biodiesel/Elektricitet,sv
+5,Diesel/puu,fi
+5,Diesel/trä,sv
+50,Diesel fuel / Biodiesel fuel / Ethanol,en
+50,Diesel/Biodiesel/Etanoli,fi
+50,Diesel/Biodiesel/Etanol,sv
+51,Diesel fuel / Biodiesel fuel / Methanol,en
+51,Diesel/Biodiesel/Metanoli,fi
+51,Diesel/Biodiesel/Metanol,sv
+52,Diesel fuel / Biodiesel fuel / LPG,en
+52,Diesel/Biodiesel/LPG,fi
+52,Diesel/Biodiesel/LPG,sv
+53,Diesel fuel / Biodiesel fuel / CNG,en
+53,Diesel/Biodiesel/CNG,fi
+53,Diesel/Biodiesel/CNG,sv
+54,Hydrogen/Electricity,en
+54,Hydrogen/Elektricitet,sv
+54,Vety/Sähkö,fi
+55,Diesel fuel / Other,en
+55,Dieselolja/Övrig,sv
+55,Dieselöljy/Muu,fi
+56,Natural gas type H,en
+56,H-ryhmän maakaasu,fi
+56,Naturgastyp H,sv
+57,Natural gas type L,en
+57,L-ryhmän maakaasu,fi
+57,Naturgastyp L,sv
+58,Natural gas type HL,en
+58,HL-ryhmän maakaasu,fi
+58,Naturgastyp HL,sv
+59,Natural gas / Biomethane,en
+59,CNG/Biometaani,fi
+59,CNG/Biometan,sv
+6,Bensiini/puu,fi
+6,Bensin/trä,sv
+60,Biometaani,fi
+60,Biometan,sv
+60,Biomethan,en
+61,Puu,fi
+61,Träd,sv
+61,Wood,en
+62,Etanoli (ED95),fi
+62,Etanol (ED95),sv
+62,Ethanol (ED95),en
+63,Etanoli (E85),fi
+63,Etanol (E85),sv
+63,Ethanol (E85),en
+7,Sähkö,fi
+7,El,sv
+8,Bensiini+moottoripetroli,fi
+8,Bensin+motorpetrol,sv
+9,Se anmärkn.,sv
+9,Ks. huom.,fi
+X,Not applicable,en
+X,Ei sovellettavissa,fi
+X,Ej tillämplig,sv
+Y,Other,en
+Y,Muu,fi
+Y,Övrig,sv
+65,LNG,fi
+65,LNG,sv
+65,LNG,en
+66,LNG20,fi
+66,LNG20,sv
+66,LNG20,en
+67,Diesel/LNG,fi
+67,Diesel/LNG,sv
+67,Diesel/LNG,en
+68,Diesel/LNG20,fi
+68,Diesel/LNG20,sv
+68,Diesel/LNG20,en

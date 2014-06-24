@@ -1,0 +1,6383 @@
+GID,NAME,LANGUAGE
+000,Omavalmiste,fi
+001,Fogelsta,fi
+002,Shield-Bantam,fi
+003,CCC-Kockum,fi
+004,Allis-Chalmers,fi
+005,CCC-Grove,fi
+006,Austin-Western,fi
+007,Bantam,fi
+008,Bobcat,fi
+009,Buick,fi
+010,Case,fi
+011,CCC,fi
+012,Cadillac,fi
+013,GMC,fi
+014,Chevrolet,fi
+015,Chrysler,fi
+016,Imperial,fi
+017,Chrysler-Simca,fi
+018,Chrysler-Sunbeam,fi
+019,Reliant,fi
+020,CCC-Driltech,fi
+021,Sambron,fi
+022,Rottne,fi
+023,Demo,fi
+024,Zamboni,fi
+025,Dodge-Midas,fi
+026,Dodge,fi
+027,Dodge-Ajokki,fi
+028,Pettibone,fi
+029,Hendrickson-Grove,fi
+030,Foden,fi
+031,Lima,fi
+032,Pettibone-CDL,fi
+033,FWD-Grove,fi
+034,FWD,fi
+035,Hugu-Hugu,fi
+036,RK,fi
+037,CI-Smålandia,fi
+038,Link-Belt,fi
+039,Seddon,fi
+040,Hendrickson,fi
+041,Grove-Allen,fi
+042,Fred,fi
+043,CD-Grove,fi
+044,Grove,fi
+045,Harnischfeger,fi
+046,Grove-Coles,fi
+047,MOL-Harnischfeger,fi
+048,MOL-Gradall,fi
+049,AH-kärry,fi
+050,Brenderup,fi
+051,Carco Master,fi
+052,International-Payloader,fi
+053,International,fi
+054,John Deere,fi
+055,Jeep,fi
+056,Jacobsen,fi
+057,Carry,fi
+058,Eldon-Trailer,fi
+059,Elmeri,fi
+060,Finnstar,fi
+061,Fintara,fi
+062,Fredko,fi
+063,Lincoln,fi
+064,Lorain,fi
+065,Henkone,fi
+066,Hiekkaranta,fi
+067,Holmo,fi
+068,Mercury,fi
+069,HPV,fi
+070,Michigan,fi
+071,Jokke,fi
+072,Mustang,fi
+073,Juhta,fi
+074,Jullikka,fi
+075,Kärppä,fi
+076,Oldsmobile,fi
+077,Kertek,fi
+078,Skytrak,fi
+079,PCM,fi
+080,Payloader,fi
+081,Scoopmobile,fi
+082,Plymouth-Dodge,fi
+083,Plymouth,fi
+084,Pontiac,fi
+085,Rambler,fi
+086,American,fi
+087,AMC,fi
+088,American-Karmann,fi
+089,Kesto,fi
+090,Hino,fi
+091,Roman,fi
+092,Kiito,fi
+093,Kikka,fi
+094,Towmotor,fi
+095,Yale,fi
+096,Kila,fi
+097,Lap-Poni,fi
+098,Laveri,fi
+099,Gehl,fi
+100,Lemex,fi
+101,Lift,fi
+102,Lokari,fi
+103,Lulla,fi
+104,Manu,fi
+105,Masa,fi
+106,Meno-Kärry,fi
+107,Mirella,fi
+108,Muuli,fi
+109,Muurski,fi
+110,Austin,fi
+111,Kockums,fi
+112,Otto,fi
+113,Pe-Tra,fi
+114,Bedford,fi
+115,Boss,fi
+116,Rehi,fi
+117,Ripak,fi
+118,BMC,fi
+119,Coles,fi
+120,Commer,fi
+121,Climax,fi
+122,David-Brown,fi
+123,Coles-Priestman,fi
+124,Climax-Shawloader,fi
+125,Relox,fi
+126,Santtu,fi
+127,Clark-Oleomat,fi
+128,Clark,fi
+129,Clarklift,fi
+130,Clark-Michigan,fi
+131,Massey Ferguson,fi
+132,Fargo,fi
+133,Rolex,fi
+134,Sari,fi
+135,Ford,fi
+136,Ford-Rimor,fi
+137,Sukkela,fi
+138,Teräskärry,fi
+139,TM-Trailer,fi
+140,Toci-Carry,fi
+141,Ford-OK,fi
+142,Trilla,fi
+143,TT-Traileri,fi
+144,Varma,fi
+145,Velsa,fi
+146,CI,fi
+147,Hitachi,fi
+148,Hyster,fi
+149,Hyster-Ransomes,fi
+150,Jaguar,fi
+151,Daimler,fi
+152,Veko,fi
+153,CI-Sprite,fi
+154,Iron Fairy,fi
+155,JCB,fi
+156,Lancer,fi
+157,Lancer Boss,fi
+158,Vihe,fi
+159,Voka,fi
+160,Kestotankki,fi
+161,VT-Trailer,fi
+162,Leyland,fi
+163,Leyland-Wimo,fi
+164,Eka-Leyland,fi
+165,Lotus,fi
+166,Eka,fi
+167,MG,fi
+168,Matbro,fi
+169,Morris,fi
+170,BLMC,fi
+171,Mini,fi
+172,Ylö,fi
+173,Eka-Nuffield,fi
+174,Merlo,fi
+175,Ässä,fi
+176,A-T,fi
+177,Poko,fi
+178,Camp-Let,fi
+179,Rover,fi
+180,Range-Rover,fi
+181,Land Rover,fi
+182,Freight Rover,fi
+183,Heinemann,fi
+184,Huhki,fi
+185,Alutrail,fi
+186,Scammel,fi
+187,Sunbeam,fi
+188,Terex,fi
+189,Thornyeroft-Pyrene,fi
+190,Pa-Ri,fi
+191,Triumph,fi
+192,Umeåsläpet,fi
+193,Adria,fi
+194,Cabby,fi
+195,Vauxhall,fi
+196,Dethleffs,fi
+197,Rolls-Royce,fi
+198,Europa,fi
+199,DJB,fi
+200,Hobby,fi
+201,Auto-Union,fi
+202,Audi,fi
+203,Kabe,fi
+204,Atlas,fi
+205,Baumann,fi
+206,BMW,fi
+207,Henley,fi
+208,Ameise,fi
+209,Kafi,fi
+210,Knaus,fi
+211,Matkaaja,fi
+212,Demag,fi
+213,MOL-Demag,fi
+214,Munsterland,fi
+215,Pallas,fi
+216,Fuchs,fi
+217,Eko,fi
+218,Polar,fi
+219,Fendt,fi
+220,Belos Gravely,fi
+221,Hägglunds,fi
+222,GMC-Kulmakorpi,fi
+223,Predom,fi
+224,Gutbrod,fi
+225,SC-Smålandia,fi
+226,Hansa,fi
+227,Hanomag,fi
+228,Hanomag-Henschel,fi
+229,Krupp,fi
+230,IWS,fi
+231,Solifer,fi
+232,Nordic,fi
+233,Sprite,fi
+234,Tabbert,fi
+235,Neoplan,fi
+236,Muir-Hill,fi
+237,Lanz,fi
+238,Liebherr,fi
+239,Linde,fi
+240,Magirus-Deutz,fi
+241,MAN,fi
+242,Magirus-Deutz-Beilhack,fi
+243,Mercedes-Benz,fi
+244,Mercedes-Benz-Hymer,fi
+245,Mercedes-Benz-Putzmeister,fi
+246,Mercedes-Benz-Wibau,fi
+247,NSU,fi
+248,Mercedes-Benz-Scheele,fi
+249,Opel,fi
+250,Mercedes-Benz-Schwing,fi
+251,Porsche,fi
+252,VW-Porsche,fi
+253,Mercedes-Benz-Schörling,fi
+254,Mercedes-Benz-Kuka,fi
+255,Mercedes-Benz-Titan,fi
+256,Still,fi
+257,Mercedes-Benz-Rolba,fi
+258,Hako,fi
+259,Mercedes-Benz-Faun,fi
+260,Mercedes-Benz-Beilhack,fi
+261,Mercedes-Benz-Schmidt,fi
+262,Holder,fi
+263,Gilson,fi
+264,Wheel Horse,fi
+265,Bolens,fi
+266,MAN-Volkswagen,fi
+267,Volkswagen,fi
+268,Volkswagen-Matkaaja,fi
+269,Case International,fi
+270,Setra,fi
+271,Berliet,fi
+272,Kamag,fi
+273,Homelite,fi
+274,Murray,fi
+275,Yard-Man,fi
+276,Gravely,fi
+277,Agria,fi
+278,Nord-Verk,fi
+279,Engström & Nilson,fi
+280,Moxy,fi
+281,Delta,fi
+282,Ikarus,fi
+283,SWS,fi
+284,Bova,fi
+285,SE,fi
+286,Buhler-Miag,fi
+287,O&K,fi
+288,O&K-Harnischfeger,fi
+289,We-Trac,fi
+290,Ford-Teg,fi
+291,Teg-Pomo,fi
+292,Ford-Rottne,fi
+293,Teg-Rottne,fi
+294,Teg-Rulla-Pomo,fi
+295,Hemek,fi
+296,Snorre,fi
+297,Valtra-Farmet,fi
+298,Norcar,fi
+299,Kraz,fi
+300,Piccolo,fi
+301,Schaeff,fi
+302,Kramer-Allrad,fi
+303,Ahlmann,fi
+304,Jogger,fi
+305,Snow-Trac,fi
+306,Trac-Master,fi
+307,Allme,fi
+308,Broddway,fi
+309,Wiedenmann,fi
+310,Sheuerle,fi
+311,Pinguely,fi
+312,Savotta-County,fi
+313,Citroen,fi
+314,Deutz-Fahr,fi
+315,Deutz,fi
+316,Talbot,fi
+317,Talbot-Simca,fi
+318,Talbot-Matra,fi
+319,Valtra-Mestari,fi
+320,Vilske,fi
+321,Titan,fi
+322,Jusa,fi
+323,Fiskars,fi
+324,Terri,fi
+325,Hiisi,fi
+326,Tehomestari,fi
+327,Finncombi,fi
+328,Vammas,fi
+329,LM,fi
+330,Mara,fi
+331,Hydrema,fi
+332,Skog-Basen,fi
+333,Rasant,fi
+334,Van Hool,fi
+335,Poni,fi
+336,Sanderson,fi
+337,Chevrolet-Campline,fi
+338,Ford-Matkaaja,fi
+339,Mercedes-Benz-Frankia,fi
+340,Mercedes-Benz-Clou,fi
+341,Mercedes-Benz-Karmann,fi
+342,Volkswagen-Westfalia,fi
+343,P & H,fi
+344,Citroen-Rose,fi
+345,Peugeot-Eura-Mobil,fi
+346,Peugeot-Heku,fi
+347,Peugeot-Autocab,fi
+348,Peugeot-Fiilis,fi
+349,Peugeot-SMC,fi
+350,Peugeot-Maesss,fi
+351,Fiat-Laika,fi
+352,Peugeot-Rimor,fi
+353,Peugeot-Laika,fi
+354,Peugeot-FFB,fi
+355,Fiat-Clou,fi
+356,Peugeot-Mobi,fi
+357,Fiat-Adriatik,fi
+358,Fiat-Mobilvetta,fi
+359,Oleomat,fi
+360,Poclain,fi
+361,Peugeot,fi
+362,Pingon,fi
+363,Peugeot-Pilote,fi
+364,Renault-Dacia,fi
+365,Renault,fi
+366,Dacia,fi
+367,Peugeot-Hymer,fi
+368,Saviem,fi
+369,Saviem-PPM,fi
+370,Renault-Saviem,fi
+371,Fiat-Cabby,fi
+372,Iveco-Fiat-Laika,fi
+373,Simca,fi
+374,Matra-Simca,fi
+375,Mitsubishi-Eura-Mobil,fi
+376,Volkswagen-Westpoint,fi
+377,Fleur De Lys,fi
+378,Aleko,fi
+379,Westfalia,fi
+380,Fiat-SMC,fi
+381,Fiat-Frankia,fi
+382,Oktobar-STT,fi
+383,Topi,fi
+384,Farmi Trac,fi
+385,Kenworth,fi
+386,FDI-Sambron,fi
+387,FAP,fi
+388,Jelcz,fi
+389,Citroen-Piccolo,fi
+390,Manitou,fi
+391,Lynx,fi
+392,Lynx-Ockelbo,fi
+393,Juho,fi
+394,Iveco-Clou,fi
+395,Aki,fi
+396,Peugeot-Tramper,fi
+397,Mecalac,fi
+398,Richier,fi
+399,Zettelmeyer,fi
+400,Iveco-Teve,fi
+401,Alfa Romeo,fi
+402,Dresser Payloader,fi
+403,Iveco-Fiat,fi
+404,Magirus-Deutz-Atlas-Cocpo,fi
+405,Iveco-Magirus-Atlas-Copco,fi
+406,Iveco-Magirus,fi
+407,Bertone,fi
+408,Fiat-Bertone,fi
+409,Fiat-Electrica,fi
+410,Fiat,fi
+411,Zastava,fi
+412,Iveco,fi
+413,Seat,fi
+414,Seat-Fiat,fi
+415,Same,fi
+416,Panda,fi
+417,Iveco-Fiat-Rimor,fi
+418,Lancia,fi
+419,Maserati,fi
+420,Fiat-Matkaaja,fi
+421,Fiat-Solifer,fi
+422,Fiat-Hobby,fi
+423,Fiat-LMC,fi
+424,Fiat-Hymer,fi
+425,Fiat-Casa,fi
+426,Fiat-Dethleffs,fi
+427,Fiat-FFB,fi
+428,Fiat-Burstner,fi
+429,Fiat-Knaus,fi
+430,Fiat-Allis,fi
+431,Fiat-Allis-Benfra,fi
+432,New Holland,fi
+433,Swinger,fi
+434,Mercedes-Benz-Eura Mobil,fi
+435,Burstner,fi
+436,Peugeot-Beisl,fi
+437,Fiat-Fendt,fi
+438,Lexus,fi
+439,Ford-Karmann,fi
+440,Ski-Doo,fi
+441,Fiat-Fiilis,fi
+442,Chateau,fi
+443,Sävsjö,fi
+444,Husaberg,fi
+445,Arctic Cat,fi
+446,Dodge-Eura-Mobil,fi
+447,Lumikko,fi
+448,Morel,fi
+449,Tunturi,fi
+450,Tracker,fi
+451,Fiat-Tramper,fi
+452,Dantruck,fi
+453,X-Trailer,fi
+454,Bertling,fi
+455,Alutek,fi
+456,Volkswagen-Karmann,fi
+457,Vene-Juhta,fi
+458,Belos,fi
+459,Sale,fi
+460,Fantuzzi,fi
+461,Fiat-Pilote,fi
+462,Mercedes-Benz-Grenzland,fi
+463,Unitrac,fi
+464,TVR,fi
+465,Neoplan-Scania,fi
+466,Lewo,fi
+467,Fiat-Maesss,fi
+468,Noramaster,fi
+469,G-Man,fi
+470,Leda,fi
+471,Motocentro,fi
+472,Lamborghini,fi
+473,Kindai,fi
+474,Autobianchi,fi
+475,AFM,fi
+476,Somet,fi
+477,Majava,fi
+478,Jollycat,fi
+479,Siirtokone,fi
+480,Raisu,fi
+481,Subaru-Elcat,fi
+482,Starset,fi
+483,Vimek,fi
+484,Peugeot-Elddis,fi
+485,Amigo,fi
+486,Alucarry,fi
+487,Järvis,fi
+488,Eesu,fi
+489,Chevrolet-Starcraft,fi
+490,Gisebo,fi
+491,Hoist,fi
+492,Michael,fi
+493,MMZ,fi
+494,VT-Coupe,fi
+495,Daily Trailer,fi
+496,Traveller,fi
+497,Gas Gas,fi
+498,Baraldi,fi
+499,Cosmoter,fi
+500,KH-perävaunu,fi
+501,Asea,fi
+502,Chevrolet-Cobra,fi
+503,Vepa,fi
+504,Tam-Trailers,fi
+505,Ape,fi
+506,Europe-Tra,fi
+507,Huddig,fi
+508,Kalmar,fi
+509,Kalmar LMV,fi
+510,LMV,fi
+511,Caterpillar,fi
+512,Caterpillar-Towmotor,fi
+513,Balkancar,fi
+514,Gradall,fi
+515,Heikki,fi
+516,Bruunett,fi
+517,Tiki Treiler,fi
+518,Nisar,fi
+519,FMG,fi
+520,Teco,fi
+521,Valmet-Hymas,fi
+522,Hymas,fi
+523,Lundberg,fi
+524,AGT-Trailer,fi
+525,Magnum,fi
+526,Lai-Mu,fi
+527,FAI,fi
+528,Fordson,fi
+529,Occo,fi
+530,Aku,fi
+531,Nova Star,fi
+532,Stella,fi
+533,Skotten,fi
+534,Ritmo,fi
+535,Stiga,fi
+536,Scania-Master,fi
+537,Scania-Haapanen,fi
+538,Scania-Schörling,fi
+539,Scania-Vabis-Linden,fi
+540,Scania,fi
+541,Svetruck,fi
+542,SMV,fi
+543,Heppu,fi
+544,Fiat-Hitachi,fi
+545,Stocka,fi
+546,JC-Trailer,fi
+547,Jyry,fi
+548,LKZ,fi
+549,Helkama-Sensei,fi
+550,Ferrari,fi
+551,Timberjack,fi
+552,Paana,fi
+553,Reform,fi
+554,Coxer,fi
+555,Iveco-Matkaaja,fi
+556,Aktiv,fi
+557,Ariens,fi
+558,Ösa,fi
+559,Volvo Bm,fi
+560,Volvo,fi
+561,Volvo-Skuteng,fi
+562,Volvo BM Valmet,fi
+563,Evinrude,fi
+564,Farmi-Trac,fi
+565,Finncat,fi
+566,Finn Sammy,fi
+567,Frosty,fi
+568,Illern,fi
+569,Johnson,fi
+570,Kässbohrer,fi
+571,Lynx-Winha,fi
+572,Moto-Ski,fi
+573,Myski,fi
+574,TPK-Myski,fi
+575,Ockelbo,fi
+576,Ockelbo-Valmet,fi
+577,Rajd,fi
+578,Sinus,fi
+579,Sno-Prince,fi
+580,Sno-Trick,fi
+581,Terhi,fi
+582,TPK,fi
+583,Trapper,fi
+584,Valler-Ullberg,fi
+585,Åkerman,fi
+586,JP-kärry,fi
+587,Piaggio,fi
+588,Tammitrailer,fi
+589,Mane,fi
+590,Viking,fi
+591,Vetopeli,fi
+592,Farmi,fi
+593,Italjet,fi
+594,Daewoo,fi
+595,Komet,fi
+596,Ajokki,fi
+597,Mafi,fi
+598,Vanaja-Lokomo,fi
+599,Ljungbytruck,fi
+600,Ara,fi
+601,Sisu,fi
+602,Vanaja,fi
+603,Valmet,fi
+604,Hollming,fi
+605,Finnsammy,fi
+606,Saab,fi
+607,Kabus,fi
+608,Teijo,fi
+609,Joutra,fi
+610,NYK,fi
+611,Lokomo,fi
+612,Sisu-Lokomo,fi
+613,Björn,fi
+614,Ukko-Mestari,fi
+615,Lännen,fi
+616,Ponsse,fi
+617,OK,fi
+618,Lokari Horse,fi
+619,MAZ,fi
+620,Valtra-Vilske,fi
+621,Valtra,fi
+622,Lansing-Valmet,fi
+623,Valmet-Valtra,fi
+624,Valtra VL,fi
+625,James,fi
+626,Pinomäki,fi
+627,Pika,fi
+628,HS,fi
+629,Bollnäs,fi
+630,MBK,fi
+631,Volkswagen-Swift,fi
+632,BMA,fi
+633,Korado,fi
+634,Respo,fi
+635,Prinz-Idrott,fi
+636,Hopeasauma,fi
+637,Supo,fi
+638,Juuso,fi
+639,Polstjernan,fi
+640,Ssangyong,fi
+641,DAF,fi
+642,Alucar,fi
+643,Hopeasiipi,fi
+644,Brummi,fi
+645,Panther,fi
+646,Schmidt,fi
+647,Bentley,fi
+648,Johnston,fi
+649,Dniepr,fi
+650,Jyki,fi
+651,Hyosung,fi
+652,Indian,fi
+653,Travelift,fi
+654,Ransomes,fi
+655,Toro,fi
+656,MF,fi
+657,Electric Mobility,fi
+658,Standard Moto,fi
+659,Krone,fi
+660,Casalini,fi
+661,Xingtai,fi
+662,Jousi,fi
+663,Mekope,fi
+664,Te-Ho,fi
+665,Capri,fi
+666,Mc Cormick,fi
+667,Multicar,fi
+668,Neckar,fi
+669,Je-Lau,fi
+670,Steyr-Puch,fi
+671,Puch,fi
+672,Still-Saxby,fi
+673,Schäffer,fi
+674,Steyr,fi
+675,Fermec,fi
+676,K,fi
+677,Case IH,fi
+678,Goljat,fi
+679,CZ-Cagiva,fi
+680,MZ-Kanuni,fi
+681,Schmitz,fi
+682,Kramer-Tremo,fi
+683,Halla,fi
+684,Sport-Trailers,fi
+685,Bucher,fi
+686,Bucher-Schörling,fi
+687,Skogsjan,fi
+688,Cushman,fi
+689,Kögel,fi
+690,Trail Van,fi
+691,Yang,fi
+692,Europetra,fi
+693,UVM,fi
+694,Kanuni,fi
+695,She Lung,fi
+696,Aixam,fi
+697,Kärcher,fi
+698,SMC,fi
+699,Patria Vehicles,fi
+700,Wille,fi
+701,GAZ,fi
+702,Moskvitsh,fi
+703,Logset,fi
+704,Samsung,fi
+705,Niewiadow,fi
+706,Simpa,fi
+707,ZIL,fi
+708,Volga,fi
+709,UAZ,fi
+710,Tschaika,fi
+711,Kamaz,fi
+712,RAF,fi
+713,Tavria,fi
+714,Lada,fi
+715,Niva,fi
+716,Lada-Vaz,fi
+717,Ligier,fi
+718,JSI-Trailers,fi
+719,Hopesiipi,fi
+720,RS-Trailer,fi
+721,Mccormick,fi
+722,Com Trailer,fi
+723,Claas,fi
+724,Atala,fi
+725,Antonio Carraro,fi
+726,Egholm,fi
+727,E-Ton,fi
+728,Yki,fi
+729,Hanski,fi
+730,Jaspe,fi
+731,Ekeri,fi
+732,Aeon,fi
+733,Aeon Motor,fi
+734,CH Racing,fi
+735,Sanili,fi
+736,Zhongyu,fi
+737,Kajo,fi
+738,JDM,fi
+739,Tekno-Trailer,fi
+740,Motorhispania,fi
+741,Sterckeman,fi
+742,GM Daewoo,fi
+743,Taiga,fi
+744,Fiat Kobelco,fi
+745,Honlei,fi
+746,Kontti,fi
+747,Baotian,fi
+748,Microcar,fi
+749,Ii-Trailer,fi
+750,Morris-Cooper,fi
+751,Melex,fi
+752,Loncin,fi
+753,CF Moto,fi
+754,Vulcan,fi
+755,Lifan,fi
+756,Branson,fi
+757,TM Racing,fi
+758,Juhta Plus,fi
+759,Daifo,fi
+760,Meclift,fi
+761,Barossa Motor,fi
+762,Kia,fi
+763,Jawa 650,fi
+764,Nacional Motor,fi
+765,EVT,fi
+766,Ladog,fi
+767,Fomac,fi
+768,Qingqi,fi
+769,Semax,fi
+770,Lännen-Valmet,fi
+771,Kinroad,fi
+772,Farmi Pro,fi
+773,Longchang,fi
+774,BCS,fi
+775,Belarus,fi
+776,Crystal,fi
+777,EO,fi
+778,HTZ,fi
+779,Wagner,fi
+780,AIE,fi
+781,Keeway,fi
+782,Smart,fi
+783,Ase,fi
+784,Nordstjärnan,fi
+785,Miele,fi
+786,Vapsa,fi
+787,SYM,fi
+788,Jianshe,fi
+789,Iseki,fi
+790,Chuanl,fi
+791,Yiying,fi
+792,Dazon,fi
+793,Ego Vehicles,fi
+794,Wangye,fi
+795,Zongshen,fi
+796,Chongqing Lifan,fi
+797,Black'n Roll,fi
+798,Linhai,fi
+799,Udarnik Pk,fi
+800,Komatsu,fi
+801,Polaris,fi
+802,Maybach,fi
+803,Veto,fi
+804,Desta,fi
+805,Skoda,fi
+806,Tatra,fi
+807,Chunlan,fi
+808,Adly Moto,fi
+809,Guirro,fi
+810,Finn-Power,fi
+811,Feiying,fi
+812,CPI,fi
+813,Siamoto,fi
+814,Jincheng,fi
+815,Malaguti,fi
+816,Simson,fi
+817,Zetor,fi
+818,Hero,fi
+819,ZTS,fi
+820,Jawetta,fi
+821,Mobylette,fi
+822,Trygg,fi
+823,Rabeneick,fi
+824,Göricke,fi
+825,KO,fi
+826,Vesta,fi
+827,NMV,fi
+828,Öglaend-Saxo-Prins,fi
+829,Öglaend-Regulus,fi
+830,Öglaend-Partner,fi
+831,Öglaend-Hero,fi
+832,Öglaend-Comet,fi
+833,Wayne,fi
+834,FSO,fi
+835,Polski-Fiat,fi
+836,Ursus,fi
+837,Öglaend-Achilles,fi
+838,Öglaend,fi
+839,ZZR,fi
+840,Viking-Öglaend,fi
+841,Velo-Öglaend,fi
+842,Teräs-Siipi,fi
+843,Solo,fi
+844,Sport,fi
+845,Saxo-Prins-Öglaend,fi
+846,Regulus-Öglaend,fi
+847,Universal,fi
+848,Kubota,fi
+849,Raleigh,fi
+850,Pyrkijä,fi
+851,Puch-Tunturi,fi
+852,Ebro,fi
+853,Partner,fi
+854,F-Pro,fi
+855,Ktm-Camping,fi
+856,Jupiter,fi
+857,Hero-Öglaend,fi
+858,Hermes,fi
+859,Helkama,fi
+860,IMT,fi
+861,IFA,fi
+862,Torpedo,fi
+863,Grand Prix,fi
+864,Goldie,fi
+865,TCM,fi
+866,Fram,fi
+867,DKW,fi
+868,Cresto-Öglaend,fi
+869,Cresto,fi
+870,Hyundai,fi
+871,Comet-Öglaend,fi
+872,Ciao,fi
+873,Camping Ktm,fi
+874,Camping,fi
+875,Achilles-Öglaend,fi
+876,Achilles,fi
+877,Moelven,fi
+878,Tadano,fi
+879,Faun,fi
+880,Toyota-Mobi,fi
+881,Toyota-Matka-Matti,fi
+882,Faun-Demag,fi
+883,Faun-Krupp,fi
+884,Faun-Tadano,fi
+885,Hydrokran,fi
+886,PPM,fi
+887,SFB-American,fi
+888,Allen,fi
+889,Kato,fi
+890,Fuso-Kato,fi
+891,Fuso,fi
+892,Mitsubishi-Frankia,fi
+893,Mitsubishi-Kato,fi
+894,Mitsubishi-Hymer,fi
+895,Mitsubishi-Tadano,fi
+896,AWE,fi
+897,Wartburg,fi
+898,Mitsubishi-Foster-Day,fi
+899,Nissan-Tadano,fi
+900,Nissan,fi
+901,Isuzu,fi
+902,Mazda,fi
+903,Mitsubishi,fi
+904,Colt,fi
+905,Toyota,fi
+906,Kawasaki,fi
+907,Yamaha,fi
+908,Honda,fi
+909,AJS,fi
+910,Ancillotti,fi
+911,Daihatsu,fi
+912,Suzuki,fi
+913,Aprilia,fi
+914,Subaru,fi
+915,Benelli,fi
+916,Beta,fi
+917,Bimota,fi
+918,Bimota-Kawasaki,fi
+919,BSA,fi
+920,Bultaco,fi
+921,Cagiva,fi
+922,Can-Am,fi
+923,Crescent,fi
+924,CZ,fi
+925,Ducati,fi
+926,Elektron,fi
+927,Enfield,fi
+928,Erkkola,fi
+929,Fantic,fi
+930,Frigerio-Puch,fi
+931,Harley-Davidson,fi
+932,Hercules,fi
+933,HRD,fi
+934,Husqvarna,fi
+935,IC,fi
+936,Jawa,fi
+937,Kreidler,fi
+938,KTM,fi
+939,KTM-Penton,fi
+940,Lambretta,fi
+941,Lambro,fi
+942,Laverda,fi
+943,Maico,fi
+944,Malanca,fi
+945,Matchless,fi
+946,Minsk,fi
+947,Monark,fi
+948,Montesa,fi
+949,Moto Guzzi,fi
+950,Motobecane,fi
+951,MV Agusta,fi
+952,MZ,fi
+953,Norton,fi
+954,Ossa,fi
+955,SWM,fi
+956,TM,fi
+957,Ural,fi
+958,Vespa,fi
+959,Vincent Hrd,fi
+960,Winha,fi
+961,Zundapp,fi
+962,BFG,fi
+963,Gilera,fi
+964,Jawa-CZ,fi
+965,Tula,fi
+966,Daelim,fi
+967,Kobelco,fi
+968,Bajaj,fi
+969,Itteco,fi
+970,Derbi,fi
+971,Secma,fi
+972,Kymco,fi
+973,Sachs,fi
+974,Rieju,fi
+975,Bombardier,fi
+976,Moto Morini,fi
+977,Thomas,fi
+978,Tgab,fi
+979,Royal Enfield,fi
+980,Irbit Motorcycle Plant,fi
+981,Sky Team,fi
+982,Triton,fi
+983,Skygo,fi
+984,Thule,fi
+985,Beyond,fi
+986,Sanli,fi
+987,MTZ,fi
+988,Roxon,fi
+989,Moto Zeta,fi
+990,Datsun-Nissan,fi
+991,Datsun,fi
+992,Pagsta,fi
+993,Pronar,fi
+994,Dinli,fi
+995,TGB,fi
+996,Sherco,fi
+997,Bashan,fi
+998,Mitsubishi Fuso,fi
+999,Buell,fi
+AAA,Hsun,fi
+AAB,Masai,fi
+AAC,Alutrailer,fi
+AAD,Quattro,fi
+AAE,Sanben,fi
+AAF,Veeroad,fi
+AAG,Yuan,fi
+AAH,XGJAO,fi
+AAI,Xingyue,fi
+AAJ,ZhongNeng,fi
+AAK,JC,fi
+AAL,Gsmoon,fi
+AAM,Hensim,fi
+AAN,Jmstar,fi
+AAO,IKH,fi
+AAP,Odes,fi
+AAQ,Generic Motor,fi
+AAR,Buyang,fi
+AAS,Generic,fi
+AAT,Jonway,fi
+AAU,Hummer,fi
+AAV,Street Elegance,fi
+AAX,Yamasaki,fi
+AAY,LBC,fi
+AAZ,Zedka,fi
+ABA,MTL,fi
+ABB,Huatian,fi
+ABC,Motor Mania,fi
+ABD,Goes,fi
+ABE,Polini Motori,fi
+ABF,Motorhispania/MHMotorcycle,fi
+ABG,Znen,fi
+ABH,Lingben,fi
+ABI,Campell,fi
+ABJ,Cub Cadet,fi
+ABK,Shineray,fi
+1000,Ace,fi
+1001,Agent,fi
+1002,AM,fi
+1003,AMX,fi
+1004,Aquatrail,fi
+1005,Arcsteel,fi
+1006,Ariel,fi
+1007,Ariwal,fi
+1008,Ar-Pe,fi
+1009,Astral,fi
+1010,Astro,fi
+1011,Avant,fi
+1012,AWO,fi
+1013,Baltic,fi
+1014,Botnia,fi
+1015,Briab,fi
+1016,Brunte Lyx,fi
+1017,Bygdsiljum,fi
+1018,Böckmann,fi
+1019,Cavalier,fi
+1020,CD,fi
+1021,Cezeta,fi
+1022,Combi-Camp,fi
+1023,Doll,fi
+1024,Egen tillverkn,fi
+1025,Ekas,fi
+1026,EK-Koivu,fi
+1027,Elddis,fi
+1028,EMW,fi
+1029,Eriba,fi
+1030,Euro,fi
+1031,Eurotank,fi
+1032,Eurowagon,fi
+1033,Ferguson,fi
+1034,Fiat-Adria,fi
+1035,Fiat-Elnagh,fi
+1036,Fiat-Granduca,fi
+1037,Fica,fi
+1038,Finn-Cabby,fi
+1039,Finntrailer,fi
+1040,Fiska,fi
+1041,Fjällvagnen,fi
+1042,Fobo,fi
+1043,Ford-Elnagh,fi
+1044,Fruehauf,fi
+1045,Goldhofer,fi
+1046,Hakas,fi
+1047,Hanka,fi
+1048,Hessu,fi
+1049,Hillman,fi
+1050,Hol-Ma,fi
+1051,Home-Car,fi
+1052,HRP,fi
+1053,HT Truck,fi
+1054,Hunter,fi
+1055,Interconsult,fi
+1056,IPA,fi
+1057,Johansson,fi
+1058,Joka,fi
+1059,Jope,fi
+1060,Jorpe,fi
+1061,JT-Trailer,fi
+1062,Jussi,fi
+1063,Juva,fi
+1064,JV-Trailer,fi
+1065,Jyty,fi
+1066,Kaupe,fi
+1067,Kautec,fi
+1068,Ke-Ha,fi
+1069,Kel-Berg,fi
+1070,Kessi,fi
+1071,Kilafors,fi
+1072,KIP,fi
+1073,Kippari,fi
+1074,KL,fi
+1075,KMZ,fi
+1076,Kome,fi
+1077,Kuorma-Juhta,fi
+1078,Kylingekärran,fi
+1079,Kätevä,fi
+1080,Lamberet,fi
+1081,La-Mi,fi
+1082,Langendorf,fi
+1083,Limetec,fi
+1084,Lipe,fi
+1085,LRR,fi
+1086,LST,fi
+1087,Luvi-Trailer,fi
+1088,Läväkkä,fi
+1089,Ma-Ka,fi
+1090,Markset,fi
+1091,Maxi,fi
+1092,Mc Cormick International,fi
+1093,Messerschmitt,fi
+1094,Metallirakenne,fi
+1095,Monza,fi
+1096,Nalle,fi
+1097,Netam-Fruehauf,fi
+1098,NIX,fi
+1099,Nopsa,fi
+1100,NTM,fi
+1101,Nuffield,fi
+1102,Närko,fi
+1103,Pacton,fi
+1104,Pa-Li,fi
+1105,Pal-Kar,fi
+1106,Pannonia,fi
+1107,Penttilä,fi
+1108,Pete,fi
+1109,Piacenza,fi
+1110,Proto,fi
+1111,Psyko,fi
+1112,Rahti,fi
+1113,Rant,fi
+1114,Reima,fi
+1115,Reke,fi
+1116,Retu,fi
+1117,RKP,fi
+1118,RK-Vaunu,fi
+1119,Road Power,fi
+1120,Ruka,fi
+1121,SAF/Mattila,fi
+1122,Saku,fi
+1123,Sampo-Rosenlew,fi
+1124,Scania Vabis,fi
+1125,SF-Matkaaja,fi
+1126,Siimet,fi
+1127,Silver Camel,fi
+1128,Sinetti,fi
+1129,Sisupoika,fi
+1130,Site,fi
+1131,Skif-M,fi
+1132,Suomi-Trailer,fi
+1133,Säiliörakenne,fi
+1134,T.E.C.,fi
+1135,Tara,fi
+1136,Teju,fi
+1137,Telivaunu,fi
+1138,Tepu,fi
+1139,Thomson,fi
+1140,Toplift,fi
+1141,Trabant,fi
+1142,Trafix,fi
+1143,Tramp,fi
+1144,Tranesläpet,fi
+1145,Truck,fi
+1146,TruckMasters,fi
+1147,Waasa Trailer,fi
+1148,Wagon,fi
+1149,VAK,fi
+1150,Valtteri,fi
+1151,Vape,fi
+1152,Weckman,fi
+1153,Veka,fi
+1154,Velmu,fi
+1155,Wiler,fi
+1156,Wilk,fi
+1157,Willys,fi
+1158,Värmlandsvagnen,fi
+1159,Yellow Power,fi
+1160,Eurotankki,fi
+1161,Umeå,fi
+1162,Superking,fi
+1163,Walton,fi
+1164,Hond,fi
+1165,Renda,fi
+1166,BTM,fi
+1167,AV-Car Motors,fi
+1168,Levo,fi
+1169,Nemo,fi
+1170,Garelli,fi
+1171,Seger,fi
+1172,K-9,fi
+1173,Eco Sport,fi
+1174,Motobi,fi
+1175,Turkol,fi
+1176,Oseta,fi
+1177,Zipp,fi
+1178,Dorton,fi
+1179,Speedy,fi
+1180,Star,fi
+1181,Vision,fi
+1182,Celik,fi
+1183,Citymotor,fi
+1184,Cobra,fi
+1185,Jiameng,fi
+1186,Texas,fi
+1187,Chevrolet Daewoo,fi
+1188,Doosan,fi
+1189,Agados,fi
+1190,CSR,fi
+1191,Explorer,fi
+1192,Sumo Motor,fi
+1193,Meko,fi
+1194,Kinlon,fi
+1195,Rally USA,fi
+1196,Paku,fi
+1197,I-Moto,fi
+1198,Azel,fi
+1199,Pre-Moto,fi
+1200,Qj,fi
+1201,Qjiang,fi
+1202,Ride,fi
+1203,MTR,fi
+1204,Mega,fi
+1205,Aston Martin,fi
+1206,Giotti Victoria,fi
+1207,Otobi,fi
+1208,Motom,fi
+1209,Dadyw,fi
+1210,"Chongqing Jianshe Motorcycle Co., Ltd",fi
+1211,FYM,fi
+1212,Pioneer,fi
+1213,Ramzey,fi
+1214,First Bike,fi
+1215,Jiaji,fi
+1216,Feiling,fi
+1217,Tutu,fi
+1218,EPM,fi
+1219,Romet Motors,fi
+1220,Bombardier Recreational Products,fi
+1221,BRP,fi
+1222,SNF,fi
+1223,JsV Trailer,fi
+1224,Huoniao,fi
+1225,Delta Allis,fi
+1226,Moto Laverda,fi
+1227,Shenmao,fi
+1228,Keeway by Qianjiang,fi
+1229,Leone,fi
+1230,Nipponia,fi
+1231,Citroen-Dethleffs/Globecar,fi
+1232,Citroen-La Strada,fi
+1233,Citroen-Pössl,fi
+1234,Fiat-Arca,fi
+1235,Fiat-Arto,fi
+1236,Fiat-Carthago,fi
+1237,Fiat-Challenger,fi
+1238,Fiat-Chausson,fi
+1239,Fiat-CI,fi
+1240,Fiat-Dethleffs/Globecar,fi
+1241,Fiat-Eura-Mobil,fi
+1242,Fiat-Itineo,fi
+1243,Fiat-Kabe,fi
+1244,Fiat-McLouis,fi
+1245,Fiat-Miller,fi
+1246,Fiat-Mooveo,fi
+1247,Fiat-Pössl,fi
+1248,Fiat-Rapido,fi
+1249,Fiat-Rimor,fi
+1250,Fiat-Sharky,fi
+1251,Fiat-TEC,fi
+1252,Fiat-Twin,fi
+1253,Fiat-Weinsberg,fi
+1254,Fiat-XCO,fi
+1255,Ford-Burstner,fi
+1256,Ford-Carado,fi
+1257,Ford-CI,fi
+1258,Ford-Dethleffs,fi
+1259,Ford-Dethleffs/Globecar,fi
+1260,Ford-Dethleffs/Sunlight,fi
+1261,Ford-Eura-Mobil,fi
+1262,Ford-Fendt,fi
+1263,Ford-Hobby,fi
+1264,Ford-Hymer,fi
+1265,Ford-Kentucky,fi
+1266,Ford-La Strada,fi
+1267,Ford-LMC,fi
+1268,Ford-Pössl,fi
+1269,Ford-Solifer,fi
+1270,Ford-TCMobile,fi
+1271,Ford-TEC,fi
+1272,Iveco-Arca,fi
+1273,Iveco-Carthago,fi
+1274,Iveco-Concorde,fi
+1275,Iveco-Dethleffs,fi
+1276,Iveco-Fendt,fi
+1277,Iveco-Flair,fi
+1278,Iveco-Hobby,fi
+1279,Iveco-Hymer,fi
+1280,MAN-Carthago,fi
+1281,MAN-Clou,fi
+1282,MAN-Concorde,fi
+1283,Mercedes-Benz-Adriatik,fi
+1284,Mercedes-Benz-Burstner,fi
+1285,Mercedes-Benz-Carthago,fi
+1286,Mercedes-Benz-CI,fi
+1287,Mercedes-Benz-Concorde,fi
+1288,Mercedes Benz-Dethleffs,fi
+1289,Mercedes-Benz-James Cook,fi
+1290,Mercedes-Benz-La Strada,fi
+1291,Mercedes-Benz-Pilote,fi
+1292,Mercedes-Benz-Rapido,fi
+1293,Mercedes-Benz-Rimor,fi
+1294,Mercedes-Benz-TEC,fi
+1295,Mercedes-Benz-Travelzip,fi
+1296,Peugeot-Casa,fi
+1297,Peugeot-Travelzip,fi
+1298,Renault-Adriatik,fi
+1299,Renault-Arca,fi
+1300,Renault-Dethleffs,fi
+1301,Renault-Dethleffs/Globecar,fi
+1302,Renault-Hymer,fi
+1303,Renault-Knaus,fi
+1304,Renault-Mobilvetta,fi
+1305,Renault-Pilote,fi
+1306,Renault-Pössl,fi
+1307,Renault-Solifer,fi
+1308,Renault-XCO,fi
+1309,Kafo,fi
+1310,Eximo,fi
+1311,Caravelair,fi
+1312,Hymer,fi
+1313,LMC,fi
+9999,Muu,fi
+1314,Motoroma,fi
+1315,Roar,fi
+1316,Sandstorm,fi
+1317,Haotian,fi
+1318,Sukida,fi
+1319,Rariro,fi
+1320,Kaier,fi
+1321,Kam,fi
+1322,Haojian,fi
+1323,Kawada,fi
+1324,Kataya,fi
+1325,Benteng,fi
+1326,TNS,fi
+1327,Liangzi,fi
+1328,Sacin,fi
+1329,Metalco,fi
+1330,Sokudo,fi
+1331,Bazuka,fi
+1332,Minico,fi
+1333,Motos Bordoy,fi
+1334,Sumco,fi
+1335,Monkeybikes,fi
+1336,Faztek,fi
+1337,Motosbasi,fi
+1338,YJ,fi
+1339,Kazuma,fi
+1340,Harida,fi
+1341,Humbaur,fi
+1342,Bisan-Lifan,fi
+1343,Truva,fi
+1344,Salcano,fi
+1345,Yuki,fi
+1346,Xplorer,fi
+1347,Crow Motors,fi
+1348,Harby Hunter,fi
+1349,Aconda,fi
+1350,Kudaki,fi
+1351,Zennco,fi
+1352,Orion,fi
+1353,Xingxing,fi
+1354,Tianjiu,fi
+1355,Shuangjian,fi
+1356,Avanti,fi
+1357,S&T Kanuni,fi
+1358,Rapide,fi
+1359,Erde,fi
+1360,Borile,fi
+1361,SCR,fi
+1362,Robuste Kaiser,fi
+1363,Barthau,fi
+1364,Capron,fi
+1365,Renault-Adria Mobil,fi
+1366,Velocette,fi
+1367,Ford-Capron,fi
+1368,Xintian,fi
+1369,Awesome Moto,fi
+1370,Fiat-Adria Mobil,fi
+1371,Eco Log,fi
+1372,Saris,fi
+1373,Lanvertti,fi
+1374,Unsin,fi
+1375,Adria Mobil,fi
+1376,Balbi,fi
+1377,Quazilla,fi
+1378,CCM,fi
+1379,Ecxes,fi
+1380,Guagliano-Moto,fi
+1381,Imoto S.A,fi
+1382,Zanella,fi
+1383,Motomax,fi
+1384,Takasaki,fi
+1385,Minarelli,fi
+1386,Omega Motor,fi
+1387,FMC,fi
+1388,Madness,fi
+1389,Kinro,fi
+1390,Lonting,fi
+1391,Davinchi,fi
+1392,Pagoda,fi
+1393,Mondial,fi
+1394,Smithco,fi
+1395,MacGregor,fi
+1396,DaimlerChrysler,fi
+1397,WK,fi
+1398,Boom,fi
+1399,Rewaco,fi
+1400,Kaiser,fi
+1401,Dieci,fi
+1402,Wörmann,fi
+1403,Audi-Porsche,fi
+1404,Kingwell,fi
+1405,PGO,fi
+1406,Fiat-Karmann,fi
+1407,Karmann,fi
+1408,Zico,fi
+1409,Berger,fi
+1410,Sea,fi
+1411,Heku,fi
+1412,Eura Mobil,fi
+1413,Niesmann-Bischoff,fi
+1414,Mattsson,fi
+1415,HM,fi
+1416,Blata,fi
+1417,Minauto,fi
+1418,Apollo,fi
+1419,Superbyke,fi
+1420,Sohoo,fi
+1421,Hyena,fi
+1422,Factory Bike,fi
+1423,Mikilon,fi
+1424,Erider,fi
+1425,Arngren,fi
+1426,Grecav Spa,fi
+1427,Sukyama,fi
+1428,WT-Metall,fi
+1429,Pulse,fi
+1430,Team-Ryder,fi
+1431,Simpli,fi
+1432,Rivero,fi
+1433,Mondid,fi
+1434,Kingway,fi
+1435,Tauris,fi
+1436,Router,fi
+1437,Lintex,fi
+1438,Capirelli,fi
+1439,Haojin,fi
+1440,Lingken,fi
+1441,Armode,fi
+1442,Kuba,fi
+1443,Asya,fi
+1444,General,fi
+1445,Elegance,fi
+1446,Catwalk,fi
+1447,Belderia,fi
+1448,RM Motor,fi
+1449,Pantherquads,fi
+1450,Hudson Bike,fi
+1451,Lion,fi
+1452,GD Europe,fi
+1453,YMC,fi
+1454,Blade,fi
+1455,Maxxspeed,fi
+1456,Autocaravans Rimor S.p.A,fi
+1457,Elnagh,fi
+1458,Bourgoin,fi
+1459,Sonik,fi
+1460,Haolon,fi
+1461,Fortune,fi
+1462,Multione,fi
+1463,Bazooka,fi
+1464,Ford-Challenger,fi
+1465,Dresel,fi
+1466,Dado,fi
+1467,Baron,fi
+1468,Yeis,fi
+1469,Easyscoot,fi
+1470,Tamoretti,fi
+1471,BS Moto,fi
+1472,AGM,fi
+1473,WLIE,fi
+1474,Vastro,fi
+1475,Rover Bikes,fi
+1476,Scootermania,fi
+1477,Minelli,fi
+1478,Bellier,fi
+1479,Her Chee,fi
+1480,Regal-Raptor,fi
+1481,Cajero,fi
+1482,Leonart,fi
+1483,Motiva S,fi
+1484,NGS,fi
+1485,Yellow Rock,fi
+1486,Sun Living,fi
+1487,Qianjiang,fi
+1488,BCS,fi
+1489,Jungheinrich,fi
+1490,Moffett,fi
+1491,Megelli,fi
+1492,Finncarry,fi
+1493,Kröger,fi
+1494,Trailfine,fi
+1495,TBM,fi
+1496,Hitachi Sumitomo,fi
+1497,Paul & Paula,fi
+1498,Wick,fi
+1499,Chang Jiang,fi
+1500,Anssems,fi
+1501,Fiat-Carado,fi
+1502,Baccari,fi
+1503,Zumico,fi
+1504,Due,fi
+1505,Knapen,fi
+1506,Haili,fi
+1507,Mercedes-AMG,fi
+1508,MX,fi
+1509,TNT Motor,fi
+1510,Hytrack,fi
+1511,Quadzilla,fi
+1512,Sachs-Bikes,fi
+1513,Longjia,fi
+1514,Hamachi,fi
+1515,Olky,fi
+1516,Inserm,fi
+1517,Rival Motors,fi
+1518,Ginomoto,fi
+1519,Stomp,fi
+1520,Fiat-Concorde,fi
+1521,Swei,fi
+1522,Swen,fi
+1523,Luxxon,fi
+1524,Sprint,fi
+1525,Biaginni,fi
+1526,Lgw Moto,fi
+1527,Viarelli,fi
+1528,Revatto,fi
+1529,Tms,fi
+1530,FORD-CNG-TECHNIK,fi
+1531,Holden,fi
+1532,Infiniti,fi
+1533,Ovinem,fi
+1534,CEM,fi
+1535,Cemoto,fi
+1536,Agirra,fi
+1537,Stadion,fi
+1538,Neco,fi
+1539,Razzo,fi
+1540,Minimoto,fi
+1541,Killerbee,fi
+1542,Mavi,fi
+1543,Iico,fi
+1544,Jackfox,fi
+1545,CMC,fi
+1546,Brentex-Trailer,fi
+1547,Jondai,fi
+1548,CC,fi
+1549,Zhenhua,fi
+1550,PULES,fi
+1551,RIVERO,fi
+1552,Victory Motorcycles Division,fi
+1553,Polaris Industries Inc.,fi
+1554,Spindelberger,fi
+1555,Longbo,fi
+1556,Inca,fi
+1557,Jinma,fi
+1558,HHJM,fi
+1559,JM,fi
+1560,Fire Bird,fi
+1561,DH. Haotian,fi
+1562,Longting,fi
+1563,Rover Bikes FS1,fi
+1564,Acura,fi
+1565,KAR,fi
+1566,Honling,fi
+1567,SHL,fi
+1568,Riya,fi
+1569,Trimax,fi
+1570,Matra,fi
+1571,Aiyumo,fi
+1572,Cazador,fi
+1573,Conti Motors,fi
+1574,Biselect,fi
+1575,Luna,fi
+1576,WM Motor,fi
+1577,Insera,fi
+1578,Rich Motors,fi
+1579,HPS,fi
+1580,Bottari,fi
+1581,Aragon,fi
+1582,Aspes,fi
+1583,Agbikes,fi
+1584,Bullfire,fi
+1585,Diabolini,fi
+1586,Ride explorer,fi
+1587,Goetz,fi
+1588,Gb motors,fi
+1589,Hot bike,fi
+1590,Cougar,fi
+1591,Nordia,fi
+1592,Mvm,fi
+1593,Rider,fi
+1594,Saona,fi
+1595,Ssr,fi
+1596,Strom,fi
+1597,Titan Force,fi
+1598,Teamsix,fi
+1599,Testi,fi
+1600,Direct Bikes,fi
+1601,Maverick,fi
+1602,AMG Hummer,fi
+1603,Juneng,fi
+1604,Jnen,fi
+1605,Lingtian,fi
+1606,Toros,fi
+1607,Edwards,fi
+1608,Cindy,fi
+1609,Techno Classic,fi
+1610,Viraggio,fi
+1611,Modena,fi
+1612,Alpina Di Renania,fi
+1613,Pegasso,fi
+1614,Luuko,fi
+1615,PMI,fi
+1616,Santini,fi
+1617,Scooterking,fi
+1618,IVA,fi
+1619,Pronto,fi
+1620,VOM,fi
+1621,Benero,fi
+1622,RKK-Trailer,fi
+1623,Arigga,fi
+1624,Indespension,fi
+1625,Fliegl,fi
+1626,Montenegro,fi
+1627,LGM Moto,fi
+1628,Lapo Motors,fi
+1629,Dafier,fi
+1630,Acsud,fi
+1631,Cotton,fi
+1632,Hanway,fi
+1633,Demharter,fi
+1634,Eu-R,fi
+1635,Caravan,fi
+1636,BORO,fi
+1637,Rapido,fi
+1638,Concorde,fi
+1639,Ljungby,fi
+1640,Norsjö,fi
+1641,Rydwan,fi
+1642,Matec,fi
+1643,NK Bike,fi
+1644,EWS-Trailer,fi
+1645,Leike,fi
+1646,Roadbike,fi
+1647,Fhlun,fi
+1648,Think,fi
+1649,Xmotos,fi
+1650,Ecycle,fi
+1651,Laurell,fi
+1652,Moto B,fi
+1653,Diablo,fi
+1654,Verelli,fi
+1655,Recto,fi
+1656,BTC,fi
+946,Vöyri,fi
+946,Vörå,sv
+1657,XinYang,fi
+1658,Yadea,fi
+1659,Pössl,fi
+1660,Tomberlin,fi
+1661,Dino,fi
+1662,Grecav S.r.l.,fi
+1663,Irisbus,fi
+1664,Rivakka,fi
+1665,ERDE SAS,fi
+1666,Falch,fi
+1667,Style,fi
+1668,Kentoya,fi
+1669,X-gear,fi
+1670,Mci,fi
+1671,Vigo,fi
+1672,Yamoto,fi
+1673,Motoforce,fi
+1674,Atlas Copco,fi
+1675,Autotrailer-Finland,fi
+1676,Benzhou,fi
+1677,arTric,fi
+1678,Gowinn,fi
+1679,Kenrod,fi
+1680,Berini,fi
+1681,Arora,fi
+1682,IMF-Industrie,fi
+1683,Moto-Ventus,fi
+1684,Romet,fi
+1685,Euroka,fi
+1686,Leeway,fi
+1687,Elitte,fi
+1688,Kentoya,fi
+1689,Sampra,fi
+1690,Eagle-Wing,fi
+1691,Docker,fi
+1692,Imfindustrie,fi
+1693,ATX-Motor,fi
+1694,Neuson,fi
+1695,IMF,fi
+1696,Moto Rellini,fi
+1697,M1NSK,fi
+1698,Ferro,fi
+1699,Nicom,fi
+1700,MH Trailer,fi
+1701,Luyuan,fi
+1702,Okai Rolektro,fi
+1703,Bs Motor,fi
+1704,Wildlander,fi
+1705,Mosca,fi
+1706,Himoinsa,fi
+1707,Vario,fi
+1708,Kaeser,fi
+1709,Axy,fi
+1710,V.D.O.,fi
+1711,Moto,fi
+1712,Bravo,fi
+1713,Asia,fi
+1714,Legend,fi
+000,Självbyggt,sv
+9999,Annat,sv
+1,Manuell,sv
+2,Automatisk,sv
+3,Steglös,sv
+4,Manuell/automatisk,sv
+5,Variator,sv
+6,Variabel utväxling,sv
+7,Fotväxlad,sv
+X,Ej tillämpligt,sv
+Y,Annan,sv
+1715,V.D.O. Moto,fi
+1716,Nilfisk,fi
+1717,Tana,fi
+1718,Kutsenits,fi
+1719,Eagle motorsports,fi
+1720,Eglmotor,fi
+1721,Grecav,fi
+1722,BETANET,fi
+1723,Dresel MCT,fi
+1724,Pongratz,fi
+1725,White Knuckle,fi
+1726,BEELINE,fi
+1727,Hammar,fi
+1728,"Club Car, LLC",fi
+1729,Lamboo,fi
+1730,Ellebi,fi
+1731,Jiajue,fi
+1732,Jinding,fi
+1733,Lanying,fi
+1734,B.H.M.,fi
+1735,Miromot,fi
+1736,Alphamoto,fi
+1737,Motogino,fi
+1738,Qlink,fi
+1739,Maxon,fi
+1740,DHS,fi
+1741,Eurocka (CKA),fi
+1742,Betamoto,fi
+1743,Adamoto,fi
+1744,Ztechmotor,fi
+1745,MTX,fi
+1746,Samurai,fi
+1747,Enix,fi
+1748,Roxar,fi
+1749,Pol'r,fi
+1750,Glanz,fi
+1751,Peda,fi
+1752,Hodi,fi
+1753,Omaks,fi
+1754,Herkules,fi
+1755,Saplex (SPX),fi
+1756,Engage,fi
+1757,Embrotti,fi
+1758,Mondo,fi
+1759,Motormania,fi
+1760,Motowell,fi
+1761,Norrland's,fi
+1762,Kenno,fi
+1763,Sikombi,fi
+1764,Scoyo,fi
+1765,Bikes,fi
+1766,Falmek,fi
+1767,Salute,fi
+1768,Turbho,fi
+1769,HBT,fi
+1770,Supermotor,fi
+1771,Wkbikes,fi
+1772,Benzer,fi
+1773,Bu Moto,fi
+1774,Yuki Motor,fi
+1775,Nao,fi
+1776,Mad Croc,fi
+1777,Arcangeli moto,fi
+1778,Miromoto,fi
+1779,Xway,fi
+1780,PROF,fi
+1781,Raybar,fi
+1782,Giantco,fi
+1783,Tank,fi
+1784,Anboamoto,fi
+1785,Alfamoto,fi
+1786,Lucatto,fi
+1787,Adamoo,fi
+1788,Vivacox,fi
+1789,Rich Motor,fi
+1790,Scoyo Bikes,fi
+1791,Yamazu,fi
+1792,Vermeer,fi
+1793,Meiller,fi
+1794,Muuli Pro,fi
+1795,Sixties,fi
+1796,Angell,fi
+1797,Eurocomach,fi
+1798,Wiola,fi
+1799,Tangjunouling,fi
+1800,Abat,fi
+1801,Akumoto,fi
+1802,Do-Dane,fi
+1803,Floretti,fi
+1804,6th gear,fi
+1805,Busetto,fi
+1806,Maxsuki,fi
+1807,Sonic,fi
+1808,Camox,fi
+1809,Indcar,fi
+1810,Autosan,fi
+1811,Pumarex,fi
+1812,Gregory Industries,fi
+1813,G-Ride,fi
+1814,Blyss,fi
+1815,VW,fi
+1816,Caetano,fi
+1817,Bombardier Recreational Products Inc (BRP),fi
+1818,Ligier professional,fi
+1819,Brendon,fi
+1820,VDL,fi
+1821,Volkswagen VW,fi
+1822,Dongfang,fi
+1823,Highper,fi
+1824,Fisker,fi
+1825,Omme,fi
+1826,JPA,fi
+1827,Sunny-Ebike,fi
+1828,Guewer,fi
+1829,Seees,fi
+1830,Simplecity’s srl,fi
+1831,MMS S.A.,fi
+1832,NOUN’ Electric,fi
+1833,Vromos kiwi,fi
+1834,T-King,fi
+01,Private,en
+02,Subject to permit,en
+03,School vehicle,en
+04,Rental without driver,en
+05,Sales storage,en
+1835,Pasquali,fi
+000,Selfmade,en
+001,Fogelsta,sv
+001,Fogelsta,en
+002,Shield-Bantam,sv
+002,Shield-Bantam,en
+003,CCC-Kockum,sv
+003,CCC-Kockum,en
+004,Allis-Chalmers,sv
+004,Allis-Chalmers,en
+005,CCC-Grove,sv
+005,CCC-Grove,en
+006,Austin-Western,sv
+006,Austin-Western,en
+007,Bantam,sv
+007,Bantam,en
+008,Bobcat,sv
+008,Bobcat,en
+009,Buick,sv
+009,Buick,en
+010,Case,sv
+010,Case,en
+011,CCC,sv
+011,CCC,en
+012,Cadillac,sv
+012,Cadillac,en
+013,GMC,sv
+013,GMC,en
+014,Chevrolet,sv
+014,Chevrolet,en
+015,Chrysler,sv
+015,Chrysler,en
+016,Imperial,sv
+016,Imperial,en
+017,Chrysler-Simca,sv
+017,Chrysler-Simca,en
+018,Chrysler-Sunbeam,sv
+018,Chrysler-Sunbeam,en
+019,Reliant,sv
+019,Reliant,en
+020,CCC-Driltech,sv
+020,CCC-Driltech,en
+021,Sambron,sv
+021,Sambron,en
+022,Rottne,sv
+022,Rottne,en
+023,Demo,sv
+023,Demo,en
+024,Zamboni,sv
+024,Zamboni,en
+025,Dodge-Midas,sv
+025,Dodge-Midas,en
+026,Dodge,sv
+026,Dodge,en
+027,Dodge-Ajokki,sv
+027,Dodge-Ajokki,en
+028,Pettibone,sv
+028,Pettibone,en
+029,Hendrickson-Grove,sv
+029,Hendrickson-Grove,en
+030,Foden,sv
+030,Foden,en
+031,Lima,sv
+031,Lima,en
+032,Pettibone-CDL,sv
+032,Pettibone-CDL,en
+033,FWD-Grove,sv
+033,FWD-Grove,en
+034,FWD,sv
+034,FWD,en
+035,Hugu-Hugu,sv
+035,Hugu-Hugu,en
+036,RK,sv
+036,RK,en
+037,CI-Smålandia,sv
+037,CI-Smålandia,en
+038,Link-Belt,sv
+038,Link-Belt,en
+039,Seddon,sv
+039,Seddon,en
+040,Hendrickson,sv
+040,Hendrickson,en
+041,Grove-Allen,sv
+041,Grove-Allen,en
+042,Fred,sv
+042,Fred,en
+043,CD-Grove,sv
+043,CD-Grove,en
+044,Grove,sv
+044,Grove,en
+045,Harnischfeger,sv
+045,Harnischfeger,en
+046,Grove-Coles,sv
+046,Grove-Coles,en
+047,MOL-Harnischfeger,sv
+047,MOL-Harnischfeger,en
+048,MOL-Gradall,sv
+048,MOL-Gradall,en
+049,AH-kärry,sv
+049,AH-kärry,en
+050,Brenderup,sv
+050,Brenderup,en
+051,Carco Master,sv
+051,Carco Master,en
+052,International-Payloader,sv
+052,International-Payloader,en
+053,International,sv
+053,International,en
+054,John Deere,sv
+054,John Deere,en
+055,Jeep,sv
+055,Jeep,en
+056,Jacobsen,sv
+056,Jacobsen,en
+057,Carry,sv
+057,Carry,en
+058,Eldon-Trailer,sv
+058,Eldon-Trailer,en
+059,Elmeri,sv
+059,Elmeri,en
+060,Finnstar,sv
+060,Finnstar,en
+061,Fintara,sv
+061,Fintara,en
+062,Fredko,sv
+062,Fredko,en
+063,Lincoln,sv
+063,Lincoln,en
+064,Lorain,sv
+064,Lorain,en
+065,Henkone,sv
+065,Henkone,en
+066,Hiekkaranta,sv
+066,Hiekkaranta,en
+067,Holmo,sv
+067,Holmo,en
+068,Mercury,sv
+068,Mercury,en
+069,HPV,sv
+069,HPV,en
+070,Michigan,sv
+070,Michigan,en
+071,Jokke,sv
+071,Jokke,en
+072,Mustang,sv
+072,Mustang,en
+073,Juhta,sv
+073,Juhta,en
+074,Jullikka,sv
+074,Jullikka,en
+075,Kärppä,sv
+075,Kärppä,en
+076,Oldsmobile,sv
+076,Oldsmobile,en
+077,Kertek,sv
+077,Kertek,en
+078,Skytrak,sv
+078,Skytrak,en
+079,PCM,sv
+079,PCM,en
+080,Payloader,sv
+080,Payloader,en
+081,Scoopmobile,sv
+081,Scoopmobile,en
+082,Plymouth-Dodge,sv
+082,Plymouth-Dodge,en
+083,Plymouth,sv
+083,Plymouth,en
+084,Pontiac,sv
+084,Pontiac,en
+085,Rambler,sv
+085,Rambler,en
+086,American,sv
+086,American,en
+087,AMC,sv
+087,AMC,en
+088,American-Karmann,sv
+088,American-Karmann,en
+089,Kesto,sv
+089,Kesto,en
+090,Hino,sv
+090,Hino,en
+091,Roman,sv
+091,Roman,en
+092,Kiito,sv
+092,Kiito,en
+093,Kikka,sv
+093,Kikka,en
+094,Towmotor,sv
+094,Towmotor,en
+095,Yale,sv
+095,Yale,en
+096,Kila,sv
+096,Kila,en
+097,Lap-Poni,sv
+097,Lap-Poni,en
+098,Laveri,sv
+098,Laveri,en
+099,Gehl,sv
+099,Gehl,en
+100,Lemex,sv
+100,Lemex,en
+1000,Ace,sv
+1000,Ace,en
+1001,Agent,sv
+1001,Agent,en
+1002,AM,sv
+1002,AM,en
+1003,AMX,sv
+1003,AMX,en
+1004,Aquatrail,sv
+1004,Aquatrail,en
+1005,Arcsteel,sv
+1005,Arcsteel,en
+1006,Ariel,sv
+1006,Ariel,en
+1007,Ariwal,sv
+1007,Ariwal,en
+1008,Ar-Pe,sv
+1008,Ar-Pe,en
+1009,Astral,sv
+1009,Astral,en
+101,Lift,sv
+101,Lift,en
+1010,Astro,sv
+1010,Astro,en
+1011,Avant,sv
+1011,Avant,en
+1012,AWO,sv
+1012,AWO,en
+1013,Baltic,sv
+1013,Baltic,en
+1014,Botnia,sv
+1014,Botnia,en
+1015,Briab,sv
+1015,Briab,en
+1016,Brunte Lyx,sv
+1016,Brunte Lyx,en
+1017,Bygdsiljum,sv
+1017,Bygdsiljum,en
+1018,Böckmann,sv
+1018,Böckmann,en
+1019,Cavalier,sv
+1019,Cavalier,en
+102,Lokari,sv
+102,Lokari,en
+1020,CD,sv
+1020,CD,en
+1021,Cezeta,sv
+1021,Cezeta,en
+1022,Combi-Camp,sv
+1022,Combi-Camp,en
+1023,Doll,sv
+1023,Doll,en
+1024,Egen tillverkn,sv
+1024,Egen tillverkn,en
+1025,Ekas,sv
+1025,Ekas,en
+1026,EK-Koivu,sv
+1026,EK-Koivu,en
+1027,Elddis,sv
+1027,Elddis,en
+1028,EMW,sv
+1028,EMW,en
+1029,Eriba,sv
+1029,Eriba,en
+103,Lulla,sv
+103,Lulla,en
+1030,Euro,sv
+1030,Euro,en
+1031,Eurotank,sv
+1031,Eurotank,en
+1032,Eurowagon,sv
+1032,Eurowagon,en
+1033,Ferguson,sv
+1033,Ferguson,en
+1034,Fiat-Adria,sv
+1034,Fiat-Adria,en
+1035,Fiat-Elnagh,sv
+1035,Fiat-Elnagh,en
+1036,Fiat-Granduca,sv
+1036,Fiat-Granduca,en
+1037,Fica,sv
+1037,Fica,en
+1038,Finn-Cabby,sv
+1038,Finn-Cabby,en
+1039,Finntrailer,sv
+1039,Finntrailer,en
+104,Manu,sv
+104,Manu,en
+1040,Fiska,sv
+1040,Fiska,en
+1041,Fjällvagnen,sv
+1041,Fjällvagnen,en
+1042,Fobo,sv
+1042,Fobo,en
+1043,Ford-Elnagh,sv
+1043,Ford-Elnagh,en
+1044,Fruehauf,sv
+1044,Fruehauf,en
+1045,Goldhofer,sv
+1045,Goldhofer,en
+1046,Hakas,sv
+1046,Hakas,en
+1047,Hanka,sv
+1047,Hanka,en
+1048,Hessu,sv
+1048,Hessu,en
+1049,Hillman,sv
+1049,Hillman,en
+105,Masa,sv
+105,Masa,en
+1050,Hol-Ma,sv
+1050,Hol-Ma,en
+1051,Home-Car,sv
+1051,Home-Car,en
+1052,HRP,sv
+1052,HRP,en
+1053,HT Truck,sv
+1053,HT Truck,en
+1054,Hunter,sv
+1054,Hunter,en
+1055,Interconsult,sv
+1055,Interconsult,en
+1056,IPA,sv
+1056,IPA,en
+1057,Johansson,sv
+1057,Johansson,en
+1058,Joka,sv
+1058,Joka,en
+1059,Jope,sv
+1059,Jope,en
+106,Meno-Kärry,sv
+106,Meno-Kärry,en
+1060,Jorpe,sv
+1060,Jorpe,en
+1061,JT-Trailer,sv
+1061,JT-Trailer,en
+1062,Jussi,sv
+1062,Jussi,en
+1063,Juva,sv
+1063,Juva,en
+1064,JV-Trailer,sv
+1064,JV-Trailer,en
+1065,Jyty,sv
+1065,Jyty,en
+1066,Kaupe,sv
+1066,Kaupe,en
+1067,Kautec,sv
+1067,Kautec,en
+1068,Ke-Ha,sv
+1068,Ke-Ha,en
+1069,Kel-Berg,sv
+1069,Kel-Berg,en
+107,Mirella,sv
+107,Mirella,en
+1070,Kessi,sv
+1070,Kessi,en
+1071,Kilafors,sv
+1071,Kilafors,en
+1072,KIP,sv
+1072,KIP,en
+1073,Kippari,sv
+1073,Kippari,en
+1074,KL,sv
+1074,KL,en
+1075,KMZ,sv
+1075,KMZ,en
+1076,Kome,sv
+1076,Kome,en
+1077,Kuorma-Juhta,sv
+1077,Kuorma-Juhta,en
+1078,Kylingekärran,sv
+1078,Kylingekärran,en
+1079,Kätevä,sv
+1079,Kätevä,en
+108,Muuli,sv
+108,Muuli,en
+1080,Lamberet,sv
+1080,Lamberet,en
+1081,La-Mi,sv
+1081,La-Mi,en
+1082,Langendorf,sv
+1082,Langendorf,en
+1083,Limetec,sv
+1083,Limetec,en
+1084,Lipe,sv
+1084,Lipe,en
+1085,LRR,sv
+1085,LRR,en
+1086,LST,sv
+1086,LST,en
+1087,Luvi-Trailer,sv
+1087,Luvi-Trailer,en
+1088,Läväkkä,sv
+1088,Läväkkä,en
+1089,Ma-Ka,sv
+1089,Ma-Ka,en
+109,Muurski,sv
+109,Muurski,en
+1090,Markset,sv
+1090,Markset,en
+1091,Maxi,sv
+1091,Maxi,en
+1092,Mc Cormick International,sv
+1092,Mc Cormick International,en
+1093,Messerschmitt,sv
+1093,Messerschmitt,en
+1094,Metallirakenne,sv
+1094,Metallirakenne,en
+1095,Monza,sv
+1095,Monza,en
+1096,Nalle,sv
+1096,Nalle,en
+1097,Netam-Fruehauf,sv
+1097,Netam-Fruehauf,en
+1098,NIX,sv
+1098,NIX,en
+1099,Nopsa,sv
+1099,Nopsa,en
+110,Austin,sv
+110,Austin,en
+1100,NTM,sv
+1100,NTM,en
+1101,Nuffield,sv
+1101,Nuffield,en
+1102,Närko,sv
+1102,Närko,en
+1103,Pacton,sv
+1103,Pacton,en
+1104,Pa-Li,sv
+1104,Pa-Li,en
+1105,Pal-Kar,sv
+1105,Pal-Kar,en
+1106,Pannonia,sv
+1106,Pannonia,en
+1107,Penttilä,sv
+1107,Penttilä,en
+1108,Pete,sv
+1108,Pete,en
+1109,Piacenza,sv
+1109,Piacenza,en
+111,Kockums,sv
+111,Kockums,en
+1110,Proto,sv
+1110,Proto,en
+1111,Psyko,sv
+1111,Psyko,en
+1112,Rahti,sv
+1112,Rahti,en
+1113,Rant,sv
+1113,Rant,en
+1114,Reima,sv
+1114,Reima,en
+1115,Reke,sv
+1115,Reke,en
+1116,Retu,sv
+1116,Retu,en
+1117,RKP,sv
+1117,RKP,en
+1118,RK-Vaunu,sv
+1118,RK-Vaunu,en
+1119,Road Power,sv
+1119,Road Power,en
+112,Otto,sv
+112,Otto,en
+1120,Ruka,sv
+1120,Ruka,en
+1121,SAF/Mattila,sv
+1121,SAF/Mattila,en
+1122,Saku,sv
+1122,Saku,en
+1123,Sampo-Rosenlew,sv
+1123,Sampo-Rosenlew,en
+1124,Scania Vabis,sv
+1124,Scania Vabis,en
+1125,SF-Matkaaja,sv
+1125,SF-Matkaaja,en
+1126,Siimet,sv
+1126,Siimet,en
+1127,Silver Camel,sv
+1127,Silver Camel,en
+1128,Sinetti,sv
+1128,Sinetti,en
+1129,Sisupoika,sv
+1129,Sisupoika,en
+113,Pe-Tra,sv
+113,Pe-Tra,en
+1130,Site,sv
+1130,Site,en
+1131,Skif-M,sv
+1131,Skif-M,en
+1132,Suomi-Trailer,sv
+1132,Suomi-Trailer,en
+1133,Säiliörakenne,sv
+1133,Säiliörakenne,en
+1134,T.E.C.,sv
+1134,T.E.C.,en
+1135,Tara,sv
+1135,Tara,en
+1136,Teju,sv
+1136,Teju,en
+1137,Telivaunu,sv
+1137,Telivaunu,en
+1138,Tepu,sv
+1138,Tepu,en
+1139,Thomson,sv
+1139,Thomson,en
+114,Bedford,sv
+114,Bedford,en
+1140,Toplift,sv
+1140,Toplift,en
+1141,Trabant,sv
+1141,Trabant,en
+1142,Trafix,sv
+1142,Trafix,en
+1143,Tramp,sv
+1143,Tramp,en
+1144,Tranesläpet,sv
+1144,Tranesläpet,en
+1145,Truck,sv
+1145,Truck,en
+1146,TruckMasters,sv
+1146,TruckMasters,en
+1147,Waasa Trailer,sv
+1147,Waasa Trailer,en
+1148,Wagon,sv
+1148,Wagon,en
+1149,VAK,sv
+1149,VAK,en
+115,Boss,sv
+115,Boss,en
+1150,Valtteri,sv
+1150,Valtteri,en
+1151,Vape,sv
+1151,Vape,en
+1152,Weckman,sv
+1152,Weckman,en
+1153,Veka,sv
+1153,Veka,en
+1154,Velmu,sv
+1154,Velmu,en
+1155,Wiler,sv
+1155,Wiler,en
+1156,Wilk,sv
+1156,Wilk,en
+1157,Willys,sv
+1157,Willys,en
+1158,Värmlandsvagnen,sv
+1158,Värmlandsvagnen,en
+1159,Yellow Power,sv
+1159,Yellow Power,en
+116,Rehi,sv
+116,Rehi,en
+1160,Eurotankki,sv
+1160,Eurotankki,en
+1161,Umeå,sv
+1161,Umeå,en
+1162,Superking,sv
+1162,Superking,en
+1163,Walton,sv
+1163,Walton,en
+1164,Hond,sv
+1164,Hond,en
+1165,Renda,sv
+1165,Renda,en
+1166,BTM,sv
+1166,BTM,en
+1167,AV-Car Motors,sv
+1167,AV-Car Motors,en
+1168,Levo,sv
+1168,Levo,en
+1169,Nemo,sv
+1169,Nemo,en
+117,Ripak,sv
+117,Ripak,en
+1170,Garelli,sv
+1170,Garelli,en
+1171,Seger,sv
+1171,Seger,en
+1172,K-9,sv
+1172,K-9,en
+1173,Eco Sport,sv
+1173,Eco Sport,en
+1174,Motobi,sv
+1174,Motobi,en
+1175,Turkol,sv
+1175,Turkol,en
+1176,Oseta,sv
+1176,Oseta,en
+1177,Zipp,sv
+1177,Zipp,en
+1178,Dorton,sv
+1178,Dorton,en
+1179,Speedy,sv
+1179,Speedy,en
+118,BMC,sv
+118,BMC,en
+1180,Star,sv
+1180,Star,en
+1181,Vision,sv
+1181,Vision,en
+1182,Celik,sv
+1182,Celik,en
+1183,Citymotor,sv
+1183,Citymotor,en
+1184,Cobra,sv
+1184,Cobra,en
+1185,Jiameng,sv
+1185,Jiameng,en
+1186,Texas,sv
+1186,Texas,en
+1187,Chevrolet Daewoo,sv
+1187,Chevrolet Daewoo,en
+1188,Doosan,sv
+1188,Doosan,en
+1189,Agados,sv
+1189,Agados,en
+119,Coles,sv
+119,Coles,en
+1190,CSR,sv
+1190,CSR,en
+1191,Explorer,sv
+1191,Explorer,en
+1192,Sumo Motor,sv
+1192,Sumo Motor,en
+1193,Meko,sv
+1193,Meko,en
+1194,Kinlon,sv
+1194,Kinlon,en
+1195,Rally USA,sv
+1195,Rally USA,en
+1196,Paku,sv
+1196,Paku,en
+1197,I-Moto,sv
+1197,I-Moto,en
+1198,Azel,sv
+1198,Azel,en
+1199,Pre-Moto,sv
+1199,Pre-Moto,en
+120,Commer,sv
+120,Commer,en
+1200,Qj,sv
+1200,Qj,en
+1201,Qjiang,sv
+1201,Qjiang,en
+1202,Ride,sv
+1202,Ride,en
+1203,MTR,sv
+1203,MTR,en
+1204,Mega,sv
+1204,Mega,en
+1205,Aston Martin,sv
+1205,Aston Martin,en
+1206,Giotti Victoria,sv
+1206,Giotti Victoria,en
+1207,Otobi,sv
+1207,Otobi,en
+1208,Motom,sv
+1208,Motom,en
+1209,Dadyw,sv
+1209,Dadyw,en
+121,Climax,sv
+121,Climax,en
+1210,"Chongqing Jianshe Motorcycle Co., Ltd",sv
+1210,"Chongqing Jianshe Motorcycle Co., Ltd",en
+1211,FYM,sv
+1211,FYM,en
+1212,Pioneer,sv
+1212,Pioneer,en
+1213,Ramzey,sv
+1213,Ramzey,en
+1214,First Bike,sv
+1214,First Bike,en
+1215,Jiaji,sv
+1215,Jiaji,en
+1216,Feiling,sv
+1216,Feiling,en
+1217,Tutu,sv
+1217,Tutu,en
+1218,EPM,sv
+1218,EPM,en
+1219,Romet Motors,sv
+1219,Romet Motors,en
+122,David-Brown,sv
+122,David-Brown,en
+1220,Bombardier Recreational Products,sv
+1220,Bombardier Recreational Products,en
+1221,BRP,sv
+1221,BRP,en
+1222,SNF,sv
+1222,SNF,en
+1223,JsV Trailer,sv
+1223,JsV Trailer,en
+1224,Huoniao,sv
+1224,Huoniao,en
+1225,Delta Allis,sv
+1225,Delta Allis,en
+1226,Moto Laverda,sv
+1226,Moto Laverda,en
+1227,Shenmao,sv
+1227,Shenmao,en
+1228,Keeway by Qianjiang,sv
+1228,Keeway by Qianjiang,en
+1229,Leone,sv
+1229,Leone,en
+123,Coles-Priestman,sv
+123,Coles-Priestman,en
+1230,Nipponia,sv
+1230,Nipponia,en
+1231,Citroen-Dethleffs/Globecar,sv
+1231,Citroen-Dethleffs/Globecar,en
+1232,Citroen-La Strada,sv
+1232,Citroen-La Strada,en
+1233,Citroen-Pössl,sv
+1233,Citroen-Pössl,en
+1234,Fiat-Arca,sv
+1234,Fiat-Arca,en
+1235,Fiat-Arto,sv
+1235,Fiat-Arto,en
+1236,Fiat-Carthago,sv
+1236,Fiat-Carthago,en
+1237,Fiat-Challenger,sv
+1237,Fiat-Challenger,en
+1238,Fiat-Chausson,sv
+1238,Fiat-Chausson,en
+1239,Fiat-CI,sv
+1239,Fiat-CI,en
+124,Climax-Shawloader,sv
+124,Climax-Shawloader,en
+1240,Fiat-Dethleffs/Globecar,sv
+1240,Fiat-Dethleffs/Globecar,en
+1241,Fiat-Eura-Mobil,sv
+1241,Fiat-Eura-Mobil,en
+1242,Fiat-Itineo,sv
+1242,Fiat-Itineo,en
+1243,Fiat-Kabe,sv
+1243,Fiat-Kabe,en
+1244,Fiat-McLouis,sv
+1244,Fiat-McLouis,en
+1245,Fiat-Miller,sv
+1245,Fiat-Miller,en
+1246,Fiat-Mooveo,sv
+1246,Fiat-Mooveo,en
+1247,Fiat-Pössl,sv
+1247,Fiat-Pössl,en
+1248,Fiat-Rapido,sv
+1248,Fiat-Rapido,en
+1249,Fiat-Rimor,sv
+1249,Fiat-Rimor,en
+125,Relox,sv
+125,Relox,en
+1250,Fiat-Sharky,sv
+1250,Fiat-Sharky,en
+1251,Fiat-TEC,sv
+1251,Fiat-TEC,en
+1252,Fiat-Twin,sv
+1252,Fiat-Twin,en
+1253,Fiat-Weinsberg,sv
+1253,Fiat-Weinsberg,en
+1254,Fiat-XCO,sv
+1254,Fiat-XCO,en
+1255,Ford-Burstner,sv
+1255,Ford-Burstner,en
+1256,Ford-Carado,sv
+1256,Ford-Carado,en
+1257,Ford-CI,sv
+1257,Ford-CI,en
+1258,Ford-Dethleffs,sv
+1258,Ford-Dethleffs,en
+1259,Ford-Dethleffs/Globecar,sv
+1259,Ford-Dethleffs/Globecar,en
+126,Santtu,sv
+126,Santtu,en
+1260,Ford-Dethleffs/Sunlight,sv
+1260,Ford-Dethleffs/Sunlight,en
+1261,Ford-Eura-Mobil,sv
+1261,Ford-Eura-Mobil,en
+1262,Ford-Fendt,sv
+1262,Ford-Fendt,en
+1263,Ford-Hobby,sv
+1263,Ford-Hobby,en
+1264,Ford-Hymer,sv
+1264,Ford-Hymer,en
+1265,Ford-Kentucky,sv
+1265,Ford-Kentucky,en
+1266,Ford-La Strada,sv
+1266,Ford-La Strada,en
+1267,Ford-LMC,sv
+1267,Ford-LMC,en
+1268,Ford-Pössl,sv
+1268,Ford-Pössl,en
+1269,Ford-Solifer,sv
+1269,Ford-Solifer,en
+127,Clark-Oleomat,sv
+127,Clark-Oleomat,en
+1270,Ford-TCMobile,sv
+1270,Ford-TCMobile,en
+1271,Ford-TEC,sv
+1271,Ford-TEC,en
+1272,Iveco-Arca,sv
+1272,Iveco-Arca,en
+1273,Iveco-Carthago,sv
+1273,Iveco-Carthago,en
+1274,Iveco-Concorde,sv
+1274,Iveco-Concorde,en
+1275,Iveco-Dethleffs,sv
+1275,Iveco-Dethleffs,en
+1276,Iveco-Fendt,sv
+1276,Iveco-Fendt,en
+1277,Iveco-Flair,sv
+1277,Iveco-Flair,en
+1278,Iveco-Hobby,sv
+1278,Iveco-Hobby,en
+1279,Iveco-Hymer,sv
+1279,Iveco-Hymer,en
+128,Clark,sv
+128,Clark,en
+1280,MAN-Carthago,sv
+1280,MAN-Carthago,en
+1281,MAN-Clou,sv
+1281,MAN-Clou,en
+1282,MAN-Concorde,sv
+1282,MAN-Concorde,en
+1283,Mercedes-Benz-Adriatik,sv
+1283,Mercedes-Benz-Adriatik,en
+1284,Mercedes-Benz-Burstner,sv
+1284,Mercedes-Benz-Burstner,en
+1285,Mercedes-Benz-Carthago,sv
+1285,Mercedes-Benz-Carthago,en
+1286,Mercedes-Benz-CI,sv
+1286,Mercedes-Benz-CI,en
+1287,Mercedes-Benz-Concorde,sv
+1287,Mercedes-Benz-Concorde,en
+1288,Mercedes Benz-Dethleffs,sv
+1288,Mercedes Benz-Dethleffs,en
+1289,Mercedes-Benz-James Cook,sv
+1289,Mercedes-Benz-James Cook,en
+129,Clarklift,sv
+129,Clarklift,en
+1290,Mercedes-Benz-La Strada,sv
+1290,Mercedes-Benz-La Strada,en
+1291,Mercedes-Benz-Pilote,sv
+1291,Mercedes-Benz-Pilote,en
+1292,Mercedes-Benz-Rapido,sv
+1292,Mercedes-Benz-Rapido,en
+1293,Mercedes-Benz-Rimor,sv
+1293,Mercedes-Benz-Rimor,en
+1294,Mercedes-Benz-TEC,sv
+1294,Mercedes-Benz-TEC,en
+1295,Mercedes-Benz-Travelzip,sv
+1295,Mercedes-Benz-Travelzip,en
+1296,Peugeot-Casa,sv
+1296,Peugeot-Casa,en
+1297,Peugeot-Travelzip,sv
+1297,Peugeot-Travelzip,en
+1298,Renault-Adriatik,sv
+1298,Renault-Adriatik,en
+1299,Renault-Arca,sv
+1299,Renault-Arca,en
+130,Clark-Michigan,sv
+130,Clark-Michigan,en
+1300,Renault-Dethleffs,sv
+1300,Renault-Dethleffs,en
+1301,Renault-Dethleffs/Globecar,sv
+1301,Renault-Dethleffs/Globecar,en
+1302,Renault-Hymer,sv
+1302,Renault-Hymer,en
+1303,Renault-Knaus,sv
+1303,Renault-Knaus,en
+1304,Renault-Mobilvetta,sv
+1304,Renault-Mobilvetta,en
+1305,Renault-Pilote,sv
+1305,Renault-Pilote,en
+1306,Renault-Pössl,sv
+1306,Renault-Pössl,en
+1307,Renault-Solifer,sv
+1307,Renault-Solifer,en
+1308,Renault-XCO,sv
+1308,Renault-XCO,en
+1309,Kafo,sv
+1309,Kafo,en
+131,Massey Ferguson,sv
+131,Massey Ferguson,en
+1310,Eximo,sv
+1310,Eximo,en
+1311,Caravelair,sv
+1311,Caravelair,en
+1312,Hymer,sv
+1312,Hymer,en
+1313,LMC,sv
+1313,LMC,en
+1314,Motoroma,sv
+1314,Motoroma,en
+1315,Roar,sv
+1315,Roar,en
+1316,Sandstorm,sv
+1316,Sandstorm,en
+1317,Haotian,sv
+1317,Haotian,en
+1318,Sukida,sv
+1318,Sukida,en
+1319,Rariro,sv
+1319,Rariro,en
+132,Fargo,sv
+132,Fargo,en
+1320,Kaier,sv
+1320,Kaier,en
+1321,Kam,sv
+1321,Kam,en
+1322,Haojian,sv
+1322,Haojian,en
+1323,Kawada,sv
+1323,Kawada,en
+1324,Kataya,sv
+1324,Kataya,en
+1325,Benteng,sv
+1325,Benteng,en
+1326,TNS,sv
+1326,TNS,en
+1327,Liangzi,sv
+1327,Liangzi,en
+1328,Sacin,sv
+1328,Sacin,en
+1329,Metalco,sv
+1329,Metalco,en
+133,Rolex,sv
+133,Rolex,en
+1330,Sokudo,sv
+1330,Sokudo,en
+1331,Bazuka,sv
+1331,Bazuka,en
+1332,Minico,sv
+1332,Minico,en
+1333,Motos Bordoy,sv
+1333,Motos Bordoy,en
+1334,Sumco,sv
+1334,Sumco,en
+1335,Monkeybikes,sv
+1335,Monkeybikes,en
+1336,Faztek,sv
+1336,Faztek,en
+1337,Motosbasi,sv
+1337,Motosbasi,en
+1338,YJ,sv
+1338,YJ,en
+1339,Kazuma,sv
+1339,Kazuma,en
+134,Sari,sv
+134,Sari,en
+1340,Harida,sv
+1340,Harida,en
+1341,Humbaur,sv
+1341,Humbaur,en
+1342,Bisan-Lifan,sv
+1342,Bisan-Lifan,en
+1343,Truva,sv
+1343,Truva,en
+1344,Salcano,sv
+1344,Salcano,en
+1345,Yuki,sv
+1345,Yuki,en
+1346,Xplorer,sv
+1346,Xplorer,en
+1347,Crow Motors,sv
+1347,Crow Motors,en
+1348,Harby Hunter,sv
+1348,Harby Hunter,en
+1349,Aconda,sv
+1349,Aconda,en
+135,Ford,sv
+135,Ford,en
+1350,Kudaki,sv
+1350,Kudaki,en
+1351,Zennco,sv
+1351,Zennco,en
+1352,Orion,sv
+1352,Orion,en
+1353,Xingxing,sv
+1353,Xingxing,en
+1354,Tianjiu,sv
+1354,Tianjiu,en
+1355,Shuangjian,sv
+1355,Shuangjian,en
+1356,Avanti,sv
+1356,Avanti,en
+1357,S&T Kanuni,sv
+1357,S&T Kanuni,en
+1358,Rapide,sv
+1358,Rapide,en
+1359,Erde,sv
+1359,Erde,en
+136,Ford-Rimor,sv
+136,Ford-Rimor,en
+1360,Borile,sv
+1360,Borile,en
+1361,SCR,sv
+1361,SCR,en
+1362,Robuste Kaiser,sv
+1362,Robuste Kaiser,en
+1363,Barthau,sv
+1363,Barthau,en
+1364,Capron,sv
+1364,Capron,en
+1365,Renault-Adria Mobil,sv
+1365,Renault-Adria Mobil,en
+1366,Velocette,sv
+1366,Velocette,en
+1367,Ford-Capron,sv
+1367,Ford-Capron,en
+1368,Xintian,sv
+1368,Xintian,en
+1369,Awesome Moto,sv
+1369,Awesome Moto,en
+137,Sukkela,sv
+137,Sukkela,en
+1370,Fiat-Adria Mobil,sv
+1370,Fiat-Adria Mobil,en
+1371,Eco Log,sv
+1371,Eco Log,en
+1372,Saris,sv
+1372,Saris,en
+1373,Lanvertti,sv
+1373,Lanvertti,en
+1374,Unsin,sv
+1374,Unsin,en
+1375,Adria Mobil,sv
+1375,Adria Mobil,en
+1376,Balbi,sv
+1376,Balbi,en
+1377,Quazilla,sv
+1377,Quazilla,en
+1378,CCM,sv
+1378,CCM,en
+1379,Ecxes,sv
+1379,Ecxes,en
+138,Teräskärry,sv
+138,Teräskärry,en
+1380,Guagliano-Moto,sv
+1380,Guagliano-Moto,en
+1381,Imoto S.A,sv
+1381,Imoto S.A,en
+1382,Zanella,sv
+1382,Zanella,en
+1383,Motomax,sv
+1383,Motomax,en
+1384,Takasaki,sv
+1384,Takasaki,en
+1385,Minarelli,sv
+1385,Minarelli,en
+1386,Omega Motor,sv
+1386,Omega Motor,en
+1387,FMC,sv
+1387,FMC,en
+1388,Madness,sv
+1388,Madness,en
+1389,Kinro,sv
+1389,Kinro,en
+139,TM-Trailer,sv
+139,TM-Trailer,en
+1390,Lonting,sv
+1390,Lonting,en
+1391,Davinchi,sv
+1391,Davinchi,en
+1392,Pagoda,sv
+1392,Pagoda,en
+1393,Mondial,sv
+1393,Mondial,en
+1394,Smithco,sv
+1394,Smithco,en
+1395,MacGregor,sv
+1395,MacGregor,en
+1396,DaimlerChrysler,sv
+1396,DaimlerChrysler,en
+1397,WK,sv
+1397,WK,en
+1398,Boom,sv
+1398,Boom,en
+1399,Rewaco,sv
+1399,Rewaco,en
+140,Toci-Carry,sv
+140,Toci-Carry,en
+1400,Kaiser,sv
+1400,Kaiser,en
+1401,Dieci,sv
+1401,Dieci,en
+1402,Wörmann,sv
+1402,Wörmann,en
+1403,Audi-Porsche,sv
+1403,Audi-Porsche,en
+1404,Kingwell,sv
+1404,Kingwell,en
+1405,PGO,sv
+1405,PGO,en
+1406,Fiat-Karmann,sv
+1406,Fiat-Karmann,en
+1407,Karmann,sv
+1407,Karmann,en
+1408,Zico,sv
+1408,Zico,en
+1409,Berger,sv
+1409,Berger,en
+141,Ford-OK,sv
+141,Ford-OK,en
+1410,Sea,sv
+1410,Sea,en
+1411,Heku,sv
+1411,Heku,en
+1412,Eura Mobil,sv
+1412,Eura Mobil,en
+1413,Niesmann-Bischoff,sv
+1413,Niesmann-Bischoff,en
+1414,Mattsson,sv
+1414,Mattsson,en
+1415,HM,sv
+1415,HM,en
+1416,Blata,sv
+1416,Blata,en
+1417,Minauto,sv
+1417,Minauto,en
+1418,Apollo,sv
+1418,Apollo,en
+1419,Superbyke,sv
+1419,Superbyke,en
+142,Trilla,sv
+142,Trilla,en
+1420,Sohoo,sv
+1420,Sohoo,en
+1421,Hyena,sv
+1421,Hyena,en
+1422,Factory Bike,sv
+1422,Factory Bike,en
+1423,Mikilon,sv
+1423,Mikilon,en
+1424,Erider,sv
+1424,Erider,en
+1425,Arngren,sv
+1425,Arngren,en
+1426,Grecav Spa,sv
+1426,Grecav Spa,en
+1427,Sukyama,sv
+1427,Sukyama,en
+1428,WT-Metall,sv
+1428,WT-Metall,en
+1429,Pulse,sv
+1429,Pulse,en
+143,TT-Traileri,sv
+143,TT-Traileri,en
+1430,Team-Ryder,sv
+1430,Team-Ryder,en
+1431,Simpli,sv
+1431,Simpli,en
+1432,Rivero,sv
+1432,Rivero,en
+1433,Mondid,sv
+1433,Mondid,en
+1434,Kingway,sv
+1434,Kingway,en
+1435,Tauris,sv
+1435,Tauris,en
+1436,Router,sv
+1436,Router,en
+1437,Lintex,sv
+1437,Lintex,en
+1438,Capirelli,sv
+1438,Capirelli,en
+1439,Haojin,sv
+1439,Haojin,en
+144,Varma,sv
+144,Varma,en
+1440,Lingken,sv
+1440,Lingken,en
+1441,Armode,sv
+1441,Armode,en
+1442,Kuba,sv
+1442,Kuba,en
+1443,Asya,sv
+1443,Asya,en
+1444,General,sv
+1444,General,en
+1445,Elegance,sv
+1445,Elegance,en
+1446,Catwalk,sv
+1446,Catwalk,en
+1447,Belderia,sv
+1447,Belderia,en
+1448,RM Motor,sv
+1448,RM Motor,en
+1449,Pantherquads,sv
+1449,Pantherquads,en
+145,Velsa,sv
+145,Velsa,en
+1450,Hudson Bike,sv
+1450,Hudson Bike,en
+1451,Lion,sv
+1451,Lion,en
+1452,GD Europe,sv
+1452,GD Europe,en
+1453,YMC,sv
+1453,YMC,en
+1454,Blade,sv
+1454,Blade,en
+1455,Maxxspeed,sv
+1455,Maxxspeed,en
+1456,Autocaravans Rimor S.p.A,sv
+1456,Autocaravans Rimor S.p.A,en
+1457,Elnagh,sv
+1457,Elnagh,en
+1458,Bourgoin,sv
+1458,Bourgoin,en
+1459,Sonik,sv
+1459,Sonik,en
+146,CI,sv
+146,CI,en
+1460,Haolon,sv
+1460,Haolon,en
+1461,Fortune,sv
+1461,Fortune,en
+1462,Multione,sv
+1462,Multione,en
+1463,Bazooka,sv
+1463,Bazooka,en
+1464,Ford-Challenger,sv
+1464,Ford-Challenger,en
+1465,Dresel,sv
+1465,Dresel,en
+1466,Dado,sv
+1466,Dado,en
+1467,Baron,sv
+1467,Baron,en
+1468,Yeis,sv
+1468,Yeis,en
+1469,Easyscoot,sv
+1469,Easyscoot,en
+147,Hitachi,sv
+147,Hitachi,en
+1470,Tamoretti,sv
+1470,Tamoretti,en
+1471,BS Moto,sv
+1471,BS Moto,en
+1472,AGM,sv
+1472,AGM,en
+1473,WLIE,sv
+1473,WLIE,en
+1474,Vastro,sv
+1474,Vastro,en
+1475,Rover Bikes,sv
+1475,Rover Bikes,en
+1476,Scootermania,sv
+1476,Scootermania,en
+1477,Minelli,sv
+1477,Minelli,en
+1478,Bellier,sv
+1478,Bellier,en
+1479,Her Chee,sv
+1479,Her Chee,en
+148,Hyster,sv
+148,Hyster,en
+1480,Regal-Raptor,sv
+1480,Regal-Raptor,en
+1481,Cajero,sv
+1481,Cajero,en
+1482,Leonart,sv
+1482,Leonart,en
+1483,Motiva S,sv
+1483,Motiva S,en
+1484,NGS,sv
+1484,NGS,en
+1485,Yellow Rock,sv
+1485,Yellow Rock,en
+1486,Sun Living,sv
+1486,Sun Living,en
+1487,Qianjiang,sv
+1487,Qianjiang,en
+1488,BCS,sv
+1488,BCS,en
+1489,Jungheinrich,sv
+1489,Jungheinrich,en
+149,Hyster-Ransomes,sv
+149,Hyster-Ransomes,en
+1490,Moffett,sv
+1490,Moffett,en
+1491,Megelli,sv
+1491,Megelli,en
+1492,Finncarry,sv
+1492,Finncarry,en
+1493,Kröger,sv
+1493,Kröger,en
+1494,Trailfine,sv
+1494,Trailfine,en
+1495,TBM,sv
+1495,TBM,en
+1496,Hitachi Sumitomo,sv
+1496,Hitachi Sumitomo,en
+1497,Paul & Paula,sv
+1497,Paul & Paula,en
+1498,Wick,sv
+1498,Wick,en
+1499,Chang Jiang,sv
+1499,Chang Jiang,en
+150,Jaguar,sv
+150,Jaguar,en
+1500,Anssems,sv
+1500,Anssems,en
+1501,Fiat-Carado,sv
+1501,Fiat-Carado,en
+1502,Baccari,sv
+1502,Baccari,en
+1503,Zumico,sv
+1503,Zumico,en
+1504,Due,sv
+1504,Due,en
+1505,Knapen,sv
+1505,Knapen,en
+1506,Haili,sv
+1506,Haili,en
+1507,Mercedes-AMG,sv
+1507,Mercedes-AMG,en
+1508,MX,sv
+1508,MX,en
+1509,TNT Motor,sv
+1509,TNT Motor,en
+151,Daimler,sv
+151,Daimler,en
+1510,Hytrack,sv
+1510,Hytrack,en
+1511,Quadzilla,sv
+1511,Quadzilla,en
+1512,Sachs-Bikes,sv
+1512,Sachs-Bikes,en
+1513,Longjia,sv
+1513,Longjia,en
+1514,Hamachi,sv
+1514,Hamachi,en
+1515,Olky,sv
+1515,Olky,en
+1516,Inserm,sv
+1516,Inserm,en
+1517,Rival Motors,sv
+1517,Rival Motors,en
+1518,Ginomoto,sv
+1518,Ginomoto,en
+1519,Stomp,sv
+1519,Stomp,en
+152,Veko,sv
+152,Veko,en
+1520,Fiat-Concorde,sv
+1520,Fiat-Concorde,en
+1521,Swei,sv
+1521,Swei,en
+1522,Swen,sv
+1522,Swen,en
+1523,Luxxon,sv
+1523,Luxxon,en
+1524,Sprint,sv
+1524,Sprint,en
+1525,Biaginni,sv
+1525,Biaginni,en
+1526,Lgw Moto,sv
+1526,Lgw Moto,en
+1527,Viarelli,sv
+1527,Viarelli,en
+1528,Revatto,sv
+1528,Revatto,en
+1529,Tms,sv
+1529,Tms,en
+153,CI-Sprite,sv
+153,CI-Sprite,en
+1530,FORD-CNG-TECHNIK,sv
+1530,FORD-CNG-TECHNIK,en
+1531,Holden,sv
+1531,Holden,en
+1532,Infiniti,sv
+1532,Infiniti,en
+1533,Ovinem,sv
+1533,Ovinem,en
+1534,CEM,sv
+1534,CEM,en
+1535,Cemoto,sv
+1535,Cemoto,en
+1536,Agirra,sv
+1536,Agirra,en
+1537,Stadion,sv
+1537,Stadion,en
+1538,Neco,sv
+1538,Neco,en
+1539,Razzo,sv
+1539,Razzo,en
+154,Iron Fairy,sv
+154,Iron Fairy,en
+1540,Minimoto,sv
+1540,Minimoto,en
+1541,Killerbee,sv
+1541,Killerbee,en
+1542,Mavi,sv
+1542,Mavi,en
+1543,Iico,sv
+1543,Iico,en
+1544,Jackfox,sv
+1544,Jackfox,en
+1545,CMC,sv
+1545,CMC,en
+1546,Brentex-Trailer,sv
+1546,Brentex-Trailer,en
+1547,Jondai,sv
+1547,Jondai,en
+1548,CC,sv
+1548,CC,en
+1549,Zhenhua,sv
+1549,Zhenhua,en
+155,JCB,sv
+155,JCB,en
+1550,PULES,sv
+1550,PULES,en
+1551,RIVERO,sv
+1551,RIVERO,en
+1552,Victory Motorcycles Division,sv
+1552,Victory Motorcycles Division,en
+1553,Polaris Industries Inc.,sv
+1553,Polaris Industries Inc.,en
+1554,Spindelberger,sv
+1554,Spindelberger,en
+1555,Longbo,sv
+1555,Longbo,en
+1556,Inca,sv
+1556,Inca,en
+1557,Jinma,sv
+1557,Jinma,en
+1558,HHJM,sv
+1558,HHJM,en
+1559,JM,sv
+1559,JM,en
+156,Lancer,sv
+156,Lancer,en
+1560,Fire Bird,sv
+1560,Fire Bird,en
+1561,DH. Haotian,sv
+1561,DH. Haotian,en
+1562,Longting,sv
+1562,Longting,en
+1563,Rover Bikes FS1,sv
+1563,Rover Bikes FS1,en
+1564,Acura,sv
+1564,Acura,en
+1565,KAR,sv
+1565,KAR,en
+1566,Honling,sv
+1566,Honling,en
+1567,SHL,sv
+1567,SHL,en
+1568,Riya,sv
+1568,Riya,en
+1569,Trimax,sv
+1569,Trimax,en
+157,Lancer Boss,sv
+157,Lancer Boss,en
+1570,Matra,sv
+1570,Matra,en
+1571,Aiyumo,sv
+1571,Aiyumo,en
+1572,Cazador,sv
+1572,Cazador,en
+1573,Conti Motors,sv
+1573,Conti Motors,en
+1574,Biselect,sv
+1574,Biselect,en
+1575,Luna,sv
+1575,Luna,en
+1576,WM Motor,sv
+1576,WM Motor,en
+1577,Insera,sv
+1577,Insera,en
+1578,Rich Motors,sv
+1578,Rich Motors,en
+1579,HPS,sv
+1579,HPS,en
+158,Vihe,sv
+158,Vihe,en
+1580,Bottari,sv
+1580,Bottari,en
+1581,Aragon,sv
+1581,Aragon,en
+1582,Aspes,sv
+1582,Aspes,en
+1583,Agbikes,sv
+1583,Agbikes,en
+1584,Bullfire,sv
+1584,Bullfire,en
+1585,Diabolini,sv
+1585,Diabolini,en
+1586,Ride explorer,sv
+1586,Ride explorer,en
+1587,Goetz,sv
+1587,Goetz,en
+1588,Gb motors,sv
+1588,Gb motors,en
+1589,Hot bike,sv
+1589,Hot bike,en
+159,Voka,sv
+159,Voka,en
+1590,Cougar,sv
+1590,Cougar,en
+1591,Nordia,sv
+1591,Nordia,en
+1592,Mvm,sv
+1592,Mvm,en
+1593,Rider,sv
+1593,Rider,en
+1594,Saona,sv
+1594,Saona,en
+1595,Ssr,sv
+1595,Ssr,en
+1596,Strom,sv
+1596,Strom,en
+1597,Titan Force,sv
+1597,Titan Force,en
+1598,Teamsix,sv
+1598,Teamsix,en
+1599,Testi,sv
+1599,Testi,en
+160,Kestotankki,sv
+160,Kestotankki,en
+1600,Direct Bikes,sv
+1600,Direct Bikes,en
+1601,Maverick,sv
+1601,Maverick,en
+1602,AMG Hummer,sv
+1602,AMG Hummer,en
+1603,Juneng,sv
+1603,Juneng,en
+1604,Jnen,sv
+1604,Jnen,en
+1605,Lingtian,sv
+1605,Lingtian,en
+1606,Toros,sv
+1606,Toros,en
+1607,Edwards,sv
+1607,Edwards,en
+1608,Cindy,sv
+1608,Cindy,en
+1609,Techno Classic,sv
+1609,Techno Classic,en
+161,VT-Trailer,sv
+161,VT-Trailer,en
+1610,Viraggio,sv
+1610,Viraggio,en
+1611,Modena,sv
+1611,Modena,en
+1612,Alpina Di Renania,sv
+1612,Alpina Di Renania,en
+1613,Pegasso,sv
+1613,Pegasso,en
+1614,Luuko,sv
+1614,Luuko,en
+1615,PMI,sv
+1615,PMI,en
+1616,Santini,sv
+1616,Santini,en
+1617,Scooterking,sv
+1617,Scooterking,en
+1618,IVA,sv
+1618,IVA,en
+1619,Pronto,sv
+1619,Pronto,en
+162,Leyland,sv
+162,Leyland,en
+1620,VOM,sv
+1620,VOM,en
+1621,Benero,sv
+1621,Benero,en
+1622,RKK-Trailer,sv
+1622,RKK-Trailer,en
+1623,Arigga,sv
+1623,Arigga,en
+1624,Indespension,sv
+1624,Indespension,en
+1625,Fliegl,sv
+1625,Fliegl,en
+1626,Montenegro,sv
+1626,Montenegro,en
+1627,LGM Moto,sv
+1627,LGM Moto,en
+1628,Lapo Motors,sv
+1628,Lapo Motors,en
+1629,Dafier,sv
+1629,Dafier,en
+163,Leyland-Wimo,sv
+163,Leyland-Wimo,en
+1630,Acsud,sv
+1630,Acsud,en
+1631,Cotton,sv
+1631,Cotton,en
+1632,Hanway,sv
+1632,Hanway,en
+1633,Demharter,sv
+1633,Demharter,en
+1634,Eu-R,sv
+1634,Eu-R,en
+1635,Caravan,sv
+1635,Caravan,en
+1636,BORO,sv
+1636,BORO,en
+1637,Rapido,sv
+1637,Rapido,en
+1638,Concorde,sv
+1638,Concorde,en
+1639,Ljungby,sv
+1639,Ljungby,en
+164,Eka-Leyland,sv
+164,Eka-Leyland,en
+1640,Norsjö,sv
+1640,Norsjö,en
+1641,Rydwan,sv
+1641,Rydwan,en
+1642,Matec,sv
+1642,Matec,en
+1643,NK Bike,sv
+1643,NK Bike,en
+1644,EWS-Trailer,sv
+1644,EWS-Trailer,en
+1645,Leike,sv
+1645,Leike,en
+1646,Roadbike,sv
+1646,Roadbike,en
+1647,Fhlun,sv
+1647,Fhlun,en
+1648,Think,sv
+1648,Think,en
+1649,Xmotos,sv
+1649,Xmotos,en
+165,Lotus,sv
+165,Lotus,en
+1650,Ecycle,sv
+1650,Ecycle,en
+1651,Laurell,sv
+1651,Laurell,en
+1652,Moto B,sv
+1652,Moto B,en
+1653,Diablo,sv
+1653,Diablo,en
+1654,Verelli,sv
+1654,Verelli,en
+1655,Recto,sv
+1655,Recto,en
+1656,BTC,sv
+1656,BTC,en
+1657,XinYang,sv
+1657,XinYang,en
+1658,Yadea,sv
+1658,Yadea,en
+1659,Pössl,sv
+1659,Pössl,en
+166,Eka,sv
+166,Eka,en
+1660,Tomberlin,sv
+1660,Tomberlin,en
+1661,Dino,sv
+1661,Dino,en
+1662,Grecav S.r.l.,sv
+1662,Grecav S.r.l.,en
+1663,Irisbus,sv
+1663,Irisbus,en
+1664,Rivakka,sv
+1664,Rivakka,en
+1665,ERDE SAS,sv
+1665,ERDE SAS,en
+1666,Falch,sv
+1666,Falch,en
+1667,Style,sv
+1667,Style,en
+1668,Kentoya,sv
+1668,Kentoya,en
+1669,X-gear,sv
+1669,X-gear,en
+167,MG,sv
+167,MG,en
+1670,Mci,sv
+1670,Mci,en
+1671,Vigo,sv
+1671,Vigo,en
+1672,Yamoto,sv
+1672,Yamoto,en
+1673,Motoforce,sv
+1673,Motoforce,en
+1674,Atlas Copco,sv
+1674,Atlas Copco,en
+1675,Autotrailer-Finland,sv
+1675,Autotrailer-Finland,en
+1676,Benzhou,sv
+1676,Benzhou,en
+1677,arTric,sv
+1677,arTric,en
+1678,Gowinn,sv
+1678,Gowinn,en
+1679,Kenrod,sv
+1679,Kenrod,en
+168,Matbro,sv
+168,Matbro,en
+1680,Berini,sv
+1680,Berini,en
+1681,Arora,sv
+1681,Arora,en
+1682,IMF-Industrie,sv
+1682,IMF-Industrie,en
+1683,Moto-Ventus,sv
+1683,Moto-Ventus,en
+1684,Romet,sv
+1684,Romet,en
+1685,Euroka,sv
+1685,Euroka,en
+1686,Leeway,sv
+1686,Leeway,en
+1687,Elitte,sv
+1687,Elitte,en
+1688,Kentoya,sv
+1688,Kentoya,en
+1689,Sampra,sv
+1689,Sampra,en
+169,Morris,sv
+169,Morris,en
+1690,Eagle-Wing,sv
+1690,Eagle-Wing,en
+1691,Docker,sv
+1691,Docker,en
+1692,Imfindustrie,sv
+1692,Imfindustrie,en
+1693,ATX-Motor,sv
+1693,ATX-Motor,en
+1694,Neuson,sv
+1694,Neuson,en
+1695,IMF,sv
+1695,IMF,en
+1696,Moto Rellini,sv
+1696,Moto Rellini,en
+1697,M1NSK,sv
+1697,M1NSK,en
+1698,Ferro,sv
+1698,Ferro,en
+1699,Nicom,sv
+1699,Nicom,en
+170,BLMC,sv
+170,BLMC,en
+1700,MH Trailer,sv
+1700,MH Trailer,en
+1701,Luyuan,sv
+1701,Luyuan,en
+1702,Okai Rolektro,sv
+1702,Okai Rolektro,en
+1703,Bs Motor,sv
+1703,Bs Motor,en
+1704,Wildlander,sv
+1704,Wildlander,en
+1705,Mosca,sv
+1705,Mosca,en
+1706,Himoinsa,sv
+1706,Himoinsa,en
+1707,Vario,sv
+1707,Vario,en
+1708,Kaeser,sv
+1708,Kaeser,en
+1709,Axy,sv
+1709,Axy,en
+171,Mini,sv
+171,Mini,en
+1710,V.D.O.,sv
+1710,V.D.O.,en
+1711,Moto,sv
+1711,Moto,en
+1712,Bravo,sv
+1712,Bravo,en
+1713,Asia,sv
+1713,Asia,en
+1714,Legend,sv
+1714,Legend,en
+1715,V.D.O. Moto,sv
+1715,V.D.O. Moto,en
+1716,Nilfisk,sv
+1716,Nilfisk,en
+1717,Tana,sv
+1717,Tana,en
+1718,Kutsenits,sv
+1718,Kutsenits,en
+1719,Eagle motorsports,sv
+1719,Eagle motorsports,en
+172,Ylö,sv
+172,Ylö,en
+1720,Eglmotor,sv
+1720,Eglmotor,en
+1721,Grecav,sv
+1721,Grecav,en
+1722,BETANET,sv
+1722,BETANET,en
+1723,Dresel MCT,sv
+1723,Dresel MCT,en
+1724,Pongratz,sv
+1724,Pongratz,en
+1725,White Knuckle,sv
+1725,White Knuckle,en
+1726,BEELINE,sv
+1726,BEELINE,en
+1727,Hammar,sv
+1727,Hammar,en
+1728,"Club Car, LLC",sv
+1728,"Club Car, LLC",en
+1729,Lamboo,sv
+1729,Lamboo,en
+173,Eka-Nuffield,sv
+173,Eka-Nuffield,en
+1730,Ellebi,sv
+1730,Ellebi,en
+1731,Jiajue,sv
+1731,Jiajue,en
+1732,Jinding,sv
+1732,Jinding,en
+1733,Lanying,sv
+1733,Lanying,en
+1734,B.H.M.,sv
+1734,B.H.M.,en
+1735,Miromot,sv
+1735,Miromot,en
+1736,Alphamoto,sv
+1736,Alphamoto,en
+1737,Motogino,sv
+1737,Motogino,en
+1738,Qlink,sv
+1738,Qlink,en
+1739,Maxon,sv
+1739,Maxon,en
+174,Merlo,sv
+174,Merlo,en
+1740,DHS,sv
+1740,DHS,en
+1741,Eurocka (CKA),sv
+1741,Eurocka (CKA),en
+1742,Betamoto,sv
+1742,Betamoto,en
+1743,Adamoto,sv
+1743,Adamoto,en
+1744,Ztechmotor,sv
+1744,Ztechmotor,en
+1745,MTX,sv
+1745,MTX,en
+1746,Samurai,sv
+1746,Samurai,en
+1747,Enix,sv
+1747,Enix,en
+1748,Roxar,sv
+1748,Roxar,en
+1749,Pol'r,sv
+1749,Pol'r,en
+175,Ässä,sv
+175,Ässä,en
+1750,Glanz,sv
+1750,Glanz,en
+1751,Peda,sv
+1751,Peda,en
+1752,Hodi,sv
+1752,Hodi,en
+1753,Omaks,sv
+1753,Omaks,en
+1754,Herkules,sv
+1754,Herkules,en
+1755,Saplex (SPX),sv
+1755,Saplex (SPX),en
+1756,Engage,sv
+1756,Engage,en
+1757,Embrotti,sv
+1757,Embrotti,en
+1758,Mondo,sv
+1758,Mondo,en
+1759,Motormania,sv
+1759,Motormania,en
+176,A-T,sv
+176,A-T,en
+1760,Motowell,sv
+1760,Motowell,en
+1761,Norrland's,sv
+1761,Norrland's,en
+1762,Kenno,sv
+1762,Kenno,en
+1763,Sikombi,sv
+1763,Sikombi,en
+1764,Scoyo,sv
+1764,Scoyo,en
+1765,Bikes,sv
+1765,Bikes,en
+1766,Falmek,sv
+1766,Falmek,en
+1767,Salute,sv
+1767,Salute,en
+1768,Turbho,sv
+1768,Turbho,en
+1769,HBT,sv
+1769,HBT,en
+177,Poko,sv
+177,Poko,en
+1770,Supermotor,sv
+1770,Supermotor,en
+1771,Wkbikes,sv
+1771,Wkbikes,en
+1772,Benzer,sv
+1772,Benzer,en
+1773,Bu Moto,sv
+1773,Bu Moto,en
+1774,Yuki Motor,sv
+1774,Yuki Motor,en
+1775,Nao,sv
+1775,Nao,en
+1776,Mad Croc,sv
+1776,Mad Croc,en
+1777,Arcangeli moto,sv
+1777,Arcangeli moto,en
+1778,Miromoto,sv
+1778,Miromoto,en
+1779,Xway,sv
+1779,Xway,en
+178,Camp-Let,sv
+178,Camp-Let,en
+1780,PROF,sv
+1780,PROF,en
+1781,Raybar,sv
+1781,Raybar,en
+1782,Giantco,sv
+1782,Giantco,en
+1783,Tank,sv
+1783,Tank,en
+1784,Anboamoto,sv
+1784,Anboamoto,en
+1785,Alfamoto,sv
+1785,Alfamoto,en
+1786,Lucatto,sv
+1786,Lucatto,en
+1787,Adamoo,sv
+1787,Adamoo,en
+1788,Vivacox,sv
+1788,Vivacox,en
+1789,Rich Motor,sv
+1789,Rich Motor,en
+179,Rover,sv
+179,Rover,en
+1790,Scoyo Bikes,sv
+1790,Scoyo Bikes,en
+1791,Yamazu,sv
+1791,Yamazu,en
+1792,Vermeer,sv
+1792,Vermeer,en
+1793,Meiller,sv
+1793,Meiller,en
+1794,Muuli Pro,sv
+1794,Muuli Pro,en
+1795,Sixties,sv
+1795,Sixties,en
+1796,Angell,sv
+1796,Angell,en
+1797,Eurocomach,sv
+1797,Eurocomach,en
+1798,Wiola,sv
+1798,Wiola,en
+1799,Tangjunouling,sv
+1799,Tangjunouling,en
+180,Range-Rover,sv
+180,Range-Rover,en
+1800,Abat,sv
+1800,Abat,en
+1801,Akumoto,sv
+1801,Akumoto,en
+1802,Do-Dane,sv
+1802,Do-Dane,en
+1803,Floretti,sv
+1803,Floretti,en
+1804,6th gear,sv
+1804,6th gear,en
+1805,Busetto,sv
+1805,Busetto,en
+1806,Maxsuki,sv
+1806,Maxsuki,en
+1807,Sonic,sv
+1807,Sonic,en
+1808,Camox,sv
+1808,Camox,en
+181,Land Rover,sv
+181,Land Rover,en
+182,Freight Rover,sv
+182,Freight Rover,en
+183,Heinemann,sv
+183,Heinemann,en
+184,Huhki,sv
+184,Huhki,en
+185,Alutrail,sv
+185,Alutrail,en
+186,Scammel,sv
+186,Scammel,en
+187,Sunbeam,sv
+187,Sunbeam,en
+188,Terex,sv
+188,Terex,en
+189,Thornyeroft-Pyrene,sv
+189,Thornyeroft-Pyrene,en
+190,Pa-Ri,sv
+190,Pa-Ri,en
+191,Triumph,sv
+191,Triumph,en
+192,Umeåsläpet,sv
+192,Umeåsläpet,en
+193,Adria,sv
+193,Adria,en
+194,Cabby,sv
+194,Cabby,en
+195,Vauxhall,sv
+195,Vauxhall,en
+196,Dethleffs,sv
+196,Dethleffs,en
+197,Rolls-Royce,sv
+197,Rolls-Royce,en
+198,Europa,sv
+198,Europa,en
+199,DJB,sv
+199,DJB,en
+200,Hobby,sv
+200,Hobby,en
+201,Auto-Union,sv
+201,Auto-Union,en
+202,Audi,sv
+202,Audi,en
+203,Kabe,sv
+203,Kabe,en
+204,Atlas,sv
+204,Atlas,en
+205,Baumann,sv
+205,Baumann,en
+206,BMW,sv
+206,BMW,en
+207,Henley,sv
+207,Henley,en
+208,Ameise,sv
+208,Ameise,en
+209,Kafi,sv
+209,Kafi,en
+210,Knaus,sv
+210,Knaus,en
+211,Matkaaja,sv
+211,Matkaaja,en
+212,Demag,sv
+212,Demag,en
+213,MOL-Demag,sv
+213,MOL-Demag,en
+214,Munsterland,sv
+214,Munsterland,en
+215,Pallas,sv
+215,Pallas,en
+216,Fuchs,sv
+216,Fuchs,en
+217,Eko,sv
+217,Eko,en
+218,Polar,sv
+218,Polar,en
+219,Fendt,sv
+219,Fendt,en
+220,Belos Gravely,sv
+220,Belos Gravely,en
+221,Hägglunds,sv
+221,Hägglunds,en
+222,GMC-Kulmakorpi,sv
+222,GMC-Kulmakorpi,en
+223,Predom,sv
+223,Predom,en
+224,Gutbrod,sv
+224,Gutbrod,en
+225,SC-Smålandia,sv
+225,SC-Smålandia,en
+226,Hansa,sv
+226,Hansa,en
+227,Hanomag,sv
+227,Hanomag,en
+228,Hanomag-Henschel,sv
+228,Hanomag-Henschel,en
+229,Krupp,sv
+229,Krupp,en
+230,IWS,sv
+230,IWS,en
+231,Solifer,sv
+231,Solifer,en
+232,Nordic,sv
+232,Nordic,en
+233,Sprite,sv
+233,Sprite,en
+234,Tabbert,sv
+234,Tabbert,en
+235,Neoplan,sv
+235,Neoplan,en
+236,Muir-Hill,sv
+236,Muir-Hill,en
+237,Lanz,sv
+237,Lanz,en
+238,Liebherr,sv
+238,Liebherr,en
+239,Linde,sv
+239,Linde,en
+240,Magirus-Deutz,sv
+240,Magirus-Deutz,en
+241,MAN,sv
+241,MAN,en
+242,Magirus-Deutz-Beilhack,sv
+242,Magirus-Deutz-Beilhack,en
+243,Mercedes-Benz,sv
+243,Mercedes-Benz,en
+244,Mercedes-Benz-Hymer,sv
+244,Mercedes-Benz-Hymer,en
+245,Mercedes-Benz-Putzmeister,sv
+245,Mercedes-Benz-Putzmeister,en
+246,Mercedes-Benz-Wibau,sv
+246,Mercedes-Benz-Wibau,en
+247,NSU,sv
+247,NSU,en
+248,Mercedes-Benz-Scheele,sv
+248,Mercedes-Benz-Scheele,en
+249,Opel,sv
+249,Opel,en
+250,Mercedes-Benz-Schwing,sv
+250,Mercedes-Benz-Schwing,en
+251,Porsche,sv
+251,Porsche,en
+252,VW-Porsche,sv
+252,VW-Porsche,en
+253,Mercedes-Benz-Schörling,sv
+253,Mercedes-Benz-Schörling,en
+254,Mercedes-Benz-Kuka,sv
+254,Mercedes-Benz-Kuka,en
+255,Mercedes-Benz-Titan,sv
+255,Mercedes-Benz-Titan,en
+256,Still,sv
+256,Still,en
+257,Mercedes-Benz-Rolba,sv
+257,Mercedes-Benz-Rolba,en
+258,Hako,sv
+258,Hako,en
+259,Mercedes-Benz-Faun,sv
+259,Mercedes-Benz-Faun,en
+260,Mercedes-Benz-Beilhack,sv
+260,Mercedes-Benz-Beilhack,en
+261,Mercedes-Benz-Schmidt,sv
+261,Mercedes-Benz-Schmidt,en
+262,Holder,sv
+262,Holder,en
+263,Gilson,sv
+263,Gilson,en
+264,Wheel Horse,sv
+264,Wheel Horse,en
+265,Bolens,sv
+265,Bolens,en
+266,MAN-Volkswagen,sv
+266,MAN-Volkswagen,en
+267,Volkswagen,sv
+267,Volkswagen,en
+268,Volkswagen-Matkaaja,sv
+268,Volkswagen-Matkaaja,en
+269,Case International,sv
+269,Case International,en
+270,Setra,sv
+270,Setra,en
+271,Berliet,sv
+271,Berliet,en
+272,Kamag,sv
+272,Kamag,en
+273,Homelite,sv
+273,Homelite,en
+274,Murray,sv
+274,Murray,en
+275,Yard-Man,sv
+275,Yard-Man,en
+276,Gravely,sv
+276,Gravely,en
+277,Agria,sv
+277,Agria,en
+278,Nord-Verk,sv
+278,Nord-Verk,en
+279,Engström & Nilson,sv
+279,Engström & Nilson,en
+280,Moxy,sv
+280,Moxy,en
+281,Delta,sv
+281,Delta,en
+282,Ikarus,sv
+282,Ikarus,en
+283,SWS,sv
+283,SWS,en
+284,Bova,sv
+284,Bova,en
+285,SE,sv
+285,SE,en
+286,Buhler-Miag,sv
+286,Buhler-Miag,en
+287,O&K,sv
+287,O&K,en
+288,O&K-Harnischfeger,sv
+288,O&K-Harnischfeger,en
+289,We-Trac,sv
+289,We-Trac,en
+290,Ford-Teg,sv
+290,Ford-Teg,en
+291,Teg-Pomo,sv
+291,Teg-Pomo,en
+292,Ford-Rottne,sv
+292,Ford-Rottne,en
+293,Teg-Rottne,sv
+293,Teg-Rottne,en
+294,Teg-Rulla-Pomo,sv
+294,Teg-Rulla-Pomo,en
+295,Hemek,sv
+295,Hemek,en
+296,Snorre,sv
+296,Snorre,en
+297,Valtra-Farmet,sv
+297,Valtra-Farmet,en
+298,Norcar,sv
+298,Norcar,en
+299,Kraz,sv
+299,Kraz,en
+300,Piccolo,sv
+300,Piccolo,en
+301,Schaeff,sv
+301,Schaeff,en
+302,Kramer-Allrad,sv
+302,Kramer-Allrad,en
+303,Ahlmann,sv
+303,Ahlmann,en
+304,Jogger,sv
+304,Jogger,en
+305,Snow-Trac,sv
+305,Snow-Trac,en
+306,Trac-Master,sv
+306,Trac-Master,en
+307,Allme,sv
+307,Allme,en
+308,Broddway,sv
+308,Broddway,en
+309,Wiedenmann,sv
+309,Wiedenmann,en
+310,Sheuerle,sv
+310,Sheuerle,en
+311,Pinguely,sv
+311,Pinguely,en
+312,Savotta-County,sv
+312,Savotta-County,en
+313,Citroen,sv
+313,Citroen,en
+314,Deutz-Fahr,sv
+314,Deutz-Fahr,en
+315,Deutz,sv
+315,Deutz,en
+316,Talbot,sv
+316,Talbot,en
+317,Talbot-Simca,sv
+317,Talbot-Simca,en
+318,Talbot-Matra,sv
+318,Talbot-Matra,en
+319,Valtra-Mestari,sv
+319,Valtra-Mestari,en
+320,Vilske,sv
+320,Vilske,en
+321,Titan,sv
+321,Titan,en
+322,Jusa,sv
+322,Jusa,en
+323,Fiskars,sv
+323,Fiskars,en
+324,Terri,sv
+324,Terri,en
+325,Hiisi,sv
+325,Hiisi,en
+326,Tehomestari,sv
+326,Tehomestari,en
+327,Finncombi,sv
+327,Finncombi,en
+328,Vammas,sv
+328,Vammas,en
+329,LM,sv
+329,LM,en
+330,Mara,sv
+330,Mara,en
+331,Hydrema,sv
+331,Hydrema,en
+332,Skog-Basen,sv
+332,Skog-Basen,en
+333,Rasant,sv
+333,Rasant,en
+334,Van Hool,sv
+334,Van Hool,en
+335,Poni,sv
+335,Poni,en
+336,Sanderson,sv
+336,Sanderson,en
+337,Chevrolet-Campline,sv
+337,Chevrolet-Campline,en
+338,Ford-Matkaaja,sv
+338,Ford-Matkaaja,en
+339,Mercedes-Benz-Frankia,sv
+339,Mercedes-Benz-Frankia,en
+340,Mercedes-Benz-Clou,sv
+340,Mercedes-Benz-Clou,en
+341,Mercedes-Benz-Karmann,sv
+341,Mercedes-Benz-Karmann,en
+342,Volkswagen-Westfalia,sv
+342,Volkswagen-Westfalia,en
+343,P & H,sv
+343,P & H,en
+344,Citroen-Rose,sv
+344,Citroen-Rose,en
+345,Peugeot-Eura-Mobil,sv
+345,Peugeot-Eura-Mobil,en
+346,Peugeot-Heku,sv
+346,Peugeot-Heku,en
+347,Peugeot-Autocab,sv
+347,Peugeot-Autocab,en
+348,Peugeot-Fiilis,sv
+348,Peugeot-Fiilis,en
+349,Peugeot-SMC,sv
+349,Peugeot-SMC,en
+350,Peugeot-Maesss,sv
+350,Peugeot-Maesss,en
+351,Fiat-Laika,sv
+351,Fiat-Laika,en
+352,Peugeot-Rimor,sv
+352,Peugeot-Rimor,en
+353,Peugeot-Laika,sv
+353,Peugeot-Laika,en
+354,Peugeot-FFB,sv
+354,Peugeot-FFB,en
+355,Fiat-Clou,sv
+355,Fiat-Clou,en
+356,Peugeot-Mobi,sv
+356,Peugeot-Mobi,en
+357,Fiat-Adriatik,sv
+357,Fiat-Adriatik,en
+358,Fiat-Mobilvetta,sv
+358,Fiat-Mobilvetta,en
+359,Oleomat,sv
+359,Oleomat,en
+360,Poclain,sv
+360,Poclain,en
+361,Peugeot,sv
+361,Peugeot,en
+362,Pingon,sv
+362,Pingon,en
+363,Peugeot-Pilote,sv
+363,Peugeot-Pilote,en
+364,Renault-Dacia,sv
+364,Renault-Dacia,en
+365,Renault,sv
+365,Renault,en
+366,Dacia,sv
+366,Dacia,en
+367,Peugeot-Hymer,sv
+367,Peugeot-Hymer,en
+368,Saviem,sv
+368,Saviem,en
+369,Saviem-PPM,sv
+369,Saviem-PPM,en
+370,Renault-Saviem,sv
+370,Renault-Saviem,en
+371,Fiat-Cabby,sv
+371,Fiat-Cabby,en
+372,Iveco-Fiat-Laika,sv
+372,Iveco-Fiat-Laika,en
+373,Simca,sv
+373,Simca,en
+374,Matra-Simca,sv
+374,Matra-Simca,en
+375,Mitsubishi-Eura-Mobil,sv
+375,Mitsubishi-Eura-Mobil,en
+376,Volkswagen-Westpoint,sv
+376,Volkswagen-Westpoint,en
+377,Fleur De Lys,sv
+377,Fleur De Lys,en
+378,Aleko,sv
+378,Aleko,en
+379,Westfalia,sv
+379,Westfalia,en
+380,Fiat-SMC,sv
+380,Fiat-SMC,en
+381,Fiat-Frankia,sv
+381,Fiat-Frankia,en
+382,Oktobar-STT,sv
+382,Oktobar-STT,en
+383,Topi,sv
+383,Topi,en
+384,Farmi Trac,sv
+384,Farmi Trac,en
+385,Kenworth,sv
+385,Kenworth,en
+386,FDI-Sambron,sv
+386,FDI-Sambron,en
+387,FAP,sv
+387,FAP,en
+388,Jelcz,sv
+388,Jelcz,en
+389,Citroen-Piccolo,sv
+389,Citroen-Piccolo,en
+390,Manitou,sv
+390,Manitou,en
+391,Lynx,sv
+391,Lynx,en
+392,Lynx-Ockelbo,sv
+392,Lynx-Ockelbo,en
+393,Juho,sv
+393,Juho,en
+394,Iveco-Clou,sv
+394,Iveco-Clou,en
+395,Aki,sv
+395,Aki,en
+396,Peugeot-Tramper,sv
+396,Peugeot-Tramper,en
+397,Mecalac,sv
+397,Mecalac,en
+398,Richier,sv
+398,Richier,en
+399,Zettelmeyer,sv
+399,Zettelmeyer,en
+400,Iveco-Teve,sv
+400,Iveco-Teve,en
+401,Alfa Romeo,sv
+401,Alfa Romeo,en
+402,Dresser Payloader,sv
+402,Dresser Payloader,en
+403,Iveco-Fiat,sv
+403,Iveco-Fiat,en
+404,Magirus-Deutz-Atlas-Cocpo,sv
+404,Magirus-Deutz-Atlas-Cocpo,en
+405,Iveco-Magirus-Atlas-Copco,sv
+405,Iveco-Magirus-Atlas-Copco,en
+406,Iveco-Magirus,sv
+406,Iveco-Magirus,en
+407,Bertone,sv
+407,Bertone,en
+408,Fiat-Bertone,sv
+408,Fiat-Bertone,en
+409,Fiat-Electrica,sv
+409,Fiat-Electrica,en
+410,Fiat,sv
+410,Fiat,en
+411,Zastava,sv
+411,Zastava,en
+412,Iveco,sv
+412,Iveco,en
+413,Seat,sv
+413,Seat,en
+414,Seat-Fiat,sv
+414,Seat-Fiat,en
+415,Same,sv
+415,Same,en
+416,Panda,sv
+416,Panda,en
+417,Iveco-Fiat-Rimor,sv
+417,Iveco-Fiat-Rimor,en
+418,Lancia,sv
+418,Lancia,en
+419,Maserati,sv
+419,Maserati,en
+420,Fiat-Matkaaja,sv
+420,Fiat-Matkaaja,en
+421,Fiat-Solifer,sv
+421,Fiat-Solifer,en
+422,Fiat-Hobby,sv
+422,Fiat-Hobby,en
+423,Fiat-LMC,sv
+423,Fiat-LMC,en
+424,Fiat-Hymer,sv
+424,Fiat-Hymer,en
+425,Fiat-Casa,sv
+425,Fiat-Casa,en
+426,Fiat-Dethleffs,sv
+426,Fiat-Dethleffs,en
+427,Fiat-FFB,sv
+427,Fiat-FFB,en
+428,Fiat-Burstner,sv
+428,Fiat-Burstner,en
+429,Fiat-Knaus,sv
+429,Fiat-Knaus,en
+430,Fiat-Allis,sv
+430,Fiat-Allis,en
+431,Fiat-Allis-Benfra,sv
+431,Fiat-Allis-Benfra,en
+432,New Holland,sv
+432,New Holland,en
+433,Swinger,sv
+433,Swinger,en
+434,Mercedes-Benz-Eura Mobil,sv
+434,Mercedes-Benz-Eura Mobil,en
+435,Burstner,sv
+435,Burstner,en
+436,Peugeot-Beisl,sv
+436,Peugeot-Beisl,en
+437,Fiat-Fendt,sv
+437,Fiat-Fendt,en
+438,Lexus,sv
+438,Lexus,en
+439,Ford-Karmann,sv
+439,Ford-Karmann,en
+440,Ski-Doo,sv
+440,Ski-Doo,en
+441,Fiat-Fiilis,sv
+441,Fiat-Fiilis,en
+442,Chateau,sv
+442,Chateau,en
+443,Sävsjö,sv
+443,Sävsjö,en
+444,Husaberg,sv
+444,Husaberg,en
+445,Arctic Cat,sv
+445,Arctic Cat,en
+446,Dodge-Eura-Mobil,sv
+446,Dodge-Eura-Mobil,en
+447,Lumikko,sv
+447,Lumikko,en
+448,Morel,sv
+448,Morel,en
+449,Tunturi,sv
+449,Tunturi,en
+450,Tracker,sv
+450,Tracker,en
+451,Fiat-Tramper,sv
+451,Fiat-Tramper,en
+452,Dantruck,sv
+452,Dantruck,en
+453,X-Trailer,sv
+453,X-Trailer,en
+454,Bertling,sv
+454,Bertling,en
+455,Alutek,sv
+455,Alutek,en
+456,Volkswagen-Karmann,sv
+456,Volkswagen-Karmann,en
+457,Vene-Juhta,sv
+457,Vene-Juhta,en
+458,Belos,sv
+458,Belos,en
+459,Sale,sv
+459,Sale,en
+460,Fantuzzi,sv
+460,Fantuzzi,en
+461,Fiat-Pilote,sv
+461,Fiat-Pilote,en
+462,Mercedes-Benz-Grenzland,sv
+462,Mercedes-Benz-Grenzland,en
+463,Unitrac,sv
+463,Unitrac,en
+464,TVR,sv
+464,TVR,en
+465,Neoplan-Scania,sv
+465,Neoplan-Scania,en
+466,Lewo,sv
+466,Lewo,en
+467,Fiat-Maesss,sv
+467,Fiat-Maesss,en
+468,Noramaster,sv
+468,Noramaster,en
+469,G-Man,sv
+469,G-Man,en
+470,Leda,sv
+470,Leda,en
+471,Motocentro,sv
+471,Motocentro,en
+472,Lamborghini,sv
+472,Lamborghini,en
+473,Kindai,sv
+473,Kindai,en
+474,Autobianchi,sv
+474,Autobianchi,en
+475,AFM,sv
+475,AFM,en
+476,Somet,sv
+476,Somet,en
+477,Majava,sv
+477,Majava,en
+478,Jollycat,sv
+478,Jollycat,en
+479,Siirtokone,sv
+479,Siirtokone,en
+480,Raisu,sv
+480,Raisu,en
+481,Subaru-Elcat,sv
+481,Subaru-Elcat,en
+482,Starset,sv
+482,Starset,en
+483,Vimek,sv
+483,Vimek,en
+484,Peugeot-Elddis,sv
+484,Peugeot-Elddis,en
+485,Amigo,sv
+485,Amigo,en
+486,Alucarry,sv
+486,Alucarry,en
+487,Järvis,sv
+487,Järvis,en
+488,Eesu,sv
+488,Eesu,en
+489,Chevrolet-Starcraft,sv
+489,Chevrolet-Starcraft,en
+490,Gisebo,sv
+490,Gisebo,en
+491,Hoist,sv
+491,Hoist,en
+492,Michael,sv
+492,Michael,en
+493,MMZ,sv
+493,MMZ,en
+494,VT-Coupe,sv
+494,VT-Coupe,en
+495,Daily Trailer,sv
+495,Daily Trailer,en
+496,Traveller,sv
+496,Traveller,en
+497,Gas Gas,sv
+497,Gas Gas,en
+498,Baraldi,sv
+498,Baraldi,en
+499,Cosmoter,sv
+499,Cosmoter,en
+500,KH-perävaunu,sv
+500,KH-perävaunu,en
+501,Asea,sv
+501,Asea,en
+502,Chevrolet-Cobra,sv
+502,Chevrolet-Cobra,en
+503,Vepa,sv
+503,Vepa,en
+504,Tam-Trailers,sv
+504,Tam-Trailers,en
+505,Ape,sv
+505,Ape,en
+506,Europe-Tra,sv
+506,Europe-Tra,en
+507,Huddig,sv
+507,Huddig,en
+508,Kalmar,sv
+508,Kalmar,en
+509,Kalmar LMV,sv
+509,Kalmar LMV,en
+510,LMV,sv
+510,LMV,en
+511,Caterpillar,sv
+511,Caterpillar,en
+512,Caterpillar-Towmotor,sv
+512,Caterpillar-Towmotor,en
+513,Balkancar,sv
+513,Balkancar,en
+514,Gradall,sv
+514,Gradall,en
+515,Heikki,sv
+515,Heikki,en
+516,Bruunett,sv
+516,Bruunett,en
+517,Tiki Treiler,sv
+517,Tiki Treiler,en
+518,Nisar,sv
+518,Nisar,en
+519,FMG,sv
+519,FMG,en
+520,Teco,sv
+520,Teco,en
+521,Valmet-Hymas,sv
+521,Valmet-Hymas,en
+522,Hymas,sv
+522,Hymas,en
+523,Lundberg,sv
+523,Lundberg,en
+524,AGT-Trailer,sv
+524,AGT-Trailer,en
+525,Magnum,sv
+525,Magnum,en
+526,Lai-Mu,sv
+526,Lai-Mu,en
+527,FAI,sv
+527,FAI,en
+528,Fordson,sv
+528,Fordson,en
+529,Occo,sv
+529,Occo,en
+530,Aku,sv
+530,Aku,en
+531,Nova Star,sv
+531,Nova Star,en
+532,Stella,sv
+532,Stella,en
+533,Skotten,sv
+533,Skotten,en
+534,Ritmo,sv
+534,Ritmo,en
+535,Stiga,sv
+535,Stiga,en
+536,Scania-Master,sv
+536,Scania-Master,en
+537,Scania-Haapanen,sv
+537,Scania-Haapanen,en
+538,Scania-Schörling,sv
+538,Scania-Schörling,en
+539,Scania-Vabis-Linden,sv
+539,Scania-Vabis-Linden,en
+540,Scania,sv
+540,Scania,en
+541,Svetruck,sv
+541,Svetruck,en
+542,SMV,sv
+542,SMV,en
+543,Heppu,sv
+543,Heppu,en
+544,Fiat-Hitachi,sv
+544,Fiat-Hitachi,en
+545,Stocka,sv
+545,Stocka,en
+546,JC-Trailer,sv
+546,JC-Trailer,en
+547,Jyry,sv
+547,Jyry,en
+548,LKZ,sv
+548,LKZ,en
+549,Helkama-Sensei,sv
+549,Helkama-Sensei,en
+550,Ferrari,sv
+550,Ferrari,en
+551,Timberjack,sv
+551,Timberjack,en
+552,Paana,sv
+552,Paana,en
+553,Reform,sv
+553,Reform,en
+554,Coxer,sv
+554,Coxer,en
+555,Iveco-Matkaaja,sv
+555,Iveco-Matkaaja,en
+556,Aktiv,sv
+556,Aktiv,en
+557,Ariens,sv
+557,Ariens,en
+558,Ösa,sv
+558,Ösa,en
+559,Volvo Bm,sv
+559,Volvo Bm,en
+560,Volvo,sv
+560,Volvo,en
+561,Volvo-Skuteng,sv
+561,Volvo-Skuteng,en
+562,Volvo BM Valmet,sv
+562,Volvo BM Valmet,en
+563,Evinrude,sv
+563,Evinrude,en
+564,Farmi-Trac,sv
+564,Farmi-Trac,en
+565,Finncat,sv
+565,Finncat,en
+566,Finn Sammy,sv
+566,Finn Sammy,en
+567,Frosty,sv
+567,Frosty,en
+568,Illern,sv
+568,Illern,en
+569,Johnson,sv
+569,Johnson,en
+570,Kässbohrer,sv
+570,Kässbohrer,en
+571,Lynx-Winha,sv
+571,Lynx-Winha,en
+572,Moto-Ski,sv
+572,Moto-Ski,en
+573,Myski,sv
+573,Myski,en
+574,TPK-Myski,sv
+574,TPK-Myski,en
+575,Ockelbo,sv
+575,Ockelbo,en
+576,Ockelbo-Valmet,sv
+576,Ockelbo-Valmet,en
+577,Rajd,sv
+577,Rajd,en
+578,Sinus,sv
+578,Sinus,en
+579,Sno-Prince,sv
+579,Sno-Prince,en
+580,Sno-Trick,sv
+580,Sno-Trick,en
+581,Terhi,sv
+581,Terhi,en
+582,TPK,sv
+582,TPK,en
+583,Trapper,sv
+583,Trapper,en
+584,Valler-Ullberg,sv
+584,Valler-Ullberg,en
+585,Åkerman,sv
+585,Åkerman,en
+586,JP-kärry,sv
+586,JP-kärry,en
+587,Piaggio,sv
+587,Piaggio,en
+588,Tammitrailer,sv
+588,Tammitrailer,en
+589,Mane,sv
+589,Mane,en
+590,Viking,sv
+590,Viking,en
+591,Vetopeli,sv
+591,Vetopeli,en
+592,Farmi,sv
+592,Farmi,en
+593,Italjet,sv
+593,Italjet,en
+594,Daewoo,sv
+594,Daewoo,en
+595,Komet,sv
+595,Komet,en
+596,Ajokki,sv
+596,Ajokki,en
+597,Mafi,sv
+597,Mafi,en
+598,Vanaja-Lokomo,sv
+598,Vanaja-Lokomo,en
+599,Ljungbytruck,sv
+599,Ljungbytruck,en
+600,Ara,sv
+600,Ara,en
+601,Sisu,sv
+601,Sisu,en
+602,Vanaja,sv
+602,Vanaja,en
+603,Valmet,sv
+603,Valmet,en
+604,Hollming,sv
+604,Hollming,en
+605,Finnsammy,sv
+605,Finnsammy,en
+606,Saab,sv
+606,Saab,en
+607,Kabus,sv
+607,Kabus,en
+608,Teijo,sv
+608,Teijo,en
+609,Joutra,sv
+609,Joutra,en
+610,NYK,sv
+610,NYK,en
+611,Lokomo,sv
+611,Lokomo,en
+612,Sisu-Lokomo,sv
+612,Sisu-Lokomo,en
+613,Björn,sv
+613,Björn,en
+614,Ukko-Mestari,sv
+614,Ukko-Mestari,en
+615,Lännen,sv
+615,Lännen,en
+616,Ponsse,sv
+616,Ponsse,en
+617,OK,sv
+617,OK,en
+618,Lokari Horse,sv
+618,Lokari Horse,en
+619,MAZ,sv
+619,MAZ,en
+620,Valtra-Vilske,sv
+620,Valtra-Vilske,en
+621,Valtra,sv
+621,Valtra,en
+622,Lansing-Valmet,sv
+622,Lansing-Valmet,en
+623,Valmet-Valtra,sv
+623,Valmet-Valtra,en
+624,Valtra VL,sv
+624,Valtra VL,en
+625,James,sv
+625,James,en
+626,Pinomäki,sv
+626,Pinomäki,en
+627,Pika,sv
+627,Pika,en
+628,HS,sv
+628,HS,en
+629,Bollnäs,sv
+629,Bollnäs,en
+630,MBK,sv
+630,MBK,en
+631,Volkswagen-Swift,sv
+631,Volkswagen-Swift,en
+632,BMA,sv
+632,BMA,en
+633,Korado,sv
+633,Korado,en
+634,Respo,sv
+634,Respo,en
+635,Prinz-Idrott,sv
+635,Prinz-Idrott,en
+636,Hopeasauma,sv
+636,Hopeasauma,en
+637,Supo,sv
+637,Supo,en
+638,Juuso,sv
+638,Juuso,en
+639,Polstjernan,sv
+639,Polstjernan,en
+640,Ssangyong,sv
+640,Ssangyong,en
+641,DAF,sv
+641,DAF,en
+642,Alucar,sv
+642,Alucar,en
+643,Hopeasiipi,sv
+643,Hopeasiipi,en
+644,Brummi,sv
+644,Brummi,en
+645,Panther,sv
+645,Panther,en
+646,Schmidt,sv
+646,Schmidt,en
+647,Bentley,sv
+647,Bentley,en
+648,Johnston,sv
+648,Johnston,en
+649,Dniepr,sv
+649,Dniepr,en
+650,Jyki,sv
+650,Jyki,en
+651,Hyosung,sv
+651,Hyosung,en
+652,Indian,sv
+652,Indian,en
+653,Travelift,sv
+653,Travelift,en
+654,Ransomes,sv
+654,Ransomes,en
+655,Toro,sv
+655,Toro,en
+656,MF,sv
+656,MF,en
+657,Electric Mobility,sv
+657,Electric Mobility,en
+658,Standard Moto,sv
+658,Standard Moto,en
+659,Krone,sv
+659,Krone,en
+660,Casalini,sv
+660,Casalini,en
+661,Xingtai,sv
+661,Xingtai,en
+662,Jousi,sv
+662,Jousi,en
+663,Mekope,sv
+663,Mekope,en
+664,Te-Ho,sv
+664,Te-Ho,en
+665,Capri,sv
+665,Capri,en
+666,Mc Cormick,sv
+666,Mc Cormick,en
+667,Multicar,sv
+667,Multicar,en
+668,Neckar,sv
+668,Neckar,en
+669,Je-Lau,sv
+669,Je-Lau,en
+670,Steyr-Puch,sv
+670,Steyr-Puch,en
+671,Puch,sv
+671,Puch,en
+672,Still-Saxby,sv
+672,Still-Saxby,en
+673,Schäffer,sv
+673,Schäffer,en
+674,Steyr,sv
+674,Steyr,en
+675,Fermec,sv
+675,Fermec,en
+676,K,sv
+676,K,en
+677,Case IH,sv
+677,Case IH,en
+678,Goljat,sv
+678,Goljat,en
+679,CZ-Cagiva,sv
+679,CZ-Cagiva,en
+680,MZ-Kanuni,sv
+680,MZ-Kanuni,en
+681,Schmitz,sv
+681,Schmitz,en
+682,Kramer-Tremo,sv
+682,Kramer-Tremo,en
+683,Halla,sv
+683,Halla,en
+684,Sport-Trailers,sv
+684,Sport-Trailers,en
+685,Bucher,sv
+685,Bucher,en
+686,Bucher-Schörling,sv
+686,Bucher-Schörling,en
+687,Skogsjan,sv
+687,Skogsjan,en
+688,Cushman,sv
+688,Cushman,en
+689,Kögel,sv
+689,Kögel,en
+690,Trail Van,sv
+690,Trail Van,en
+691,Yang,sv
+691,Yang,en
+692,Europetra,sv
+692,Europetra,en
+693,UVM,sv
+693,UVM,en
+694,Kanuni,sv
+694,Kanuni,en
+695,She Lung,sv
+695,She Lung,en
+696,Aixam,sv
+696,Aixam,en
+697,Kärcher,sv
+697,Kärcher,en
+698,SMC,sv
+698,SMC,en
+699,Patria Vehicles,sv
+699,Patria Vehicles,en
+700,Wille,sv
+700,Wille,en
+701,GAZ,sv
+701,GAZ,en
+702,Moskvitsh,sv
+702,Moskvitsh,en
+703,Logset,sv
+703,Logset,en
+704,Samsung,sv
+704,Samsung,en
+705,Niewiadow,sv
+705,Niewiadow,en
+706,Simpa,sv
+706,Simpa,en
+707,ZIL,sv
+707,ZIL,en
+708,Volga,sv
+708,Volga,en
+709,UAZ,sv
+709,UAZ,en
+710,Tschaika,sv
+710,Tschaika,en
+711,Kamaz,sv
+711,Kamaz,en
+712,RAF,sv
+712,RAF,en
+713,Tavria,sv
+713,Tavria,en
+714,Lada,sv
+714,Lada,en
+715,Niva,sv
+715,Niva,en
+716,Lada-Vaz,sv
+716,Lada-Vaz,en
+717,Ligier,sv
+717,Ligier,en
+718,JSI-Trailers,sv
+718,JSI-Trailers,en
+719,Hopesiipi,sv
+719,Hopesiipi,en
+720,RS-Trailer,sv
+720,RS-Trailer,en
+721,Mccormick,sv
+721,Mccormick,en
+722,Com Trailer,sv
+722,Com Trailer,en
+723,Claas,sv
+723,Claas,en
+724,Atala,sv
+724,Atala,en
+725,Antonio Carraro,sv
+725,Antonio Carraro,en
+726,Egholm,sv
+726,Egholm,en
+727,E-Ton,sv
+727,E-Ton,en
+728,Yki,sv
+728,Yki,en
+729,Hanski,sv
+729,Hanski,en
+730,Jaspe,sv
+730,Jaspe,en
+731,Ekeri,sv
+731,Ekeri,en
+732,Aeon,sv
+732,Aeon,en
+733,Aeon Motor,sv
+733,Aeon Motor,en
+734,CH Racing,sv
+734,CH Racing,en
+735,Sanili,sv
+735,Sanili,en
+736,Zhongyu,sv
+736,Zhongyu,en
+737,Kajo,sv
+737,Kajo,en
+738,JDM,sv
+738,JDM,en
+739,Tekno-Trailer,sv
+739,Tekno-Trailer,en
+740,Motorhispania,sv
+740,Motorhispania,en
+741,Sterckeman,sv
+741,Sterckeman,en
+742,GM Daewoo,sv
+742,GM Daewoo,en
+743,Taiga,sv
+743,Taiga,en
+744,Fiat Kobelco,sv
+744,Fiat Kobelco,en
+745,Honlei,sv
+745,Honlei,en
+746,Kontti,sv
+746,Kontti,en
+747,Baotian,sv
+747,Baotian,en
+748,Microcar,sv
+748,Microcar,en
+749,Ii-Trailer,sv
+749,Ii-Trailer,en
+750,Morris-Cooper,sv
+750,Morris-Cooper,en
+751,Melex,sv
+751,Melex,en
+752,Loncin,sv
+752,Loncin,en
+753,CF Moto,sv
+753,CF Moto,en
+754,Vulcan,sv
+754,Vulcan,en
+755,Lifan,sv
+755,Lifan,en
+756,Branson,sv
+756,Branson,en
+757,TM Racing,sv
+757,TM Racing,en
+758,Juhta Plus,sv
+758,Juhta Plus,en
+759,Daifo,sv
+759,Daifo,en
+760,Meclift,sv
+760,Meclift,en
+761,Barossa Motor,sv
+761,Barossa Motor,en
+762,Kia,sv
+762,Kia,en
+763,Jawa 650,sv
+763,Jawa 650,en
+764,Nacional Motor,sv
+764,Nacional Motor,en
+765,EVT,sv
+765,EVT,en
+766,Ladog,sv
+766,Ladog,en
+767,Fomac,sv
+767,Fomac,en
+768,Qingqi,sv
+768,Qingqi,en
+769,Semax,sv
+769,Semax,en
+770,Lännen-Valmet,sv
+770,Lännen-Valmet,en
+771,Kinroad,sv
+771,Kinroad,en
+772,Farmi Pro,sv
+772,Farmi Pro,en
+773,Longchang,sv
+773,Longchang,en
+774,BCS,sv
+774,BCS,en
+775,Belarus,sv
+775,Belarus,en
+776,Crystal,sv
+776,Crystal,en
+777,EO,sv
+777,EO,en
+778,HTZ,sv
+778,HTZ,en
+779,Wagner,sv
+779,Wagner,en
+780,AIE,sv
+780,AIE,en
+781,Keeway,sv
+781,Keeway,en
+782,Smart,sv
+782,Smart,en
+783,Ase,sv
+783,Ase,en
+784,Nordstjärnan,sv
+784,Nordstjärnan,en
+785,Miele,sv
+785,Miele,en
+786,Vapsa,sv
+786,Vapsa,en
+787,SYM,sv
+787,SYM,en
+788,Jianshe,sv
+788,Jianshe,en
+789,Iseki,sv
+789,Iseki,en
+790,Chuanl,sv
+790,Chuanl,en
+791,Yiying,sv
+791,Yiying,en
+792,Dazon,sv
+792,Dazon,en
+793,Ego Vehicles,sv
+793,Ego Vehicles,en
+794,Wangye,sv
+794,Wangye,en
+795,Zongshen,sv
+795,Zongshen,en
+796,Chongqing Lifan,sv
+796,Chongqing Lifan,en
+797,Black'n Roll,sv
+797,Black'n Roll,en
+798,Linhai,sv
+798,Linhai,en
+799,Udarnik Pk,sv
+799,Udarnik Pk,en
+800,Komatsu,sv
+800,Komatsu,en
+801,Polaris,sv
+801,Polaris,en
+802,Maybach,sv
+802,Maybach,en
+803,Veto,sv
+803,Veto,en
+804,Desta,sv
+804,Desta,en
+805,Skoda,sv
+805,Skoda,en
+806,Tatra,sv
+806,Tatra,en
+807,Chunlan,sv
+807,Chunlan,en
+808,Adly Moto,sv
+808,Adly Moto,en
+809,Guirro,sv
+809,Guirro,en
+810,Finn-Power,sv
+810,Finn-Power,en
+811,Feiying,sv
+811,Feiying,en
+812,CPI,sv
+812,CPI,en
+813,Siamoto,sv
+813,Siamoto,en
+814,Jincheng,sv
+814,Jincheng,en
+815,Malaguti,sv
+815,Malaguti,en
+816,Simson,sv
+816,Simson,en
+817,Zetor,sv
+817,Zetor,en
+818,Hero,sv
+818,Hero,en
+819,ZTS,sv
+819,ZTS,en
+820,Jawetta,sv
+820,Jawetta,en
+821,Mobylette,sv
+821,Mobylette,en
+822,Trygg,sv
+822,Trygg,en
+823,Rabeneick,sv
+823,Rabeneick,en
+824,Göricke,sv
+824,Göricke,en
+825,KO,sv
+825,KO,en
+826,Vesta,sv
+826,Vesta,en
+827,NMV,sv
+827,NMV,en
+828,Öglaend-Saxo-Prins,sv
+828,Öglaend-Saxo-Prins,en
+829,Öglaend-Regulus,sv
+829,Öglaend-Regulus,en
+830,Öglaend-Partner,sv
+830,Öglaend-Partner,en
+831,Öglaend-Hero,sv
+831,Öglaend-Hero,en
+832,Öglaend-Comet,sv
+832,Öglaend-Comet,en
+833,Wayne,sv
+833,Wayne,en
+834,FSO,sv
+834,FSO,en
+835,Polski-Fiat,sv
+835,Polski-Fiat,en
+836,Ursus,sv
+836,Ursus,en
+837,Öglaend-Achilles,sv
+837,Öglaend-Achilles,en
+838,Öglaend,sv
+838,Öglaend,en
+839,ZZR,sv
+839,ZZR,en
+840,Viking-Öglaend,sv
+840,Viking-Öglaend,en
+841,Velo-Öglaend,sv
+841,Velo-Öglaend,en
+842,Teräs-Siipi,sv
+842,Teräs-Siipi,en
+843,Solo,sv
+843,Solo,en
+844,Sport,sv
+844,Sport,en
+845,Saxo-Prins-Öglaend,sv
+845,Saxo-Prins-Öglaend,en
+846,Regulus-Öglaend,sv
+846,Regulus-Öglaend,en
+847,Universal,sv
+847,Universal,en
+848,Kubota,sv
+848,Kubota,en
+849,Raleigh,sv
+849,Raleigh,en
+850,Pyrkijä,sv
+850,Pyrkijä,en
+851,Puch-Tunturi,sv
+851,Puch-Tunturi,en
+852,Ebro,sv
+852,Ebro,en
+853,Partner,sv
+853,Partner,en
+854,F-Pro,sv
+854,F-Pro,en
+855,Ktm-Camping,sv
+855,Ktm-Camping,en
+856,Jupiter,sv
+856,Jupiter,en
+857,Hero-Öglaend,sv
+857,Hero-Öglaend,en
+858,Hermes,sv
+858,Hermes,en
+859,Helkama,sv
+859,Helkama,en
+860,IMT,sv
+860,IMT,en
+861,IFA,sv
+861,IFA,en
+862,Torpedo,sv
+862,Torpedo,en
+863,Grand Prix,sv
+863,Grand Prix,en
+864,Goldie,sv
+864,Goldie,en
+865,TCM,sv
+865,TCM,en
+866,Fram,sv
+866,Fram,en
+867,DKW,sv
+867,DKW,en
+868,Cresto-Öglaend,sv
+868,Cresto-Öglaend,en
+869,Cresto,sv
+869,Cresto,en
+870,Hyundai,sv
+870,Hyundai,en
+871,Comet-Öglaend,sv
+871,Comet-Öglaend,en
+872,Ciao,sv
+872,Ciao,en
+873,Camping Ktm,sv
+873,Camping Ktm,en
+874,Camping,sv
+874,Camping,en
+875,Achilles-Öglaend,sv
+875,Achilles-Öglaend,en
+876,Achilles,sv
+876,Achilles,en
+877,Moelven,sv
+877,Moelven,en
+878,Tadano,sv
+878,Tadano,en
+879,Faun,sv
+879,Faun,en
+880,Toyota-Mobi,sv
+880,Toyota-Mobi,en
+881,Toyota-Matka-Matti,sv
+881,Toyota-Matka-Matti,en
+882,Faun-Demag,sv
+882,Faun-Demag,en
+883,Faun-Krupp,sv
+883,Faun-Krupp,en
+884,Faun-Tadano,sv
+884,Faun-Tadano,en
+885,Hydrokran,sv
+885,Hydrokran,en
+886,PPM,sv
+886,PPM,en
+887,SFB-American,sv
+887,SFB-American,en
+888,Allen,sv
+888,Allen,en
+889,Kato,sv
+889,Kato,en
+890,Fuso-Kato,sv
+890,Fuso-Kato,en
+891,Fuso,sv
+891,Fuso,en
+892,Mitsubishi-Frankia,sv
+892,Mitsubishi-Frankia,en
+893,Mitsubishi-Kato,sv
+893,Mitsubishi-Kato,en
+894,Mitsubishi-Hymer,sv
+894,Mitsubishi-Hymer,en
+895,Mitsubishi-Tadano,sv
+895,Mitsubishi-Tadano,en
+896,AWE,sv
+896,AWE,en
+897,Wartburg,sv
+897,Wartburg,en
+898,Mitsubishi-Foster-Day,sv
+898,Mitsubishi-Foster-Day,en
+899,Nissan-Tadano,sv
+899,Nissan-Tadano,en
+900,Nissan,sv
+900,Nissan,en
+901,Isuzu,sv
+901,Isuzu,en
+902,Mazda,sv
+902,Mazda,en
+903,Mitsubishi,sv
+903,Mitsubishi,en
+904,Colt,sv
+904,Colt,en
+905,Toyota,sv
+905,Toyota,en
+906,Kawasaki,sv
+906,Kawasaki,en
+907,Yamaha,sv
+907,Yamaha,en
+908,Honda,sv
+908,Honda,en
+909,AJS,sv
+909,AJS,en
+910,Ancillotti,sv
+910,Ancillotti,en
+911,Daihatsu,sv
+911,Daihatsu,en
+912,Suzuki,sv
+912,Suzuki,en
+913,Aprilia,sv
+913,Aprilia,en
+914,Subaru,sv
+914,Subaru,en
+915,Benelli,sv
+915,Benelli,en
+916,Beta,sv
+916,Beta,en
+917,Bimota,sv
+917,Bimota,en
+918,Bimota-Kawasaki,sv
+918,Bimota-Kawasaki,en
+919,BSA,sv
+919,BSA,en
+920,Bultaco,sv
+920,Bultaco,en
+921,Cagiva,sv
+921,Cagiva,en
+922,Can-Am,sv
+922,Can-Am,en
+923,Crescent,sv
+923,Crescent,en
+924,CZ,sv
+924,CZ,en
+925,Ducati,sv
+925,Ducati,en
+926,Elektron,sv
+926,Elektron,en
+927,Enfield,sv
+927,Enfield,en
+928,Erkkola,sv
+928,Erkkola,en
+929,Fantic,sv
+929,Fantic,en
+930,Frigerio-Puch,sv
+930,Frigerio-Puch,en
+931,Harley-Davidson,sv
+931,Harley-Davidson,en
+932,Hercules,sv
+932,Hercules,en
+933,HRD,sv
+933,HRD,en
+934,Husqvarna,sv
+934,Husqvarna,en
+935,IC,sv
+935,IC,en
+936,Jawa,sv
+936,Jawa,en
+937,Kreidler,sv
+937,Kreidler,en
+938,KTM,sv
+938,KTM,en
+939,KTM-Penton,sv
+939,KTM-Penton,en
+940,Lambretta,sv
+940,Lambretta,en
+941,Lambro,sv
+941,Lambro,en
+942,Laverda,sv
+942,Laverda,en
+943,Maico,sv
+943,Maico,en
+944,Malanca,sv
+944,Malanca,en
+945,Matchless,sv
+945,Matchless,en
+946,Minsk,sv
+946,Minsk,en
+947,Monark,sv
+947,Monark,en
+948,Montesa,sv
+948,Montesa,en
+949,Moto Guzzi,sv
+949,Moto Guzzi,en
+950,Motobecane,sv
+950,Motobecane,en
+951,MV Agusta,sv
+951,MV Agusta,en
+952,MZ,sv
+952,MZ,en
+953,Norton,sv
+953,Norton,en
+954,Ossa,sv
+954,Ossa,en
+955,SWM,sv
+955,SWM,en
+956,TM,sv
+956,TM,en
+957,Ural,sv
+957,Ural,en
+958,Vespa,sv
+958,Vespa,en
+959,Vincent Hrd,sv
+959,Vincent Hrd,en
+960,Winha,sv
+960,Winha,en
+961,Zundapp,sv
+961,Zundapp,en
+962,BFG,sv
+962,BFG,en
+963,Gilera,sv
+963,Gilera,en
+964,Jawa-CZ,sv
+964,Jawa-CZ,en
+965,Tula,sv
+965,Tula,en
+966,Daelim,sv
+966,Daelim,en
+967,Kobelco,sv
+967,Kobelco,en
+968,Bajaj,sv
+968,Bajaj,en
+969,Itteco,sv
+969,Itteco,en
+970,Derbi,sv
+970,Derbi,en
+971,Secma,sv
+971,Secma,en
+972,Kymco,sv
+972,Kymco,en
+973,Sachs,sv
+973,Sachs,en
+974,Rieju,sv
+974,Rieju,en
+975,Bombardier,sv
+975,Bombardier,en
+976,Moto Morini,sv
+976,Moto Morini,en
+977,Thomas,sv
+977,Thomas,en
+978,Tgab,sv
+978,Tgab,en
+979,Royal Enfield,sv
+979,Royal Enfield,en
+980,Irbit Motorcycle Plant,sv
+980,Irbit Motorcycle Plant,en
+981,Sky Team,sv
+981,Sky Team,en
+982,Triton,sv
+982,Triton,en
+983,Skygo,sv
+983,Skygo,en
+984,Thule,sv
+984,Thule,en
+985,Beyond,sv
+985,Beyond,en
+986,Sanli,sv
+986,Sanli,en
+987,MTZ,sv
+987,MTZ,en
+988,Roxon,sv
+988,Roxon,en
+989,Moto Zeta,sv
+989,Moto Zeta,en
+990,Datsun-Nissan,sv
+990,Datsun-Nissan,en
+991,Datsun,sv
+991,Datsun,en
+992,Pagsta,sv
+992,Pagsta,en
+993,Pronar,sv
+993,Pronar,en
+994,Dinli,sv
+994,Dinli,en
+995,TGB,sv
+995,TGB,en
+996,Sherco,sv
+996,Sherco,en
+997,Bashan,sv
+997,Bashan,en
+998,Mitsubishi Fuso,sv
+998,Mitsubishi Fuso,en
+999,Buell,sv
+999,Buell,en
+9999,Other,en
+AAA,Hsun,sv
+AAA,Hsun,en
+AAB,Masai,sv
+AAB,Masai,en
+AAC,Alutrailer,sv
+AAC,Alutrailer,en
+AAD,Quattro,sv
+AAD,Quattro,en
+AAE,Sanben,sv
+AAE,Sanben,en
+AAF,Veeroad,sv
+AAF,Veeroad,en
+AAG,Yuan,sv
+AAG,Yuan,en
+AAH,XGJAO,sv
+AAH,XGJAO,en
+AAI,Xingyue,sv
+AAI,Xingyue,en
+AAJ,ZhongNeng,sv
+AAJ,ZhongNeng,en
+AAK,JC,sv
+AAK,JC,en
+AAL,Gsmoon,sv
+AAL,Gsmoon,en
+AAM,Hensim,sv
+AAM,Hensim,en
+AAN,Jmstar,sv
+AAN,Jmstar,en
+AAO,IKH,sv
+AAO,IKH,en
+AAP,Odes,sv
+AAP,Odes,en
+AAQ,Generic Motor,sv
+AAQ,Generic Motor,en
+AAR,Buyang,sv
+AAR,Buyang,en
+AAS,Generic,sv
+AAS,Generic,en
+AAT,Jonway,sv
+AAT,Jonway,en
+AAU,Hummer,sv
+AAU,Hummer,en
+AAV,Street Elegance,sv
+AAV,Street Elegance,en
+AAX,Yamasaki,sv
+AAX,Yamasaki,en
+AAY,LBC,sv
+AAY,LBC,en
+AAZ,Zedka,sv
+AAZ,Zedka,en
+ABA,MTL,sv
+ABA,MTL,en
+ABB,Huatian,sv
+ABB,Huatian,en
+ABC,Motor Mania,sv
+ABC,Motor Mania,en
+ABD,Goes,sv
+ABD,Goes,en
+ABE,Polini Motori,sv
+ABE,Polini Motori,en
+ABF,Motorhispania/MHMotorcycle,sv
+ABF,Motorhispania/MHMotorcycle,en
+ABG,Znen,sv
+ABG,Znen,en
+ABH,Lingben,sv
+ABH,Lingben,en
+ABI,Campell,sv
+ABI,Campell,en
+ABJ,Cub Cadet,sv
+ABJ,Cub Cadet,en
+ABK,Shineray,sv
+ABK,Shineray,en
+1835,Pasquali,sv
+1835,Pasquali,en
+64,Vety-maakaasuseos,fi
+64,H2NG-blandning,sv
+64,H2NG,en
+1836,Tiki,fi
+1836,Tiki,sv
+1836,Tiki,en
+1837,Jaguar Land Rover Limited,fi
+1837,Jaguar Land Rover Limited,sv
+1837,Jaguar Land Rover Limited,en
+1838,Hisun,fi
+1838,Hisun,sv
+1838,Hisun,en
+1839,Apachi,fi
+1839,Apachi,sv
+1839,Apachi,en
+1840,Q-moto,fi
+1840,Q-moto,sv
+1840,Q-moto,en
+1842,Ichiban,fi
+1842,Ichiban,sv
+1842,Ichiban,en
+1843,Forsage,fi
+1843,Forsage,sv
+1843,Forsage,en
+1844,Crown,fi
+1844,Crown,sv
+1844,Crown,en
+1845,Omi,fi
+1845,Omi,sv
+1845,Omi,en
+1846,Fast Power,fi
+1846,Fast Power,sv
+1846,Fast Power,en
+1847,Nissamaran,fi
+1847,Nissamaran,sv
+1847,Nissamaran,en
+1848,Emu,fi
+1848,Emu,sv
+1848,Emu,en
+1849,Lapomotors,fi
+1849,Lapomotors,sv
+1849,Lapomotors,en
+1850,Stels,fi
+1850,Stels,sv
+1850,Stels,en
+1851,Dragon,fi
+1851,Dragon,sv
+1851,Dragon,en
+1852,Tiger,fi
+1852,Tiger,sv
+1852,Tiger,en
+1853,Dorado,fi
+1853,Dorado,sv
+1853,Dorado,en
+1854,Bgidge,fi
+1854,Bgidge,sv
+1854,Bgidge,en
+1855,Deer,fi
+1855,Deer,sv
+1855,Deer,en
+1856,Roketa,fi
+1856,Roketa,sv
+1856,Roketa,en
+1857,Karat,fi
+1857,Karat,sv
+1857,Karat,en
+1858,Skida,fi
+1858,Skida,sv
+1858,Skida,en
+1859,Tomoto,fi
+1859,Tomoto,sv
+1859,Tomoto,en
+1860,Akida,fi
+1860,Akida,sv
+1860,Akida,en
+1861,Ersi,fi
+1861,Ersi,sv
+1861,Ersi,en
+1862,Gorilla,fi
+1862,Gorilla,sv
+1862,Gorilla,en
+1863,Gatwalk,fi
+1863,Gatwalk,sv
+1863,Gatwalk,en
+1864,Fbv,fi
+1864,Fbv,sv
+1864,Fbv,en
+1865,Fox,fi
+1865,Fox,sv
+1865,Fox,en
+1866,Xrider,fi
+1866,Xrider,sv
+1866,Xrider,en
+1867,Karya,fi
+1867,Karya,sv
+1867,Karya,en
+1868,Sator,fi
+1868,Sator,sv
+1868,Sator,en
+1869,Sahsuvaroglu,fi
+1869,Sahsuvaroglu,sv
+1869,Sahsuvaroglu,en
+1870,Gospeed,fi
+1870,Gospeed,sv
+1870,Gospeed,en
+1871,Bisan,fi
+1871,Bisan,sv
+1871,Bisan,en
+1872,Bemigermany,fi
+1872,Bemigermany,sv
+1872,Bemigermany,en
+1873,Farr,fi
+1873,Farr,sv
+1873,Farr,en
+1874,Presto,fi
+1874,Presto,sv
+1874,Presto,en
+1875,Scorpion,fi
+1875,Scorpion,sv
+1875,Scorpion,en
+1876,Venstar,fi
+1876,Venstar,sv
+1876,Venstar,en
+1877,Takasiii,fi
+1877,Takasiii,sv
+1877,Takasiii,en
+1878,Zebra,fi
+1878,Zebra,sv
+1878,Zebra,en
+1879,Pantera,fi
+1879,Pantera,sv
+1879,Pantera,en
+1880,Monero,fi
+1880,Monero,sv
+1880,Monero,en
+1881,Blooberacellera,fi
+1881,Blooberacellera,sv
+1881,Blooberacellera,en
+1882,Raider,fi
+1882,Raider,sv
+1882,Raider,en
+1883,Redcat,fi
+1883,Redcat,sv
+1883,Redcat,en
+1884,Yuma,fi
+1884,Yuma,sv
+1884,Yuma,en
+1885,Kolpin,fi
+1885,Kolpin,sv
+1885,Kolpin,en
+1886,Vento,fi
+1886,Vento,sv
+1886,Vento,en
+1887,Bamx,fi
+1887,Bamx,sv
+1887,Bamx,en
+1888,Terra-moto,fi
+1888,Terra-moto,sv
+1888,Terra-moto,en
+1889,Isildar,fi
+1889,Isildar,sv
+1889,Isildar,en
+1890,Skyman,fi
+1890,Skyman,sv
+1890,Skyman,en
+1891,Saxxs,fi
+1891,Saxxs,sv
+1891,Saxxs,en
+1892,M-Partners,fi
+1892,M-Partners,sv
+1892,M-Partners,en
+1841,Kms,fi
+1841,Kms,sv
+1841,Kms,en
+1893,Yellorock,fi
+1893,Yellorock,sv
+1893,Yellorock,en
+1894,S4,fi
+1894,S4,sv
+1894,S4,en
+1895,Speed gear,fi
+1895,Speed gear,sv
+1895,Speed gear,en
+1896,Armadamoto,fi
+1896,Armadamoto,sv
+1896,Armadamoto,en
+1898,Asyamotor speed gear,fi
+1898,Asyamotor speed gear,sv
+1898,Asyamotor speed gear,en
+1899,Fliegl,fi
+1899,Fliegl,sv
+1899,Fliegl,en
+1900,Faymonville,fi
+1900,Faymonville,sv
+1900,Faymonville,en
+1901,Eduard,fi
+1901,Eduard,sv
+1901,Eduard,en
+1902,Unsinn,fi
+1902,Unsinn,sv
+1902,Unsinn,en
+1903,Boeco-Hoehns,fi
+1903,Boeco-Hoehns,sv
+1903,Boeco-Hoehns,en
+1904,Chatenet,fi
+1904,Chatenet,sv
+1904,Chatenet,en
+1905,Parator,fi
+1905,Parator,sv
+1905,Parator,en
+1906,Joko,fi
+1906,Joko,sv
+1906,Joko,en
+1907,Cheval Liberte,fi
+1907,Cheval Liberte,sv
+1907,Cheval Liberte,en
+1908,SFM,fi
+1908,SFM,sv
+1908,SFM,en
+1909,Moto Bellini,fi
+1909,Moto Bellini,sv
+1909,Moto Bellini,en
+1910,Hulco,fi
+1910,Hulco,sv
+1910,Hulco,en
+1911,Cuby,fi
+1911,Cuby,sv
+1911,Cuby,en
+1912,Ifor Williams,fi
+1912,Ifor Williams,sv
+1912,Ifor Williams,en
+1913,Pilkemaster,fi
+1913,Pilkemaster,sv
+1913,Pilkemaster,en
+1914,Govecs,fi
+1914,Govecs,sv
+1914,Govecs,en
+1915,Morgan,fi
+1915,Morgan,sv
+1915,Morgan,en
+1916,Brian James Trailers,fi
+1916,Brian James Trailers,sv
+1916,Brian James Trailers,en
+1917,Yanmar,fi
+1917,Yanmar,sv
+1917,Yanmar,en
+1918,Nox,fi
+1918,Nox,sv
+1918,Nox,en
+1919,Takeuchi,fi
+1919,Takeuchi,sv
+1919,Takeuchi,en
+1920,Nordic Tank,fi
+1920,Nordic Tank,sv
+1920,Nordic Tank,en
+1921,Dexter,fi
+1921,Dexter,sv
+1921,Dexter,en
+1922,Eckart,fi
+1922,Eckart,sv
+1922,Eckart,en
+1923,GS,fi
+1923,GS,sv
+1923,GS,en
+1924,Apex 2 Auto,fi
+1924,Apex 2 Auto,sv
+1924,Apex 2 Auto,en
+1925,Aisapoika,fi
+1925,Aisapoika,sv
+1925,Aisapoika,en
+1926,Equi-Trek Limited,fi
+1926,Equi-Trek Limited,sv
+1926,Equi-Trek Limited,en
+1927,Irmer & Elze,fi
+1927,Irmer & Elze,sv
+1927,Irmer & Elze,en
+1928,JJ-Trailer,fi
+1928,JJ-Trailer,sv
+1928,JJ-Trailer,en
+1929,Foton,fi
+1929,Foton,sv
+1929,Foton,en
+1930,Austin-Healey,fi
+1930,Austin-Healey,sv
+1930,Austin-Healey,en
+1931,Tysse,fi
+1931,Tysse,sv
+1931,Tysse,en
+1932,Terberg,fi
+1932,Terberg,sv
+1932,Terberg,en
+1933,Broshuis,fi
+1933,Broshuis,sv
+1933,Broshuis,en
+1934,Garia,fi
+1934,Garia,sv
+1934,Garia,en
+1935,Maxwagon,fi
+1935,Maxwagon,sv
+1935,Maxwagon,en
+1936,Edsel,fi
+1936,Edsel,sv
+1936,Edsel,en
+1937,Chihui,fi
+1937,Chihui,sv
+1937,Chihui,en
+1938,PWT,fi
+1938,PWT,sv
+1938,PWT,en
+1939,Weinsberg,fi
+1939,Weinsberg,sv
+1939,Weinsberg,en
+1940,Krukenmeier,fi
+1940,Krukenmeier,sv
+1940,Krukenmeier,en
+1941,Bianchi,fi
+1941,Bianchi,sv
+1941,Bianchi,en
+1942,Nek,fi
+1942,Nek,sv
+1942,Nek,en
+1943,WM Meyer Fahrzeugbau AG,fi
+1943,WM Meyer Fahrzeugbau AG,sv
+1943,WM Meyer Fahrzeugbau AG,en
+1944,Atec,fi
+1944,Atec,sv
+1944,Atec,en
+1945,Ironhorse,fi
+1945,Ironhorse,sv
+1945,Ironhorse,en
+1946,Norfrig,fi
+1946,Norfrig,sv
+1946,Norfrig,en
+1947,Chess,fi
+1947,Chess,sv
+1947,Chess,en
+1948,Storm,fi
+1948,Storm,sv
+1948,Storm,en
+1949,Jokke Trailers,fi
+1949,Jokke Trailers,sv
+1949,Jokke Trailers,en
+1950,Syland,fi
+1950,Syland,sv
+1950,Syland,en
+1951,Omme Lift a/s,fi
+1951,Omme Lift a/s,sv
+1951,Omme Lift a/s,en
+1952,Nooteboom,fi
+1952,Nooteboom,sv
+1952,Nooteboom,en
+1953,R.M.Trailers,fi
+1953,R.M.Trailers,sv
+1953,R.M.Trailers,en
+1954,LML,fi
+1954,LML,sv
+1954,LML,en
+1955,DT,fi
+1955,DT,sv
+1955,DT,en
+1956,Japa,fi
+1956,Japa,sv
+1956,Japa,en
+1957,HKM,fi
+1957,HKM,sv
+1957,HKM,en
+1958,VDL Berkhof,fi
+1958,VDL Berkhof,sv
+1958,VDL Berkhof,en
+1959,Rimor,fi
+1959,Rimor,sv
+1959,Rimor,en
+1960,Allard,fi
+1960,Allard,sv
+1960,Allard,en
+1961,Movetrailer,fi
+1961,Movetrailer,sv
+1961,Movetrailer,en
+1962,Spierings,fi
+1962,Spierings,sv
+1962,Spierings,en
+1963,Sical,fi
+1963,Sical,sv
+1963,Sical,en
+1964,MGB Delivery,fi
+1964,MGB Delivery,sv
+1964,MGB Delivery,en
+1965,Everun,fi
+1965,Everun,sv
+1965,Everun,en
+1966,Lovol,fi
+1966,Lovol,sv
+1966,Lovol,en
+1967,Europard,fi
+1967,Europard,sv
+1967,Europard,en
+1968,Eurotrack,fi
+1968,Eurotrack,sv
+1968,Eurotrack,en
+1969,Pol-Mot,fi
+1969,Pol-Mot,sv
+1969,Pol-Mot,en
+1970,Motec,fi
+1970,Motec,sv
+1970,Motec,en
+1971,Schäfer-Technic,fi
+1971,Schäfer-Technic,sv
+1971,Schäfer-Technic,en
+1972,AJP,fi
+1972,AJP,sv
+1972,AJP,en
+1973,Faresin,fi
+1973,Faresin,sv
+1973,Faresin,en
+1974,Foton POL-MOT,fi
+1974,Foton POL-MOT,sv
+1974,Foton POL-MOT,en
+1975,Stylson,fi
+1975,Stylson,sv
+1975,Stylson,en
+1976,Belgarda,fi
+1976,Belgarda,sv
+1976,Belgarda,en
+1977,Spitzer,fi
+1977,Spitzer,sv
+1977,Spitzer,en
+1978,Trouillet,fi
+1978,Trouillet,sv
+1978,Trouillet,en
+1979,JKS Products Ltd,fi
+1979,JKS Products Ltd,sv
+1979,JKS Products Ltd,en
+1980,Marathon,fi
+1980,Marathon,sv
+1980,Marathon,en
+1981,SBS Trailer,fi
+1981,SBS Trailer,sv
+1981,SBS Trailer,en
+1982,Koch,fi
+1982,Koch,sv
+1982,Koch,en
+1983,Allgaier,fi
+1983,Allgaier,sv
+1983,Allgaier,en
+1984,Tadano Faun,fi
+1984,Tadano Faun,sv
+1984,Tadano Faun,en
+1985,Packard,fi
+1985,Packard,sv
+1985,Packard,en
+1986,Hapert,fi
+1986,Hapert,sv
+1986,Hapert,en
+1987,Umesläp,fi
+1987,Umesläp,sv
+1987,Umesläp,en
+1988,Roves Caravan,fi
+1988,Roves Caravan,sv
+1988,Roves Caravan,en
+1989,Lambert,fi
+1989,Lambert,sv
+1989,Lambert,en
+1990,JLG,fi
+1990,JLG,sv
+1990,JLG,en
+1991,Muller,fi
+1991,Muller,sv
+1991,Muller,en
+1992,Beck,fi
+1992,Beck,sv
+1992,Beck,en
+1993,Joy,fi
+1993,Joy,sv
+1993,Joy,en
+1994,ASPT,fi
+1994,ASPT,sv
+1994,ASPT,en
+1995,Ingersoll-Rand,fi
+1995,Ingersoll-Rand,sv
+1995,Ingersoll-Rand,en
+1996,Ausa,fi
+1996,Ausa,sv
+1996,Ausa,en
+1997,Magni,fi
+1997,Magni,sv
+1997,Magni,en
+1998,Feldbinder,fi
+1998,Feldbinder,sv
+1998,Feldbinder,en
+1999,Kendon,fi
+1999,Kendon,sv
+1999,Kendon,en
+2000,Jinling,fi
+2000,Jinling,sv
+2000,Jinling,en
+2001,Övriga,fi
+2001,Övriga,sv
+2001,Övriga,en
+2002,Pfeifer,fi
+2002,Pfeifer,sv
+2002,Pfeifer,en
+2003,Binz,fi
+2003,Binz,sv
+2003,Binz,en
+2004,Fellechner,fi
+2004,Fellechner,sv
+2004,Fellechner,en
+2005,IZ,fi
+2005,IZ,sv
+2005,IZ,en
+2006,Max Trailer,fi
+2006,Max Trailer,sv
+2006,Max Trailer,en
+2007,Zorzi,fi
+2007,Zorzi,sv
+2007,Zorzi,en
+2008,HeatWork,fi
+2008,HeatWork,sv
+2008,HeatWork,en
+2009,Beyerland,fi
+2009,Beyerland,sv
+2009,Beyerland,en
+2010,Wacker Neuson,fi
+2010,Wacker Neuson,sv
+2010,Wacker Neuson,en
+2011,Master,fi
+2011,Master,sv
+2011,Master,en
+2012,Access Motor,fi
+2012,Access Motor,sv
+2012,Access Motor,en
+2013,Ohlmeier,fi
+2013,Ohlmeier,sv
+2013,Ohlmeier,en
+2014,Laika Caravans S.p.A.,fi
+2014,Laika Caravans S.p.A.,sv
+2014,Laika Caravans S.p.A.,en
+2015,CBS Remorques,fi
+2015,CBS Remorques,sv
+2015,CBS Remorques,en
+2016,JPM Trailers Limited,fi
+2016,JPM Trailers Limited,sv
+2016,JPM Trailers Limited,en
+2017,Palax,fi
+2017,Palax,sv
+2017,Palax,en
+2018,Grasshopper,fi
+2018,Grasshopper,sv
+2018,Grasshopper,en
+2019,Illusion,fi
+2019,Illusion,sv
+2019,Illusion,en
+2020,Regard,fi
+2020,Regard,sv
+2020,Regard,en
+2021,RHC,fi
+2021,RHC,sv
+2021,RHC,en
+2022,Kainuo,fi
+2022,Kainuo,sv
+2022,Kainuo,en
+2023,Partenheimer,fi
+2023,Partenheimer,sv
+2023,Partenheimer,en
+2024,Lefab,fi
+2024,Lefab,sv
+2024,Lefab,en
+2025,Boschung,fi
+2025,Boschung,sv
+2025,Boschung,en
+2026,Burg,fi
+2026,Burg,sv
+2026,Burg,en
+2027,Gray and Adams,fi
+2027,Gray and Adams,sv
+2027,Gray and Adams,en
+2028,TPV Trailers,fi
+2028,TPV Trailers,sv
+2028,TPV Trailers,en
+2029,Vaz,fi
+2029,Vaz,sv
+2029,Vaz,en
+1811,Pumarex,sv
+1811,Pumarex,en
+2030,Beelink,fi
+2030,Beelink,sv
+2030,Beelink,en
+2031,Online,fi
+2031,Online,sv
+2031,Online,en
+2032,Ribu-Trailer,fi
+2032,Ribu-Trailer,sv
+2032,Ribu-Trailer,en
+ABL,Farr Trapper,fi
+ABL,Farr Trapper,sv
+ABL,Farr Trapper,en
+2033,Witteveen,fi
+2033,Witteveen,sv
+2033,Witteveen,en
+2034,Compair,fi
+2034,Compair,sv
+2034,Compair,en
+2035,Böcker,fi
+2035,Böcker,sv
+2035,Böcker,en
+2036,Patulift,fi
+2036,Patulift,sv
+2036,Patulift,en
+2037,Tank Team,fi
+2037,Tank Team,sv
+2037,Tank Team,en
+2038,Sirius,fi
+2038,Sirius,sv
+2038,Sirius,en
+2039,Mersea,fi
+2039,Mersea,sv
+2039,Mersea,en
+2040,Mast,fi
+2040,Mast,sv
+2040,Mast,en
+2041,Hüffermann,fi
+2041,Hüffermann,sv
+2041,Hüffermann,en
+2042,Dulevo,fi
+2042,Dulevo,sv
+2042,Dulevo,en
+2043,Fahr,fi
+2043,Fahr,sv
+2043,Fahr,en
+2044,Kipa,fi
+2044,Kipa,sv
+2044,Kipa,en
+2045,Rekotrailer,fi
+2045,Rekotrailer,sv
+2045,Rekotrailer,en
+2046,Kytkentäsuoja,fi
+2046,Kytkentäsuoja,sv
+2046,Kytkentäsuoja,en
+2047,Larssons Släp,fi
+2047,Larssons Släp,sv
+2047,Larssons Släp,en
+2048,Tyllis,fi
+2048,Tyllis,sv
+2048,Tyllis,en
+2049,Nordic Tank Dolly,fi
+2049,Nordic Tank Dolly,sv
+2049,Nordic Tank Dolly,en
+2050,Ferqui,fi
+2050,Ferqui,sv
+2050,Ferqui,en
+2051,Trojan,fi
+2051,Trojan,sv
+2051,Trojan,en
+2052,Stokota,fi
+2052,Stokota,sv
+2052,Stokota,en
+2053,Jotha,fi
+2053,Jotha,sv
+2053,Jotha,en
+2054,Guangtong,fi
+2054,Guangtong,sv
+2054,Guangtong,en
+2055,Tesla Motors,fi
+2055,Tesla Motors,sv
+2055,Tesla Motors,en
+2056,Lööve,fi
+2056,Lööve,sv
+2056,Lööve,en
+2057,Knauz Azur,fi
+2057,Knauz Azur,sv
+2057,Knauz Azur,en
+2058,Carthago,fi
+2058,Carthago,sv
+2058,Carthago,en
+2059,Nilsson,fi
+2059,Nilsson,sv
+2059,Nilsson,en
+ABM,Car-S,fi
+ABM,Car-S,sv
+ABM,Car-S,en
+2060,Proloader,fi
+2060,Proloader,sv
+2060,Proloader,en
+2061,Rex,fi
+2061,Rex,sv
+2061,Rex,en
+2062,Paus,fi
+2062,Paus,sv
+2062,Paus,en
+2063,Nordberg,fi
+2063,Nordberg,sv
+2063,Nordberg,en
+2064,Lemminkäinen,fi
+2064,Lemminkäinen,sv
+2064,Lemminkäinen,en
+2065,Cectek,fi
+2065,Cectek,sv
+2065,Cectek,en
+2066,Denka,fi
+2066,Denka,sv
+2066,Denka,en
+2067,Gaupen,fi
+2067,Gaupen,sv
+2067,Gaupen,en
+2068,Heli,fi
+2068,Heli,sv
+2068,Heli,en
+2069,Höyrymestari,fi
+2069,Höyrymestari,sv
+2069,Höyrymestari,en
+2070,Rolfo,fi
+2070,Rolfo,sv
+2070,Rolfo,en
+2071,Steamrator,fi
+2071,Steamrator,sv
+2071,Steamrator,en
+2072,Moskva,fi
+2072,Moskva,sv
+2072,Moskva,en
+2073,Tecnokar Trailers,fi
+2073,Tecnokar Trailers,sv
+2073,Tecnokar Trailers,en
+2074,ABT,fi
+2074,ABT,sv
+2074,ABT,en
+2075,Renders,fi
+2075,Renders,sv
+2075,Renders,en
+2076,Lallintuote,fi
+2076,Lallintuote,sv
+2076,Lallintuote,en
+2077,Metsuri,fi
+2077,Metsuri,sv
+2077,Metsuri,en
+2078,Karelia,fi
+2078,Karelia,sv
+2078,Karelia,en
+2079,Elfving,fi
+2079,Elfving,sv
+2079,Elfving,en
+2080,LHY,fi
+2080,LHY,sv
+2080,LHY,en
+2081,Denka Lift,fi
+2081,Denka Lift,sv
+2081,Denka Lift,en
+2082,Kivisampo,fi
+2082,Kivisampo,sv
+2082,Kivisampo,en
+2083,Voimalaite,fi
+2083,Voimalaite,sv
+2083,Voimalaite,en
+2084,Johtokone,fi
+2084,Johtokone,sv
+2084,Johtokone,en
+2085,Nbluck,fi
+2085,Nbluck,sv
+2085,Nbluck,en
+2086,Goupil,fi
+2086,Goupil,sv
+2086,Goupil,en
+2087,Hellbound,fi
+2087,Hellbound,sv
+2087,Hellbound,en
+2088,FG Wilson,fi
+2088,FG Wilson,sv
+2088,FG Wilson,en
+2089,Anker,fi
+2089,Anker,sv
+2089,Anker,en
+2090,OKM,fi
+2090,OKM,sv
+2090,OKM,en
+2091,Nicolas,fi
+2091,Nicolas,sv
+2091,Nicolas,en
+2092,Marauder,fi
+2092,Marauder,sv
+2092,Marauder,en
+2093,Scania-Strömberg,fi
+2093,Scania-Strömberg,sv
+2093,Scania-Strömberg,en
+2094,Stutz,fi
+2094,Stutz,sv
+2094,Stutz,en
+2095,Saxi,fi
+2095,Saxi,sv
+2095,Saxi,en
+2096,Ginaf,fi
+2097,Swift,fi
+2098,Shengsong,fi
+2099,TIAB,fi
+2100,Prowler trailer,fi
+2101,Ten-Pek,fi
+2101,Ten-Pek,sv
+2101,Ten-Pek,en
+2102,Tron1,fi
+2102,Tron1,sv
+2102,Tron1,en
