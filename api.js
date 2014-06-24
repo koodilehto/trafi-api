@@ -14,13 +14,11 @@ module.exports = function(app) {
         next();
     });
 
-    initV1(app);
+    initV1(app, schemas);
 };
 
-function initV1(app) {
-    var api = rest(app, '/v1/', {
-        //libraries: schema // TODO
-    }, sugar);
+function initV1(app, schemas) {
+    var api = rest(app, '/v1/', schemas, sugar);
 
     api.pre(function() {
         // TODO: set limit to config.limit at max

@@ -3,11 +3,16 @@
 
 require('log-timestamp');
 
+var path = require('path');
+
+var async = require('async');
 var errorHandler = require('errorhandler');
 var express = require('express');
+var sugar = require('object-sugar');
 
 var config = require('./config');
 var api = require('./api');
+var loadData = require('./load_data');
 
 
 if(require.main === module) {
@@ -18,7 +23,13 @@ module.exports = main;
 function main() {
     handleExit();
 
-    serve(config, function(err) {
+    // start server before sync
+    serve(config);
+
+    async.series([
+        sugar.connect.bind(null, 'db'),
+        loadData.bind(null, path.join(__dirname, 'csv'))
+    ], function(err) {
         if(err) {
             return console.error(err);
         }
@@ -38,6 +49,8 @@ function handleExit() {
 }
 
 function serve(config, cb) {
+    cb = cb || noop;
+
     var app = express();
 
     var env = process.env.NODE_ENV || 'development';
@@ -73,3 +86,5 @@ function terminator(sig) {
 
     console.log('%s: Node server stopped.', Date(Date.now()) );
 }
+
+function noop() {}
