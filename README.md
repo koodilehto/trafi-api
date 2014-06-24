@@ -1,4 +1,4 @@
-[![build status](https://secure.travis-ci.org/bebraw/trafi-api.png)](http://travis-ci.org/bebraw/trafi-api)
+[![build status](https://secure.travis-ci.org/koodilehto/trafi-api.png)](http://travis-ci.org/koodilehto/trafi-api)
 # trafi-api
 
 API for [trafi vehicle dataset](http://www.trafi.fi/palvelut/avoin_data).
