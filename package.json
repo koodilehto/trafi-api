@@ -14,6 +14,7 @@
     "fast-csv": "^0.4.1",
     "glob": "^4.0.2",
     "log-timestamp": "^0.1.1",
+    "moment": "^2.7.0",
     "object-sugar": "^0.7.6",
     "parse-env": "^0.3.0",
     "require-dir": "^0.1.0",

@@ -26,13 +26,18 @@ function main() {
     // start server before sync
     serve(config);
 
+    console.log('Loading data');
+
     async.series([
         sugar.connect.bind(null, 'db'),
-        loadData.bind(null, path.join(__dirname, 'csv'))
+        loadData.registrations.bind(null, config.registrationPath),
+        loadData.csvs.bind(null, path.join(__dirname, 'csv'))
     ], function(err) {
         if(err) {
             return console.error(err);
         }
+
+        console.log('Data loaded');
     });
 }
 
