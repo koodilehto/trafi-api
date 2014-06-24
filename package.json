@@ -8,6 +8,7 @@
     "start": "./serve.js"
   },
   "dependencies": {
+    "annois": "^0.3.0",
     "async": "^0.9.0",
     "errorhandler": "^1.1.1",
     "express": "^4.4.4",
