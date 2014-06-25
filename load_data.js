@@ -32,7 +32,7 @@ function main() {
         console.log('Connected to database');
 
         async.series([
-            registrations.bind(null, config.registrationPath), // XXX: chokes with full dataset
+            registrations.bind(null, config.registrationPath),
             csvs.bind(null, path.join(__dirname, 'csv'))
         ], function(err) {
             if(err) {
@@ -49,26 +49,13 @@ function main() {
 function registrations(p, cb) {
     var schema = schemas.registrations;
 
-    var q = async.queue(function(task, cb) {
-        load('registrations', schema, task.data, cb);
-    }, 4);
-    q.drain = function() {
-        cb();
-    };
-
-    csv.readRegistrations(p, function(err, data) {
+    csv.readRegistrations(p, function(err, data, resumeCb) {
         if(err) {
             return cb(err);
         }
 
-        q.push({
-            data: data
-        }, function(err) {
-            if(err) {
-                return console.error(err);
-            }
-        });
-    });
+        load('registrations', schema, data, resumeCb);
+    }, cb);
 }
 
 function csvs(p, cb) {
@@ -79,27 +66,15 @@ function csvs(p, cb) {
 
         async.eachSeries(paths, function(p, cb) {
             var name = path.basename(p, path.extname(p));
+            var schema = schemas[name];
 
-            var q = async.queue(function(task, cb) {
-                load(name, schemas[name], task.data, cb);
-            }, 4);
-            q.drain = function() {
-                cb();
-            };
-
-            csv.read(p, function(err, data) {
+            csv.read(p, function(err, data, resumeCb) {
                 if(err) {
                     return cb(err);
                 }
 
-                q.push({
-                    data: data
-                }, function(err) {
-                    if(err) {
-                        return console.error(err);
-                    }
-                });
-            });
+                load(name, schema, data, resumeCb);
+            }, cb);
         }, cb);
     });
 }
