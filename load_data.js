@@ -33,7 +33,7 @@ function main() {
 
         async.series([
             registrations.bind(null, config.registrationPath),
-            csvs.bind(null, path.join(__dirname, 'csv'))
+            //csvs.bind(null, path.join(__dirname, 'csv'))
         ], function(err) {
             if(err) {
                 return console.error(err);
